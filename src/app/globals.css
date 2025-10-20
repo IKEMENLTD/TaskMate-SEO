@@ -1,78 +1,474 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ==========================================
+   緑系統一のカラーパレット - TaskMateAI
+   ========================================== */
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* メインカラー: 緑系 */
+  --color-primary: #10b981; /* Emerald 500 */
+  --color-primary-dark: #059669; /* Emerald 600 */
+  --color-primary-light: #34d399; /* Emerald 400 */
+  --color-primary-lighter: #d1fae5; /* Emerald 100 */
+
+  /* アクセントカラー: 深緑 */
+  --color-accent: #047857; /* Emerald 700 */
+  --color-accent-dark: #065f46; /* Emerald 800 */
+
+  /* 背景色 */
+  --color-bg: #ffffff;
+  --color-bg-secondary: #f0fdf4; /* Green 50 */
+  --color-bg-tertiary: #dcfce7; /* Green 100 */
+
+  /* テキストカラー */
+  --color-text: #171717;
+  --color-text-secondary: #525252;
+  --color-text-muted: #737373;
+
+  /* ボーダー */
+  --color-border: #e5e5e5;
+  --color-border-green: #a7f3d0; /* Emerald 200 */
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans JP", sans-serif;
+  line-height: 1.6;
+  color: var(--color-text);
+  background: var(--color-bg);
 }
 
+/* ==========================================
+   Glassmorphism エフェクト
+   ========================================== */
+
+.glass-card {
+  background: rgba(16, 185, 129, 0.05);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(16, 185, 129, 0.1);
+  border-radius: 16px;
+  box-shadow: 0 8px 32px 0 rgba(16, 185, 129, 0.1);
+}
+
+.glass-card-hover {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.glass-card-hover:hover {
+  background: rgba(16, 185, 129, 0.08);
+  border-color: rgba(16, 185, 129, 0.2);
+  box-shadow: 0 12px 48px 0 rgba(16, 185, 129, 0.15);
+  transform: translateY(-2px);
+}
+
+/* ==========================================
+   Neumorphism エフェクト
+   ========================================== */
+
+.neumorphic {
+  background: #f0fdf4;
+  box-shadow:
+    8px 8px 16px rgba(5, 150, 105, 0.1),
+    -8px -8px 16px rgba(255, 255, 255, 0.9);
+  border-radius: 20px;
+  transition: all 0.3s ease;
+}
+
+.neumorphic:hover {
+  box-shadow:
+    12px 12px 24px rgba(5, 150, 105, 0.12),
+    -12px -12px 24px rgba(255, 255, 255, 1);
+}
+
+.neumorphic-inset {
+  background: #f0fdf4;
+  box-shadow:
+    inset 6px 6px 12px rgba(5, 150, 105, 0.1),
+    inset -6px -6px 12px rgba(255, 255, 255, 0.9);
+  border-radius: 16px;
+}
+
+/* ==========================================
+   グラデーションエフェクト
+   ========================================== */
+
+.gradient-green {
+  background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+}
+
+.gradient-green-light {
+  background: linear-gradient(135deg, #d1fae5 0%, #a7f3d0 100%);
+}
+
+.gradient-text {
+  background: linear-gradient(135deg, #10b981 0%, #047857 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ==========================================
+   ボタンスタイル
+   ========================================== */
+
+.btn-primary {
+  background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 12px;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 16px rgba(16, 185, 129, 0.3);
+}
+
+.btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(16, 185, 129, 0.4);
+}
+
+.btn-outline {
+  background: transparent;
+  color: var(--color-primary);
+  padding: 0.75rem 1.5rem;
+  border-radius: 12px;
+  font-weight: 600;
+  border: 2px solid var(--color-primary);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.btn-outline:hover {
+  background: var(--color-primary);
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(16, 185, 129, 0.3);
+}
+
+/* ==========================================
+   記事カードスタイル
+   ========================================== */
+
+.article-card {
+  background: white;
+  border-radius: 20px;
+  overflow: hidden;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  border: 1px solid var(--color-border);
+  position: relative;
+}
+
+.article-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, #10b981 0%, #059669 50%, #047857 100%);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.4s ease;
+}
+
+.article-card:hover::before {
+  transform: scaleX(1);
+}
+
+.article-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 48px rgba(16, 185, 129, 0.15);
+  border-color: var(--color-border-green);
+}
+
+/* ==========================================
+   記事コンテンツのスタイル
+   ========================================== */
+
 .markdown-content {
+  font-size: clamp(1rem, 1.05vw, 1.125rem);
   line-height: 1.8;
+  color: var(--color-text-secondary);
 }
 
 .markdown-content h1 {
-  font-size: 2rem;
-  font-weight: bold;
-  margin-top: 2rem;
-  margin-bottom: 1rem;
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 800;
+  margin-top: 4rem;
+  margin-bottom: 1.5rem;
+  line-height: 1.1;
+  background: linear-gradient(135deg, #10b981 0%, #047857 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.markdown-content h1:first-child {
+  margin-top: 0;
 }
 
 .markdown-content h2 {
-  font-size: 1.5rem;
-  font-weight: bold;
-  margin-top: 1.5rem;
-  margin-bottom: 0.75rem;
+  font-size: clamp(1.5rem, 3vw, 1.875rem);
+  font-weight: 700;
+  margin-top: 3rem;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 3px solid var(--color-primary);
+  color: var(--color-text);
+  position: relative;
+}
+
+.markdown-content h2::after {
+  content: '';
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+  width: 60px;
+  height: 3px;
+  background: var(--color-accent);
+  border-radius: 2px;
 }
 
 .markdown-content h3 {
-  font-size: 1.25rem;
-  font-weight: bold;
-  margin-top: 1.25rem;
-  margin-bottom: 0.5rem;
+  font-size: clamp(1.25rem, 2.5vw, 1.5rem);
+  font-weight: 600;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  color: var(--color-text);
+  padding-left: 1rem;
+  border-left: 4px solid var(--color-primary);
+}
+
+.markdown-content h4 {
+  font-size: clamp(1.125rem, 2vw, 1.25rem);
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  color: var(--color-primary-dark);
 }
 
 .markdown-content p {
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
+  color: var(--color-text-secondary);
+}
+
+.markdown-content strong {
+  font-weight: 700;
+  color: var(--color-primary-dark);
+  background: linear-gradient(180deg, transparent 60%, #d1fae5 60%);
+  padding: 0 0.25rem;
+}
+
+.markdown-content a {
+  color: var(--color-primary);
+  text-decoration: none;
+  border-bottom: 2px solid var(--color-primary-lighter);
+  transition: all 0.2s ease;
+  font-weight: 600;
+}
+
+.markdown-content a:hover {
+  color: var(--color-accent);
+  border-bottom-color: var(--color-primary);
+  background: var(--color-primary-lighter);
 }
 
 .markdown-content ul,
 .markdown-content ol {
-  margin-left: 1.5rem;
-  margin-bottom: 1rem;
+  margin-left: 2rem;
+  margin-bottom: 1.5rem;
+  color: var(--color-text-secondary);
 }
 
 .markdown-content li {
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.75rem;
+  padding-left: 0.5rem;
+  line-height: 1.8;
+}
+
+.markdown-content li::marker {
+  color: var(--color-primary);
+  font-weight: bold;
+}
+
+.markdown-content blockquote {
+  border-left: 4px solid var(--color-primary);
+  padding: 1.5rem;
+  margin: 2rem 0;
+  background: linear-gradient(90deg, #f0fdf4 0%, #ffffff 10%, #ffffff 100%);
+  border-radius: 0.75rem;
+  font-style: italic;
+  color: var(--color-text-secondary);
+  box-shadow: 0 4px 16px rgba(16, 185, 129, 0.08);
 }
 
 .markdown-content code {
-  background-color: #f4f4f4;
-  padding: 0.2rem 0.4rem;
-  border-radius: 0.25rem;
-  font-family: monospace;
+  background: var(--color-primary-lighter);
+  color: var(--color-accent-dark);
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.375rem;
+  font-family: "SF Mono", "Consolas", "Monaco", monospace;
+  font-size: 0.9em;
+  font-weight: 600;
+  border: 1px solid var(--color-border-green);
 }
 
 .markdown-content pre {
-  background-color: #f4f4f4;
-  padding: 1rem;
-  border-radius: 0.5rem;
+  background: linear-gradient(135deg, #064e3b 0%, #065f46 100%);
+  padding: 1.5rem;
+  border-radius: 0.75rem;
   overflow-x: auto;
-  margin-bottom: 1rem;
+  margin: 2rem 0;
+  box-shadow: 0 8px 24px rgba(16, 185, 129, 0.15);
 }
 
 .markdown-content pre code {
-  background-color: transparent;
+  background: transparent;
   padding: 0;
+  color: #d1fae5;
+  font-size: 0.875rem;
+  line-height: 1.7;
+  font-weight: 400;
+  border: none;
+}
+
+.markdown-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 1rem;
+  margin: 2.5rem 0;
+  box-shadow: 0 8px 24px rgba(16, 185, 129, 0.1);
+}
+
+.markdown-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2rem 0;
+  border-radius: 0.75rem;
+  overflow: hidden;
+  box-shadow: 0 4px 16px rgba(16, 185, 129, 0.08);
+}
+
+.markdown-content th {
+  padding: 1rem 1.25rem;
+  text-align: left;
+  font-weight: 600;
+  background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+  color: white;
+  font-size: 0.875rem;
+}
+
+.markdown-content td {
+  padding: 1rem 1.25rem;
+  border-bottom: 1px solid var(--color-border);
+  color: var(--color-text-secondary);
+}
+
+.markdown-content tbody tr:hover {
+  background-color: var(--color-bg-secondary);
+}
+
+/* ==========================================
+   アニメーション
+   ========================================== */
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+@keyframes pulse-green {
+  0%, 100% {
+    box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.4);
+  }
+  50% {
+    box-shadow: 0 0 0 10px rgba(16, 185, 129, 0);
+  }
+}
+
+.pulse-green {
+  animation: pulse-green 2s infinite;
+}
+
+/* ==========================================
+   レスポンシブ
+   ========================================== */
+
+@media (max-width: 640px) {
+  .markdown-content {
+    font-size: 1rem;
+  }
+
+  .markdown-content h1 {
+    font-size: 2rem;
+    margin-top: 2rem;
+  }
+
+  .markdown-content h2 {
+    font-size: 1.5rem;
+    margin-top: 2rem;
+  }
+
+  .markdown-content h3 {
+    font-size: 1.25rem;
+    margin-top: 1.5rem;
+  }
+
+  .markdown-content blockquote {
+    padding: 1rem;
+    margin: 1.5rem 0;
+  }
+
+  .markdown-content pre {
+    padding: 1rem;
+    font-size: 0.875rem;
+  }
+}
+
+/* ==========================================
+   ユーティリティクラス
+   ========================================== */
+
+.container-green {
+  background: var(--color-bg-secondary);
+  border-radius: 24px;
+  padding: 2rem;
+  box-shadow: 0 4px 16px rgba(16, 185, 129, 0.08);
+}
+
+.badge-green {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.375rem 0.875rem;
+  background: var(--color-primary-lighter);
+  color: var(--color-accent-dark);
+  border-radius: 9999px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  border: 1px solid var(--color-border-green);
+}
+
+.divider-green {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--color-primary), transparent);
+  margin: 2rem 0;
 }
