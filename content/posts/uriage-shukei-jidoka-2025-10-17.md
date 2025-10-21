@@ -14,7 +14,7 @@ keywords: ["売上集計", "時間がかかる", "GAS", "VBA", "マクロ", "自
 
 もしあなたの時給が2,000円だとすると、年間で144万〜192万円分の時間を、単純な集計作業に費やしていることになるのです。
 
-![売上集計に時間がかかる様子](https://example.com/sales-aggregation-time-consuming.jpg)
+![売上集計に時間がかかる様子](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80)
 
 ### 売上集計業務の典型的な問題点
 
@@ -54,7 +54,7 @@ Google Apps Script（GAS）は、Googleが提供する無料のスクリプト�
    - スプレッドシートの編集時に実行
    - フォーム送信時に実行
 
-![GASの連携イメージ](https://example.com/gas-integration-diagram.jpg)
+![GASの連携イメージ](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&q=80)
 
 ### ExcelのVBAとの比較
 
@@ -200,7 +200,7 @@ function aggregateSalesData() {
    - 時刻：午前8時〜9時
 4. 同様に`aggregateSalesData`関数のトリガーも設定（午前9時〜10時）
 
-![GASトリガー設定画面](https://example.com/gas-trigger-settings.jpg)
+![GASトリガー設定画面](https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&q=80)
 
 これで、毎日自動的にデータの取り込みと集計が行われるようになります。
 

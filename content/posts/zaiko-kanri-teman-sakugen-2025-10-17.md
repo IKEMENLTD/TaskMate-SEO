@@ -16,7 +16,7 @@ keywords: ["在庫管理", "手間", "削減", "在庫管理システム", "自�
 
 これは、年間で780〜1,040時間。一人の従業員の労働時間の約半分に相当します。
 
-![エクセル在庫管理で困る様子](https://example.com/excel-inventory-management-problems.jpg)
+![エクセル在庫管理で困る様子](https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=1200&q=80)
 
 ### エクセル在庫管理の典型的な問題
 
@@ -65,7 +65,7 @@ keywords: ["在庫管理", "手間", "削減", "在庫管理システム", "自�
 - 欠品による機会損失：売上の2〜3%改善
 - 人件費削減：月40〜60時間の工数削減
 
-![在庫管理システム導入効果](https://example.com/inventory-system-benefits.jpg)
+![在庫管理システム導入効果](https://images.unsplash.com/photo-1553413077-190dd305871c?w=1200&q=80)
 
 ### エクセルから脱却すべき3つの理由
 
@@ -243,7 +243,7 @@ keywords: ["在庫管理", "手間", "削減", "在庫管理システム", "自�
 - 新システムのフォーマットに合わせた整形
 - テストデータでの移行確認
 
-![データ移行のイメージ](https://example.com/data-migration-process.jpg)
+![データ移行のイメージ](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80)
 
 ### ステップ4：システム設定とテスト（2〜3週間）
 

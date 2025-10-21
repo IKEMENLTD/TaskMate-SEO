@@ -16,7 +16,7 @@ keywords: ["データ入力", "時間短縮", "データ入力", "自動化", "R
 
 週15時間は、1日3時間に相当します。つまり、**業務時間の37.5%をデータ入力に費やしている**計算になります。
 
-![データ入力作業に追われる様子](https://example.com/data-entry-work-overwhelmed.jpg)
+![データ入力作業に追われる様子](https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&q=80)
 
 ### データ入力作業の典型的なパターン
 
@@ -89,7 +89,7 @@ keywords: ["データ入力", "時間短縮", "データ入力", "自動化", "R
 - 名刺入力：1件3分→1件10秒（94%削減）
 - 精度：人間の入力と同等以上
 
-![OCRによる自動読み取り](https://example.com/ocr-automation-process.jpg)
+![OCRによる自動読み取り](https://images.unsplash.com/photo-1554224311-beee460c201f?w=1200&q=80)
 
 **実装例：Google Cloud Vision APIを使った請求書読み取り**
 
@@ -224,7 +224,7 @@ function extractInvoiceData() {
 
 このような連携が、プログラミング不要で実現できます。
 
-![API連携のイメージ](https://example.com/api-integration-diagram.jpg)
+![API連携のイメージ](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80)
 
 ### 方法4：CSV/Excel一括インポート機能の活用
 
@@ -404,7 +404,7 @@ function isValidDate(dateString) {
 - データ入力作業の70%以上を自動化
 - 週15時間以上の工数削減
 
-![導入ロードマップ](https://example.com/automation-roadmap.jpg)
+![導入ロードマップ](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80)
 
 ## 実際の導入事例｜4社の成功ストーリー
 

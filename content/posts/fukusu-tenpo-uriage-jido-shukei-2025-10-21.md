@@ -23,7 +23,7 @@ keywords: ["複数店舗", "売上", "まとめ方", "複数店舗", "売上管�
 
 5店舗を展開している企業の場合、月間で100〜180時間。これは、**1人の従業員の半分以上の労働時間**に相当します。
 
-![複数店舗の売上集計に追われる様子](https://example.com/multi-store-sales-aggregation-overwhelmed.jpg)
+![複数店舗の売上集計に追われる様子](https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=1200&q=80)
 
 ### 複数店舗の売上管理が難しい5つの理由
 
@@ -83,7 +83,7 @@ keywords: ["複数店舗", "売上", "まとめ方", "複数店舗", "売上管�
 - データに基づく迅速な意思決定
 - 店舗間のベストプラクティス共有
 
-![自動集計システムの効果](https://example.com/auto-aggregation-benefits.jpg)
+![自動集計システムの効果](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80)
 
 ### 成功企業の共通点
 
@@ -170,7 +170,7 @@ keywords: ["複数店舗", "売上", "まとめ方", "複数店舗", "売上管�
 **5. ダッシュボードシート**
 グラフとサマリー情報
 
-![スプレッドシート構成](https://example.com/spreadsheet-structure.jpg)
+![スプレッドシート構成](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&q=80)
 
 ### ステップ3：データ収集の自動化スクリプト
 
@@ -504,7 +504,7 @@ function sendSlackNotification() {
 
 これで、毎朝自動的に前日の売上が集計され、レポートが作成・通知されます。
 
-![自動化フロー](https://example.com/automation-flow-diagram.jpg)
+![自動化フロー](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80)
 
 ## 実際の導入事例｜3社の成功ストーリー
 

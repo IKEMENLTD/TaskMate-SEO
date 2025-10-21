@@ -16,7 +16,7 @@ keywords: ["毎日同じ作業", "自動化", "ルーティン業務", "自動�
 
 さらに深刻なのは、**ルーティン業務の85%は自動化可能**だということです。つまり、多くの人が、自動化できる作業に貴重な時間を奪われているのです。
 
-![ルーティン業務に追われる様子](https://example.com/routine-work-overwhelmed.jpg)
+![ルーティン業務に追われる様子](https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200&q=80)
 
 ### 典型的なルーティン業務とは？
 
@@ -77,7 +77,7 @@ keywords: ["毎日同じ作業", "自動化", "ルーティン業務", "自動�
 - ミス発生率：ほぼゼロ
 - 常に同じ品質を維持
 
-![ヒューマンエラーの削減](https://example.com/human-error-reduction.jpg)
+![ヒューマンエラーの削減](https://images.unsplash.com/photo-1553413077-190dd305871c?w=1200&q=80)
 
 ### 3. 生産性の劇的向上
 
@@ -241,7 +241,7 @@ ${ss.getUrl()}
 - 週次レポート作成：1時間→自動化により0分
 - 月間4時間の削減
 
-![GASの活用例](https://example.com/gas-automation-examples.jpg)
+![GASの活用例](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80)
 
 ### 方法3：ノーコードツール（Zapier、Make）
 
@@ -418,7 +418,7 @@ End Sub
 4. 実施
 5. 効果測定
 
-![自動化のロードマップ](https://example.com/automation-roadmap.jpg)
+![自動化のロードマップ](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80)
 
 ## 実際の導入事例｜5社の成功ストーリー
 

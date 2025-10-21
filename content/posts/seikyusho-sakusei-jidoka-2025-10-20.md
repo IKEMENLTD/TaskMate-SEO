@@ -24,7 +24,7 @@ keywords: ["請求書作成", "効率化", "請求書自動作成", "スプレ�
 
 このような作業に、あなたの貴重な時間と労力が費やされています。
 
-![月末請求書作成で残業する様子](https://example.com/invoice-creation-overtime.jpg)
+![月末請求書作成で残業する様子](https://images.unsplash.com/photo-1554224311-beee460c201f?w=1200&q=80)
 
 ### 請求書作成業務の典型的な課題
 
@@ -73,7 +73,7 @@ keywords: ["請求書作成", "効率化", "請求書自動作成", "スプレ�
 - ミス対応工数：月4〜6時間→ゼロ
 - **年間で50〜80万円のコスト削減**
 
-![請求書自動化の効果](https://example.com/invoice-automation-benefits.jpg)
+![請求書自動化の効果](https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&q=80)
 
 ### 自動化で得られる3つの価値
 
@@ -410,7 +410,7 @@ Tel: 03-xxxx-xxxx`;
    - `createInvoicePDFs`: 毎月1日 午前10時
    - `sendInvoiceEmails`: 毎月1日 午前11時
 
-![GASトリガー設定](https://example.com/gas-trigger-invoice.jpg)
+![GASトリガー設定](https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?w=1200&q=80)
 
 これで、毎月1日に自動的に前月分の請求書が作成・送付されます。
 

@@ -16,7 +16,7 @@ keywords: ["月末", "残業", "減らしたい", "経理業務", "自動化", "
 
 これは年間で180〜300時間の残業。丸々1〜2ヶ月分の労働時間に相当します。
 
-![月末残業で疲れた様子](https://example.com/month-end-overtime-tired.jpg)
+![月末残業で疲れた様子](https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200&q=80)
 
 ### 月末残業が発生する5つの理由
 
@@ -95,7 +95,7 @@ keywords: ["月末", "残業", "減らしたい", "経理業務", "自動化", "
 - 送付ミス：ゼロに
 - 郵送費削減
 
-![請求書自動化のイメージ](https://example.com/invoice-automation-flow.jpg)
+![請求書自動化のイメージ](https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80)
 
 ### ポイント3：経費精算の自動化（削減時間：2〜4時間）
 
@@ -273,7 +273,7 @@ keywords: ["月末", "残業", "減らしたい", "経理業務", "自動化", "
 - マネーフォワードクラウド給与（有料、月額2,980円〜）
 - ジョブカン給与計算（有料、月額400円/人〜）
 
-![自動化ツールの選定](https://example.com/automation-tools-selection.jpg)
+![自動化ツールの選定](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&q=80)
 
 ### ステップ4：パイロット導入（所要時間：2〜4週間）
 
