@@ -1,0 +1,100 @@
+name: Auto Generate and Publish Blog Article
+
+on:
+  # 毎日午前9時（日本時間）に自動実行
+  schedule:
+    - cron: '0 0 * * *'  # UTC 0:00 = JST 9:00
+
+  # 手動実行も可能（GitHubのActionsタブから）
+  workflow_dispatch:
+    inputs:
+      date:
+        description: '記事の日付 (YYYY-MM-DD, 空欄で今日)'
+        required: false
+        type: string
+      topic:
+        description: 'トピック指定（オプション）'
+        required: false
+        type: string
+
+jobs:
+  generate-and-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. リポジトリをチェックアウト
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. Node.js環境をセットアップ
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # 3. 依存関係をインストール
+      - name: Install dependencies
+        run: |
+          npm install
+          npm install @anthropic-ai/sdk
+
+      # 4. 記事生成スクリプトを実行
+      - name: Generate new article
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          INPUT_DATE: ${{ github.event.inputs.date }}
+          INPUT_TOPIC: ${{ github.event.inputs.topic }}
+        run: |
+          node scripts/generate-article.js
+
+      # 5. 変更があるかチェック
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet && git diff --cached --quiet; then
+            echo "changes=false" >> $GITHUB_OUTPUT
+            echo "ℹ️  No new article generated (may already exist for today)"
+          else
+            echo "changes=true" >> $GITHUB_OUTPUT
+            echo "✅ New article generated successfully"
+          fi
+
+      # 6. Git設定
+      - name: Configure Git
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config user.name "TaskMate Blog Bot"
+          git config user.email "bot@taskmateai.net"
+
+      # 7. コミット & プッシュ
+      - name: Commit and push
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          DATE=$(date +'%Y-%m-%d')
+          git add content/posts/*.md
+          git commit -m "🤖 Auto-publish: New article for ${DATE}
+
+          Automatically generated and published by GitHub Actions
+
+          🤖 Generated with Claude Code
+          Co-Authored-By: TaskMate Bot <bot@taskmateai.net>"
+          git push
+
+      # 8. 成功通知
+      - name: Notify success
+        if: success() && steps.check_changes.outputs.changes == 'true'
+        run: |
+          echo "✅ New article published successfully!"
+          echo "Date: $(date +'%Y-%m-%d')"
+          echo "🚀 Netlify will auto-deploy in 2-3 minutes"
+          echo "📝 Check: https://elegant-gumdrop-9a983a.netlify.app/"
+
+      # 9. スキップ通知
+      - name: Notify skip
+        if: success() && steps.check_changes.outputs.changes == 'false'
+        run: |
+          echo "ℹ️  Article generation skipped"
+          echo "Reason: Article may already exist for today"
+          echo "Or: No available topics remaining"
