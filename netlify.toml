@@ -1,26 +1,16 @@
 # Netlify Configuration for TaskMate Blog
-# Static Next.js Export with /blog basePath
+# Static Next.js Export (deployed at root, accessed via /blog on main site)
 
 [build]
   command = "npm run build"
   publish = "out"
-  
+
 [build.environment]
   NODE_VERSION = "20"
   NPM_FLAGS = "--legacy-peer-deps"
 
-# Blog routing - internal redirects within this site
-[[redirects]]
-  from = "/blog/*"
-  to = "/blog/:splat"
-  status = 200
-  force = false
-
-[[redirects]]
-  from = "/blog"
-  to = "/blog/"
-  status = 200
-  force = false
+# このサイトはルートにデプロイされる
+# メインサイト (taskmateai.net) から /blog/* でアクセスされる
 
 # Security headers
 [[headers]]

@@ -1,8 +1,8 @@
 import type { NextConfig } from 'next'
 
 const nextConfig: NextConfig = {
-  basePath: '/blog',
-  assetPrefix: '/blog',
+  // basePath と assetPrefix を削除してルートにデプロイ
+  // Netlify側で /blog へのリダイレクトを設定
   trailingSlash: true,
   output: 'export',
 
