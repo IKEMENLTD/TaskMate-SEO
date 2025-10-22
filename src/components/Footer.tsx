@@ -103,20 +103,24 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <Link
-                  href="/"
+                <a
+                  href="https://ikemen.ltd/contact/"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="text-[var(--foreground-secondary)] hover:text-[var(--color-primary)] transition-colors"
                 >
                   お問い合わせ
-                </Link>
+                </a>
               </li>
               <li>
-                <Link
-                  href="/"
+                <a
+                  href="https://taskmateai.net/privacy"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="text-[var(--foreground-secondary)] hover:text-[var(--color-primary)] transition-colors"
                 >
                   プライバシーポリシー
-                </Link>
+                </a>
               </li>
             </ul>
           </div>
