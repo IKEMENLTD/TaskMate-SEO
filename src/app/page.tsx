@@ -10,12 +10,17 @@ export default function Home() {
     <>
       {/* ヒーローセクション */}
       <section className="relative gradient-green-light py-20 px-4 sm:px-6 lg:px-8 overflow-hidden">
-        <div className="absolute inset-0 opacity-10">
-          <div className="absolute inset-0" style={{
-            backgroundImage: 'radial-gradient(circle, #10b981 1px, transparent 1px)',
-            backgroundSize: '24px 24px'
-          }}></div>
-        </div>
+        {/* 背景動画 */}
+        <video
+          autoPlay
+          loop
+          muted
+          playsInline
+          className="absolute inset-0 w-full h-full object-cover"
+          style={{ opacity: 0.25 }}
+        >
+          <source src="/TOPMOVIE.mp4" type="video/mp4" />
+        </video>
         <div className="relative container mx-auto max-w-6xl">
           <div className="text-center animate-fade-in-up">
             <h1 className="text-5xl md:text-6xl font-bold mb-6">
