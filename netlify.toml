@@ -1,5 +1,4 @@
 # Netlify Configuration for TaskMate Blog
-# Static Next.js Export (deployed at root, accessed via /blog on main site)
 
 [build]
   command = "npm run build"
@@ -8,24 +7,6 @@
 [build.environment]
   NODE_VERSION = "20"
   NPM_FLAGS = "--legacy-peer-deps"
-
-# ===== リダイレクト設定（新規追加）=====
-# ルートにアクセスしたら /blog/ にリダイレクト
-[[redirects]]
-  from = "/"
-  to = "/blog/"
-  status = 301
-  force = true
-
-# その他のパスは /blog/* にリダイレクト
-[[redirects]]
-  from = "/*"
-  to = "/blog/:splat"
-  status = 301
-  force = true
-
-# このサイトはルートにデプロイされる
-# メインサイト (taskmateai.net) から /blog/* でアクセスされる
 
 # Security headers
 [[headers]]
@@ -38,17 +19,17 @@
     
 # Cache static assets aggressively
 [[headers]]
-  for = "/blog/_next/static/*"
+  for = "/_next/static/*"
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
 
 [[headers]]
-  for = "/blog/_next/image/*"
+  for = "/_next/image/*"
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
 
 # Cache HTML pages with shorter duration
 [[headers]]
-  for = "/blog/*.html"
+  for = "/*.html"
   [headers.values]
     Cache-Control = "public, max-age=3600, must-revalidate"
