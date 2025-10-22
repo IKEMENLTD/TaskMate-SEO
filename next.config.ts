@@ -1,13 +1,11 @@
 import type { NextConfig } from 'next'
 
 const nextConfig: NextConfig = {
-  // basePath と assetPrefix をコメントアウト
-  // basePath: '/blog',
-  // assetPrefix: '/blog',
+  basePath: '/blog',  // コメントアウトを解除
+  assetPrefix: '/blog',  // コメントアウトを解除
   
   trailingSlash: true,
   output: 'export',
-  
   compress: true,
   poweredByHeader: false,
   
