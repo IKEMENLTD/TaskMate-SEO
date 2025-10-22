@@ -1,20 +1,23 @@
 import type { NextConfig } from 'next'
 
 const nextConfig: NextConfig = {
-  // basePath と assetPrefix を削除してルートにデプロイ
-  // Netlify側で /blog へのリダイレクトを設定
+  // basePath と assetPrefix を追加
+  basePath: '/blog',
+  assetPrefix: '/blog',
+  
+  // 既存の設定はそのまま
   trailingSlash: true,
   output: 'export',
-
+  
   // パフォーマンス最適化
   compress: true,
   poweredByHeader: false,
-
+  
   // 画像最適化
   images: {
     unoptimized: true, // Static exportのため
   },
-
+  
   // webpack最適化
   webpack: (config, { dev, isServer }) => {
     // 本番環境でのバンドル最適化
@@ -38,8 +41,8 @@ const nextConfig: NextConfig = {
     }
     return config
   },
-
-  // 高速リフレッシュの改善
+  
+  // 基本リフレッシュの設定
   experimental: {
     optimizePackageImports: ['lucide-react'],
   },
