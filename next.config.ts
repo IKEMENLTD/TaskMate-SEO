@@ -1,26 +1,21 @@
 import type { NextConfig } from 'next'
 
 const nextConfig: NextConfig = {
-  // basePath と assetPrefix を追加
-  basePath: '/blog',
-  assetPrefix: '/blog',
+  // basePath と assetPrefix をコメントアウト
+  // basePath: '/blog',
+  // assetPrefix: '/blog',
   
-  // 既存の設定はそのまま
   trailingSlash: true,
   output: 'export',
   
-  // パフォーマンス最適化
   compress: true,
   poweredByHeader: false,
   
-  // 画像最適化
   images: {
-    unoptimized: true, // Static exportのため
+    unoptimized: true,
   },
   
-  // webpack最適化
   webpack: (config, { dev, isServer }) => {
-    // 本番環境でのバンドル最適化
     if (!dev && !isServer) {
       config.optimization = {
         ...config.optimization,
@@ -42,7 +37,6 @@ const nextConfig: NextConfig = {
     return config
   },
   
-  // 基本リフレッシュの設定
   experimental: {
     optimizePackageImports: ['lucide-react'],
   },
