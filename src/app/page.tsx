@@ -17,7 +17,7 @@ export default function Home() {
           muted
           playsInline
           className="absolute inset-0 w-full h-full object-cover"
-          style={{ opacity: 0.25 }}
+          style={{ opacity: 0.12 }}
         >
           <source src="/TOPMOVIE.mp4" type="video/mp4" />
         </video>
