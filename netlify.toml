@@ -9,6 +9,21 @@
   NODE_VERSION = "20"
   NPM_FLAGS = "--legacy-peer-deps"
 
+# ===== リダイレクト設定（新規追加）=====
+# ルートにアクセスしたら /blog/ にリダイレクト
+[[redirects]]
+  from = "/"
+  to = "/blog/"
+  status = 301
+  force = true
+
+# その他のパスは /blog/* にリダイレクト
+[[redirects]]
+  from = "/*"
+  to = "/blog/:splat"
+  status = 301
+  force = true
+
 # このサイトはルートにデプロイされる
 # メインサイト (taskmateai.net) から /blog/* でアクセスされる
 
