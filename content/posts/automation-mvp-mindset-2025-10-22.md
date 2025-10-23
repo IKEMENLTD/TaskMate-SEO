@@ -8,7 +8,7 @@ keywords: ["自動化 始め方 コツ", "スモールスタート", "段階的"
 
 ## 完璧なツールを作ろうとして、結局何も完成しない
 
-![MVPマインドセットのイメージ](https://placehold.co/800x400/8b5cf6/white?text=Small+Start+MVP)
+![MVPマインドセットのイメージ](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=400&fit=crop)
 
 ### 💡 自動化の意気込みと3ヶ月後の現実
 

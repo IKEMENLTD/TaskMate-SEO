@@ -6,7 +6,7 @@ description: "プログラミング初心者が最も恐れる「エラーメッ
 keywords: "プログラミング エラー 解決, エラー対処, AI修正, デバッグ, TaskMate, サポート"
 ---
 
-![エラー対処のイメージ](https://placehold.co/800x400/ef4444/white?text=Error+Handling)
+![エラー対処のイメージ](https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&h=400&fit=crop)
 
 画面に突然現れる赤い文字。長々と続く英語の羅列。そして、何が悪いのかさっぱりわからない焦り。
 

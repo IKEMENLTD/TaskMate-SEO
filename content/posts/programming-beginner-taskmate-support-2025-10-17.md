@@ -32,7 +32,7 @@ keywords: ["プログラミング 初心者 不安", "失敗しても大丈夫",
 
 この記事では、**TaskMateが初心者の失敗をどのように学習材料に変えていくのか**、その仕組みと実践方法を詳しくお伝えします。
 
-![学習のイメージ](https://placehold.co/800x400/10b981/white?text=Learning+Support)
+![学習のイメージ](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&h=400&fit=crop)
 
 ---
 
@@ -97,7 +97,7 @@ TaskMateも同じ思想で設計されています。あなたがつまずいた
 
 これらすべてが、**AIの学習データとして蓄積**され、次にあなたや他の誰かが同じ問題に直面したとき、より的確なサポートを提供できるようになります。
 
-![成長のイメージ](https://placehold.co/800x400/3b82f6/white?text=AI+Learning)
+![成長のイメージ](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=400&fit=crop)
 
 ---
 

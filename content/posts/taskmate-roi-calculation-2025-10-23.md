@@ -8,7 +8,7 @@ keywords: ["業務自動化 費用対効果", "ROI", "コスト計算", "TaskMat
 
 ## 「高い？安い？」という判断への不安
 
-![ROI計算のイメージ](https://placehold.co/800x400/f59e0b/white?text=ROI+Cost+Benefit)
+![ROI計算のイメージ](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=400&fit=crop)
 
 ### 💡 月1万円への躊躇
 

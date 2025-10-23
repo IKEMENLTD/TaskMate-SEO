@@ -8,7 +8,7 @@ keywords: ["AI", "協働", "働き方", "AIパートナー", "協力", "TaskMate
 
 ## 「AIは便利な道具」その認識、もう古いかもしれません
 
-![AIパートナーシップのイメージ](https://placehold.co/800x400/10b981/white?text=AI+Partner+Collaboration)
+![AIパートナーシップのイメージ](https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&h=400&fit=crop)
 
 ### 💡 指示を出すだけの使い方で終わらせていませんか
 

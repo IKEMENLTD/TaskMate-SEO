@@ -42,7 +42,7 @@ ChatGPTやTaskMateなどのAIツールに興味はあるものの、「何をど
 
 今日から使える実践的な方法だけを、実例とともに紹介していきますね。
 
-![AI会話のイメージ](https://placehold.co/800x400/10b981/white?text=AI+Communication)
+![AI会話のイメージ](https://images.unsplash.com/photo-1488751045188-3c55bbf9a3fa?w=800&h=400&fit=crop)
 
 ---
 
