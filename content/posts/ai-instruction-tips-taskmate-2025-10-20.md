@@ -1,5 +1,5 @@
 ---
-title: "AIに伝わる指示の出し方｜"日本語で"TaskMateと会話する3つのコツ"
+title: 'AIに伝わる指示の出し方｜"日本語で"TaskMateと会話する3つのコツ'
 date: "2025-10-20"
 description: "AIへの指示が苦手な方へ。難しいプロンプトは不要です。日本語で自然に会話するだけで、TaskMateは驚くほど正確に動いてくれます。効果的な指示の出し方を実例とともに解説します。"
 slug: "ai-instruction-tips-taskmate-2025-10-20"

@@ -1,5 +1,5 @@
 ---
-title: "プログラミング初心者でも大丈夫｜TaskMateで失敗が"学習データ"に変わる理由"
+title: 'プログラミング初心者でも大丈夫｜TaskMateで失敗が"学習データ"に変わる理由'
 date: "2025-10-17"
 description: "プログラミング 初心者 不安を抱える方へ。失敗しても大丈夫な環境で、AIサポートとともに成長できるTaskMateの学習システムを解説します。"
 slug: "programming-beginner-taskmate-support-2025-10-17"
