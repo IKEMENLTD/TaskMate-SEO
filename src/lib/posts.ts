@@ -25,7 +25,7 @@ export function getAllPosts(): PostData[] {
     return {
       slug,
       title: matterResult.data.title,
-      date: matterResult.data.date,
+      date: typeof matterResult.data.date === 'string' ? matterResult.data.date : matterResult.data.date.toISOString().split('T')[0],
       description: matterResult.data.description,
     };
   });
@@ -52,7 +52,7 @@ export async function getPostData(slug: string): Promise<PostData> {
   return {
     slug,
     title: matterResult.data.title,
-    date: matterResult.data.date,
+    date: typeof matterResult.data.date === 'string' ? matterResult.data.date : matterResult.data.date.toISOString().split('T')[0],
     description: matterResult.data.description,
     contentHtml,
   };
