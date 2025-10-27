@@ -81,8 +81,10 @@ function checkIfTodayArticleExists(targetDate) {
 
   for (const file of files) {
     const content = fs.readFileSync(path.join(postsDir, file), 'utf-8');
-    const dateMatch = content.match(/^date:\s*"(.+)"$/m);
+    // クォートあり/なし両方に対応
+    const dateMatch = content.match(/^date:\s*"?([^"\n]+)"?$/m);
     if (dateMatch && dateMatch[1] === targetDate) {
+      console.log(`✅ Article for ${targetDate} already exists: ${file}`);
       return true;
     }
   }

@@ -10,7 +10,7 @@
       "ヒューマンエラー",
       "品質管理"
     ],
-    "slug": "data-entry-manual-input-error-prevention-2025-10-23"
+    "slug": "data-entry-manual-input-error-prevention"
   },
   {
     "title": "発注ミスをゼロにする在庫管理術｜自動アラートで実現する欠品・過剰在庫の解消",
@@ -23,7 +23,7 @@
       "過剰在庫",
       "自動発注"
     ],
-    "slug": "inventory-management-inventory-error-prevention-2025-10-24"
+    "slug": "inventory-management-inventory-error-prevention"
   },
   {
     "title": "在庫数が合わない原因と解決策｜実在庫とデータを一致させる自動管理システム",
@@ -36,7 +36,7 @@
       "棚卸",
       "在庫差異"
     ],
-    "slug": "inventory-2025-10-24"
+    "slug": "inventory"
   },
   {
     "title": "給与計算ミスをゼロにする方法｜自動化で防ぐ計算間違いと従業員トラブル",
@@ -49,7 +49,7 @@
       "残業代計算",
       "給与明細"
     ],
-    "slug": "payroll-error-prevention-calculation-2025-10-25"
+    "slug": "payroll-error-prevention-calculation"
   },
   {
     "title": "データ転記ミスで失う年間100時間｜エクセル・スプレッドシート間の自動連携術",
@@ -62,7 +62,7 @@
       "スプレッドシート",
       "API連携"
     ],
-    "slug": "data-transfer-error-prevention-transfer-2025-10-25"
+    "slug": "data-transfer-error-prevention-transfer"
   },
   {
     "title": "請求書の計算ミスをゼロにする｜自動作成で防ぐ金額間違いと信用損失",
@@ -75,7 +75,7 @@
       "見積書",
       "経理業務"
     ],
-    "slug": "invoice-error-prevention-calculation-2025-10-26"
+    "slug": "invoice-error-prevention-calculation"
   },
   {
     "title": "スプレッドシート転記ミスを撲滅｜手作業ゼロで実現する完全自動データ連携",
@@ -88,7 +88,7 @@
       "GAS",
       "データ連携"
     ],
-    "slug": "error-prevention-transfer-spreadsheet-2025-10-26"
+    "slug": "error-prevention-transfer-spreadsheet"
   },
   {
     "title": "バックオフィス人件費を30%削減｜自動化で実現する少数精鋭の組織運営",
@@ -101,7 +101,7 @@
       "自動化",
       "生産性向上"
     ],
-    "slug": "back-office-automation-reduction-2025-10-27"
+    "slug": "back-office-automation-reduction"
   },
   {
     "title": "事務作業の外注コストを年間200万円削減｜自動化で実現する内製化戦略",
@@ -114,7 +114,7 @@
       "業務効率化",
       "コスト削減"
     ],
-    "slug": "outsourcing-automation-reduction-2025-10-27"
+    "slug": "outsourcing-automation-reduction"
   },
   {
     "title": "少人数でも売上2倍を実現｜中小企業のための業務自動化完全ガイド",
@@ -127,7 +127,7 @@
       "自動化",
       "DX推進"
     ],
-    "slug": "sales-small-team-automation-2025-10-28"
+    "slug": "sales-small-team-automation"
   },
   {
     "title": "費用対効果が高い業務効率化ツール比較｜月額5万円以下で実現するDX推進",
@@ -140,7 +140,7 @@
       "中小企業",
       "自動化"
     ],
-    "slug": "tools-efficiency-2025-10-28"
+    "slug": "tools-efficiency"
   },
   {
     "title": "作業時間を週20時間削減した方法｜今すぐできる業務効率化10の施策",
@@ -153,7 +153,7 @@
       "生産性向上",
       "働き方改革"
     ],
-    "slug": "work-time-efficiency-reduction-2025-10-29"
+    "slug": "work-time-efficiency-reduction"
   },
   {
     "title": "多店舗展開で管理が限界？｜10店舗の売上・在庫を一元管理する方法",
@@ -166,7 +166,7 @@
       "一元管理",
       "店舗管理"
     ],
-    "slug": "sales-inventory-multi-store-2025-10-29"
+    "slug": "sales-inventory-multi-store"
   },
   {
     "title": "楽天・Amazon・自社ECの一元管理｜複数サイトの売上を自動集計する方法",
@@ -179,7 +179,7 @@
       "楽天",
       "Amazon"
     ],
-    "slug": "sales-ecommerce-rakuten-2025-10-30"
+    "slug": "sales-ecommerce-rakuten"
   },
   {
     "title": "多店舗展開の売上管理を効率化｜日次レポート自動作成で実現する経営判断の迅速化",
@@ -192,7 +192,7 @@
       "経営判断",
       "データ分析"
     ],
-    "slug": "sales-management-sales-multi-store-2025-10-30"
+    "slug": "sales-management-sales-multi-store"
   },
   {
     "title": "商品数1000点超えの在庫管理術｜スプレッドシートで実現する在庫の可視化",
@@ -205,7 +205,7 @@
       "発注管理",
       "棚卸"
     ],
-    "slug": "inventory-management-inventory-product-2025-11-01"
+    "slug": "inventory-management-inventory-product"
   },
   {
     "title": "従業員30名超えたら勤怠管理を自動化｜タイムカード集計を10分で完了させる方法",
@@ -218,7 +218,7 @@
       "給与計算",
       "労務管理"
     ],
-    "slug": "attendance-employee-timecard-2025-11-01"
+    "slug": "attendance-employee-timecard"
   },
   {
     "title": "スプレッドシートの限界を超える｜手作業の業務管理から完全自動化へ移行する方法",
@@ -231,7 +231,7 @@
       "自動化",
       "システム化"
     ],
-    "slug": "spreadsheet-automation-2025-11-02"
+    "slug": "spreadsheet-automation"
   },
   {
     "title": "エクセル業務を自動化する5つのツール｜プログラミング不要で実現する効率化",
@@ -244,7 +244,7 @@
       "VBA",
       "GAS"
     ],
-    "slug": "tools-excel-programming-2025-11-02"
+    "slug": "tools-excel-programming"
   },
   {
     "title": "GAS導入を成功させる完全ガイド｜プログラミング知識ゼロでも使える自動化術",
@@ -257,7 +257,7 @@
       "プログラミング不要",
       "自動化"
     ],
-    "slug": "gas-programming-automation-2025-11-03"
+    "slug": "gas-programming-automation"
   },
   {
     "title": "中小企業向け業務効率化ツール10選｜少人数でも生産性2倍を実現する方法",
@@ -270,7 +270,7 @@
       "DX",
       "生産性向上"
     ],
-    "slug": "small-team-tools-efficiency-2025-11-03"
+    "slug": "small-team-tools-efficiency"
   },
   {
     "title": "ノーコードで業務自動化を実現｜プログラミング不要で始めるDX推進の第一歩",
@@ -283,7 +283,7 @@
       "ローコード",
       "DX"
     ],
-    "slug": "no-code-programming-automation-2025-11-04"
+    "slug": "no-code-programming-automation"
   },
   {
     "title": "プログラミング知識不要で業務自動化｜文系でもできるGAS活用術",
@@ -296,7 +296,7 @@
       "GAS",
       "初心者"
     ],
-    "slug": "gas-programming-automation-2025-11-04"
+    "slug": "gas-programming-automation-2"
   },
   {
     "title": "複数サイトの売上を一元管理する方法｜楽天・Amazon・自社ECの集計自動化",
@@ -309,7 +309,7 @@
       "楽天",
       "Amazon"
     ],
-    "slug": "sales-ecommerce-rakuten-2025-11-05"
+    "slug": "sales-ecommerce-rakuten-2"
   },
   {
     "title": "日次売上レポートを自動作成｜毎朝9時に届く売上速報で実現する経営判断の迅速化",
@@ -322,7 +322,7 @@
       "データ分析",
       "経営判断"
     ],
-    "slug": "sales-daily-report-2025-11-05"
+    "slug": "sales-daily-report"
   },
   {
     "title": "楽天とAmazonの売上をまとめる方法｜複数ECサイトの一元管理で実現する効率化",
@@ -335,7 +335,7 @@
       "一元管理",
       "EC運営"
     ],
-    "slug": "sales-ecommerce-rakuten-2025-11-06"
+    "slug": "sales-ecommerce-rakuten-3"
   },
   {
     "title": "適正在庫を自動計算する方法｜過剰在庫と欠品を防ぐデータドリブン在庫管理",
@@ -348,7 +348,7 @@
       "発注点",
       "安全在庫"
     ],
-    "slug": "inventory-management-inventory-calculation-2025-11-06"
+    "slug": "inventory-management-inventory-calculation"
   },
   {
     "title": "在庫切れアラートを自動送信｜機会損失ゼロを実現するスマート在庫管理システム",
@@ -361,7 +361,7 @@
       "自動通知",
       "発注タイミング"
     ],
-    "slug": "inventory-management-inventory-alert-2025-11-07"
+    "slug": "inventory-management-inventory-alert"
   },
   {
     "title": "発注点を自動計算して発注業務を効率化｜在庫管理の自動化で実現する時間削減",
@@ -374,7 +374,7 @@
       "適正在庫",
       "発注業務"
     ],
-    "slug": "inventory-management-inventory-ordering-2025-11-07"
+    "slug": "inventory-management-inventory-ordering"
   },
   {
     "title": "タイムカード集計を自動化｜勤怠管理から給与計算まで10分で完了させる方法",
@@ -387,7 +387,7 @@
       "勤怠管理",
       "給与計算"
     ],
-    "slug": "attendance-payroll-calculation-2025-11-08"
+    "slug": "attendance-payroll-calculation"
   },
   {
     "title": "残業代計算を自動化して給与計算ミスをゼロに｜労働時間管理の効率化術",
@@ -400,7 +400,7 @@
       "給与計算",
       "労働時間管理"
     ],
-    "slug": "overtime-payroll-error-prevention-2025-11-08"
+    "slug": "overtime-payroll-error-prevention"
   },
   {
     "title": "シフト管理を自動化する方法｜人件費の最適化と従業員満足度向上を両立",
@@ -413,7 +413,7 @@
       "勤怠管理",
       "シフト作成"
     ],
-    "slug": "employee-shift-automation-2025-11-09"
+    "slug": "employee-shift-automation"
   },
   {
     "title": "請求書を自動発行してミスをゼロに｜スプレッドシートで実現する請求業務の効率化",
@@ -426,7 +426,7 @@
       "スプレッドシート",
       "経理業務"
     ],
-    "slug": "invoice-error-prevention-spreadsheet-2025-11-09"
+    "slug": "invoice-error-prevention-spreadsheet"
   },
   {
     "title": "見積書作成時間を90%削減｜テンプレート自動化で実現する営業効率の向上",
@@ -439,7 +439,7 @@
       "テンプレート",
       "営業効率化"
     ],
-    "slug": "quotation-automation-reduction-2025-11-10"
+    "slug": "quotation-automation-reduction"
   },
   {
     "title": "経費精算を自動化して月末業務を削減｜領収書からスプレッドシートへの自動連携",
@@ -452,7 +452,7 @@
       "スプレッドシート",
       "経理業務"
     ],
-    "slug": "spreadsheet-expense-automation-2025-11-10"
+    "slug": "spreadsheet-expense-automation"
   },
   {
     "title": "EC事業者の在庫管理を自動化｜複数モール対応で実現する在庫の一元管理",
@@ -465,7 +465,7 @@
       "一元管理",
       "自動化"
     ],
-    "slug": "inventory-management-inventory-ecommerce-2025-11-11"
+    "slug": "inventory-management-inventory-ecommerce"
   },
   {
     "title": "飲食店の複数店舗売上管理｜日次売上を自動集計して経営判断を迅速化",
@@ -478,7 +478,7 @@
       "日次レポート",
       "経営分析"
     ],
-    "slug": "sales-management-sales-multi-store-2025-11-11"
+    "slug": "sales-management-sales-multi-store-2"
   },
   {
     "title": "小売店の発注業務を効率化｜在庫データから発注書を自動作成する方法",
@@ -491,7 +491,7 @@
       "自動化",
       "効率化"
     ],
-    "slug": "inventory-ordering-retail-2025-11-12"
+    "slug": "inventory-ordering-retail"
   },
   {
     "title": "建設業の勤怠管理を効率化｜現場ごとの労働時間を自動集計する方法",
@@ -504,7 +504,7 @@
       "労働時間",
       "自動化"
     ],
-    "slug": "attendance-construction-efficiency-2025-11-12"
+    "slug": "attendance-construction-efficiency"
   },
   {
     "title": "不動産の物件管理を自動化｜入居状況から契約更新まで一元管理する方法",
@@ -517,7 +517,7 @@
       "契約管理",
       "自動化"
     ],
-    "slug": "real-estate-automation-unified-management-2025-11-13"
+    "slug": "real-estate-automation-unified-management"
   },
   {
     "title": "製造業の在庫管理課題を解決｜原材料から完成品まで自動追跡する方法",
@@ -530,7 +530,7 @@
       "生産管理",
       "自動化"
     ],
-    "slug": "inventory-management-inventory-manufacturing-2025-11-13"
+    "slug": "inventory-management-inventory-manufacturing"
   },
   {
     "title": "freeeが高い？月額3万円以下で実現する経理業務の自動化",
@@ -543,6 +543,6 @@
       "会計ソフト",
       "コスト削減"
     ],
-    "slug": "freee-alternative-automation-2025-11-14"
+    "slug": "freee-alternative-automation"
   }
 ]
