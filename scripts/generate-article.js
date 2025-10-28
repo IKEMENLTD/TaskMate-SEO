@@ -41,10 +41,14 @@ function getTargetDate() {
     return process.env.INPUT_DATE;
   }
 
-  const date = new Date();
-  const year = date.getFullYear();
-  const month = String(date.getMonth() + 1).padStart(2, '0');
-  const day = String(date.getDate()).padStart(2, '0');
+  // 日本時間（JST: UTC+9）で日付を取得
+  const now = new Date();
+  const jstOffset = 9 * 60; // JST is UTC+9
+  const jstTime = new Date(now.getTime() + (jstOffset + now.getTimezoneOffset()) * 60000);
+
+  const year = jstTime.getFullYear();
+  const month = String(jstTime.getMonth() + 1).padStart(2, '0');
+  const day = String(jstTime.getDate()).padStart(2, '0');
   return `${year}-${month}-${day}`;
 }
 
