@@ -77,23 +77,30 @@ function getUsedTopics() {
   return used;
 }
 
-// 既に今日の記事が存在するかチェック
-function checkIfTodayArticleExists(targetDate) {
+// 今日の記事数をカウント（複数記事対応）
+function countTodayArticles(targetDate) {
   const postsDir = path.join(__dirname, '../content/posts');
   const files = fs.readdirSync(postsDir)
     .filter(f => f.endsWith('.md'));
+
+  let count = 0;
+  const existingFiles = [];
 
   for (const file of files) {
     const content = fs.readFileSync(path.join(postsDir, file), 'utf-8');
     // クォートあり/なし両方に対応
     const dateMatch = content.match(/^date:\s*"?([^"\n]+)"?$/m);
     if (dateMatch && dateMatch[1] === targetDate) {
-      console.log(`✅ Article for ${targetDate} already exists: ${file}`);
-      return true;
+      count++;
+      existingFiles.push(file);
     }
   }
 
-  return false;
+  if (count > 0) {
+    console.log(`📊 Found ${count} article(s) for ${targetDate}:`, existingFiles.join(', '));
+  }
+
+  return count;
 }
 
 // 次のトピックを選択
@@ -250,59 +257,78 @@ async function main() {
     const targetDate = getTargetDate();
     console.log(`📅 Target date: ${targetDate}\n`);
 
-    // 2. 既に今日の記事が存在するかチェック
-    if (checkIfTodayArticleExists(targetDate)) {
-      console.log(`ℹ️  Article for ${targetDate} already exists`);
-      console.log('Skipping generation to avoid duplicates');
+    // 2. 今日の記事数をカウント（複数記事対応）
+    const ARTICLES_PER_DAY = 2; // 1日2記事を生成
+    const existingCount = countTodayArticles(targetDate);
+    const articlesToGenerate = ARTICLES_PER_DAY - existingCount;
+
+    if (articlesToGenerate <= 0) {
+      console.log(`✅ Already have ${existingCount} articles for ${targetDate}`);
+      console.log('No additional articles needed for today\n');
       process.exit(0);
     }
+
+    console.log(`📝 Need to generate ${articlesToGenerate} more article(s) for ${targetDate}\n`);
 
     // 3. 既存記事のスタイルを分析
     console.log('📖 Analyzing existing articles...');
     const existingStyle = analyzeExistingArticles();
     console.log('✅ Style analysis complete\n');
 
-    // 4. 次のトピックを選択
-    console.log('🎯 Selecting next topic...');
-    const topic = selectNextTopic();
+    // 4-9. 必要な記事数だけ生成
+    let generatedCount = 0;
 
-    if (!topic) {
-      console.log('⚠️  No available topics remaining');
-      console.log('Please add more topics to scripts/article-topics.json');
-      process.exit(0);
+    for (let i = 0; i < articlesToGenerate; i++) {
+      console.log(`\n🎯 Generating article ${existingCount + i + 1}/${ARTICLES_PER_DAY} for ${targetDate}...`);
+
+      // 次のトピックを選択
+      console.log('🎯 Selecting next topic...');
+      const topic = selectNextTopic();
+
+      if (!topic) {
+        console.log('⚠️  No available topics remaining');
+        console.log('Please add more topics to scripts/article-topics.json');
+        if (generatedCount === 0) {
+          process.exit(0);
+        }
+        break;
+      }
+
+      console.log(`✅ Topic selected: ${topic.title}\n`);
+
+      // 記事を生成
+      console.log('✍️  Generating article with Claude API...');
+      console.log('This may take 30-60 seconds...\n');
+      const articleResponse = await generateArticle(topic, existingStyle, targetDate);
+
+      // Markdownコンテンツを抽出
+      const content = extractMarkdownContent(articleResponse);
+
+      // ファイル名を生成
+      const filename = `${topic.slug}.md`;
+      const filepath = path.join(__dirname, '../content/posts', filename);
+
+      // ファイルが既に存在するかチェック
+      if (fs.existsSync(filepath)) {
+        console.log(`⚠️  File already exists: ${filename}`);
+        console.log('Skipping to avoid overwrite');
+        continue;
+      }
+
+      // ファイルを保存
+      fs.writeFileSync(filepath, content, 'utf-8');
+
+      console.log('✅ Article saved successfully!');
+      console.log(`📝 File: ${filename}`);
+      console.log(`📍 Path: content/posts/${filename}`);
+      console.log(`📊 Size: ${(content.length / 1000).toFixed(1)}KB`);
+
+      generatedCount++;
     }
 
-    console.log(`✅ Topic selected: ${topic.title}\n`);
-
-    // 5. 記事を生成
-    console.log('✍️  Generating article with Claude API...');
-    console.log('This may take 30-60 seconds...\n');
-    const articleResponse = await generateArticle(topic, existingStyle, targetDate);
-
-    // 6. Markdownコンテンツを抽出
-    const content = extractMarkdownContent(articleResponse);
-
-    // 7. ファイル名を生成
-    const filename = `${topic.slug}.md`;
-    const filepath = path.join(__dirname, '../content/posts', filename);
-
-    // 8. ファイルが既に存在するかチェック
-    if (fs.existsSync(filepath)) {
-      console.log(`⚠️  File already exists: ${filename}`);
-      console.log('Skipping to avoid overwrite');
-      process.exit(0);
-    }
-
-    // 9. ファイルを保存
-    fs.writeFileSync(filepath, content, 'utf-8');
-
-    console.log('✅ Article saved successfully!');
-    console.log(`📝 File: ${filename}`);
-    console.log(`📍 Path: content/posts/${filename}`);
-    console.log(`📊 Size: ${(content.length / 1000).toFixed(1)}KB\n`);
-
-    console.log('🎉 ===============================================');
-    console.log('🎉 Article generation completed successfully!');
+    console.log('\n🎉 ===============================================');
+    console.log(`🎉 Successfully generated ${generatedCount} article(s)!`);
+    console.log(`🎉 Total articles for ${targetDate}: ${existingCount + generatedCount}/${ARTICLES_PER_DAY}`);
     console.log('🎉 ===============================================');
 
   } catch (error) {
