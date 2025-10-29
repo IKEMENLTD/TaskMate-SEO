@@ -188,8 +188,7 @@ TaskMateは、そんな初心者の「最初の一歩」を強力にサポート
 
 **今すぐTaskMateを始めませんか？**
 
-TaskMate公式LINEアカウント:  
-https://line.me/R/ti/p/@356uysad
+👉 **[TaskMate 公式LINE：お問い合わせはこちら](https://taskmateai.net/t/pio8hwhejjhy)**
 
 友だち追加後、「こういう作業を自動化したい」と送るだけで、すぐに使えるGASコードが返ってきます。例えば「毎週金曜日にスプレッドシートのデータをPDFにして保存したい」「フォームの回答を自動でSlackに通知したい」など、あなたの困りごとを日本語で伝えてください。
 

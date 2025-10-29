@@ -175,7 +175,7 @@ TaskMateを使えば、難しいプログラミング知識がなくても、LIN
 
 **今すぐTaskMateを始めませんか？**
 
-**[👉 TaskMate 公式LINEはこちら](https://line.me/R/ti/p/@356uysad)**
+👉 **[TaskMate 公式LINE：お問い合わせはこちら](https://taskmateai.net/t/pio8hwhejjhy)**
 
 友だち追加後、「スプレッドシートのデータを毎週メールで送りたい」「特定の条件でデータを抽出したい」など、あなたが実現したい作業を日本語で送るだけで、すぐに使えるGoogle Apps Scriptのコードが返ってきます。プログラミング用語を知らなくても大丈夫。普段使っている言葉で、やりたいことを説明してください。
 

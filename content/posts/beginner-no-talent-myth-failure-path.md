@@ -173,7 +173,7 @@ function findMemberRow(email) {
 
 **今すぐTaskMateを始めませんか？**
 
-**[👉 TaskMate 公式LINEはこちら](https://line.me/R/ti/p/@356uysad)**
+👉 **[TaskMate 公式LINE：お問い合わせはこちら](https://taskmateai.net/t/pio8hwhejjhy)**
 
 友だち追加後、「スプレッドシートのデータを自動集計したい」「毎週のレポート作成を自動化したい」など、あなたが実現したい作業を日本語で送るだけで、すぐに使えるGoogle Apps Scriptのコードが返ってきます。コードの使い方も日本語で説明されるので、プログラミング未経験でも安心です。
 

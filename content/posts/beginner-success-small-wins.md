@@ -203,7 +203,7 @@ function setupWeeklyTrigger() {
 
 **今すぐTaskMateを始めませんか？**
 
-**[👉 TaskMate 公式LINEはこちら](https://line.me/R/ti/p/@356uysad)**
+👉 **[TaskMate 公式LINE：お問い合わせはこちら](https://taskmateai.net/t/pio8hwhejjhy)**
 
 友だち追加後、「毎週月曜日にスプレッドシートのデータを集計してメールで送りたい」「毎日決まった時間にリマインダーを送ってほしい」など、あなたの困りごとを日本語で送るだけ。すぐに使えるGoogle Apps Scriptのコードが返ってきます。
 
