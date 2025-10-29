@@ -239,6 +239,38 @@ function extractMarkdownContent(response) {
   return response.trim();
 }
 
+// 絵文字をSVGアイコンに置換
+function replaceEmojisWithSvg(content) {
+  const EMOJI_TO_SVG = {
+    '📝': '<img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" />',
+    '💡': '<img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" />',
+    '📊': '<img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" />',
+    '📍': '<img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" />',
+    '⏱️': '<img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" />',
+    '⏱': '<img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" />',
+    '🚀': '<img src="/icons/rocket.svg" alt="ロケット" class="inline-icon" width="20" height="20" />',
+    '✅': '<img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" />',
+    '❌': '<img src="/icons/x.svg" alt="バツ" class="inline-icon" width="20" height="20" />'
+  };
+
+  let processedContent = content;
+  let replacementCount = 0;
+
+  for (const [emoji, svg] of Object.entries(EMOJI_TO_SVG)) {
+    const occurrences = (processedContent.match(new RegExp(emoji.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'g')) || []).length;
+    if (occurrences > 0) {
+      processedContent = processedContent.replaceAll(emoji, svg);
+      replacementCount += occurrences;
+    }
+  }
+
+  if (replacementCount > 0) {
+    console.log(`  → Replaced ${replacementCount} emoji(s) with SVG icons`);
+  }
+
+  return processedContent;
+}
+
 // メイン処理
 async function main() {
   try {
@@ -302,7 +334,12 @@ async function main() {
       const articleResponse = await generateArticle(topic, existingStyle, targetDate);
 
       // Markdownコンテンツを抽出
-      const content = extractMarkdownContent(articleResponse);
+      let content = extractMarkdownContent(articleResponse);
+
+      // 画像処理：絵文字をSVGアイコンに置換
+      console.log('🖼️  Processing images...');
+      content = replaceEmojisWithSvg(content);
+      console.log('✅ Emojis replaced with SVG icons');
 
       // ファイル名を生成
       const filename = `${topic.slug}.md`;
