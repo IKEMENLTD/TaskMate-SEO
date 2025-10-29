@@ -18,8 +18,6 @@ keywords: ["初心者", "マインドセット", "TaskMate", "Google Apps Script
 
 ![プログラミング学習のイメージ](https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=800&auto=format&fit=crop&q=60)
 
-![成功を喜ぶ様子](https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&auto=format&fit=crop&q=60)
-
 ## プログラミング学習が続かない本当の理由
 
 プログラミング学習の挫折理由として「難しすぎる」「時間がない」といった声がよく聞かれますが、実はもっと根本的な問題があります。それは「成功体験を得るまでの道のりが長すぎる」ということです。
@@ -205,7 +203,7 @@ function setupWeeklyTrigger() {
 
 **今すぐTaskMateを始めませんか？**
 
-👉 **[TaskMate 公式LINEはこちら](https://line.me/R/ti/p/@356uysad)**
+**[👉 TaskMate 公式LINEはこちら](https://line.me/R/ti/p/@356uysad)**
 
 友だち追加後、「毎週月曜日にスプレッドシートのデータを集計してメールで送りたい」「毎日決まった時間にリマインダーを送ってほしい」など、あなたの困りごとを日本語で送るだけ。すぐに使えるGoogle Apps Scriptのコードが返ってきます。
 

@@ -18,8 +18,6 @@ keywords: ["初心者", "マインドセット", "TaskMate", "Google Apps Script
 
 ![プログラミング学習のイメージ](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&auto=format&fit=crop&q=60)
 
-![エラーメッセージに向き合う開発者](https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&auto=format&fit=crop&q=60)
-
 ## 問題の深掘り
 
 初心者がエラーに直面したとき、最も困るのは「何が問題なのかわからない」という状況です。エラーメッセージは英語で書かれていることが多く、専門用語が並んでいます。「Syntax Error」「Undefined」「Null Reference」といった言葉を見ても、どこをどう直せばいいのか見当もつきません。
@@ -177,7 +175,7 @@ TaskMateを使えば、難しいプログラミング知識がなくても、LIN
 
 **今すぐTaskMateを始めませんか？**
 
-👉 **[TaskMate 公式LINEはこちら](https://line.me/R/ti/p/@356uysad)**
+**[👉 TaskMate 公式LINEはこちら](https://line.me/R/ti/p/@356uysad)**
 
 友だち追加後、「スプレッドシートのデータを毎週メールで送りたい」「特定の条件でデータを抽出したい」など、あなたが実現したい作業を日本語で送るだけで、すぐに使えるGoogle Apps Scriptのコードが返ってきます。プログラミング用語を知らなくても大丈夫。普段使っている言葉で、やりたいことを説明してください。
 
