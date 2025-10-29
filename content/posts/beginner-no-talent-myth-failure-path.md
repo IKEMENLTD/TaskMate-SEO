@@ -18,6 +18,8 @@ keywords: ["初心者", "マインドセット", "TaskMate", "Google Apps Script
 
 ![プログラミング学習のイメージ](https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=800&auto=format&fit=crop&q=60)
 
+![チーム作業の様子](https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&auto=format&fit=crop&q=60)
+
 ## 「才能がない」と感じる本当の理由
 
 多くの初心者が「自分には才能がない」と感じてしまうのは、プログラミング学習の構造的な問題が原因です。従来の学習方法では、まず文法を覚え、次に基礎的な構文を理解し、それから実践的なコードを書くという段階を踏む必要がありました。この過程で、多くの人が最初の段階で挫折してしまうのです。
@@ -171,8 +173,7 @@ function findMemberRow(email) {
 
 **今すぐTaskMateを始めませんか？**
 
-TaskMate公式LINEアカウント:  
-https://line.me/R/ti/p/@356uysad
+👉 **[TaskMate 公式LINEはこちら](https://line.me/R/ti/p/@356uysad)**
 
 友だち追加後、「スプレッドシートのデータを自動集計したい」「毎週のレポート作成を自動化したい」など、あなたが実現したい作業を日本語で送るだけで、すぐに使えるGoogle Apps Scriptのコードが返ってきます。コードの使い方も日本語で説明されるので、プログラミング未経験でも安心です。
 
