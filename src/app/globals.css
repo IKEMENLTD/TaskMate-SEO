@@ -576,3 +576,26 @@ body {
   background: linear-gradient(90deg, transparent, var(--color-primary), transparent);
   margin: 2rem 0;
 }
+
+/* ==========================================
+   カラフルテキスト装飾（スクリーンショットスタイル）
+   ========================================== */
+
+/* ティール色のテキスト（説明項目用） */
+.markdown-content .text-teal {
+  color: #0d9488;
+  font-weight: 700;
+}
+
+/* グリーン色のテキスト（成果・結果用） */
+.markdown-content .text-success {
+  color: #059669;
+  font-weight: 700;
+}
+
+/* 下線付きテキスト */
+.markdown-content .text-underline {
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+  text-decoration-thickness: 2px;
+}
