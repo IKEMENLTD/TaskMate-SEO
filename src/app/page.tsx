@@ -49,6 +49,131 @@ export default function Home() {
         </div>
       </section>
 
+      {/* プログラミング初心者向け特集セクション */}
+      <section className="py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-br from-emerald-50 via-white to-teal-50">
+        <div className="container mx-auto max-w-6xl">
+          <div className="text-center mb-12">
+            <div className="inline-flex items-center justify-center mb-4">
+              <div className="w-12 h-12 gradient-green rounded-xl flex items-center justify-center shadow-lg">
+                <svg className="w-7 h-7 text-white" fill="currentColor" viewBox="0 0 20 20">
+                  <path d="M10.394 2.08a1 1 0 00-.788 0l-7 3a1 1 0 000 1.84L5.25 8.051a.999.999 0 01.356-.257l4-1.714a1 1 0 11.788 1.838L7.667 9.088l1.94.831a1 1 0 00.787 0l7-3a1 1 0 000-1.838l-7-3zM3.31 9.397L5 10.12v4.102a8.969 8.969 0 00-1.05-.174 1 1 0 01-.89-.89 11.115 11.115 0 01.25-3.762zM9.3 16.573A9.026 9.026 0 007 14.935v-3.957l1.818.78a3 3 0 002.364 0l5.508-2.361a11.026 11.026 0 01.25 3.762 1 1 0 01-.89.89 8.968 8.968 0 00-5.35 2.524 1 1 0 01-1.4 0zM6 18a1 1 0 001-1v-2.065a8.935 8.935 0 00-2-.712V17a1 1 0 001 1z"/>
+                </svg>
+              </div>
+            </div>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <span className="gradient-text">初心者が最初に読むべき記事</span>
+            </h2>
+            <p className="text-lg text-[var(--color-text-secondary)] max-w-2xl mx-auto">
+              エラーに悩む全てのプログラミング初心者へ。挫折しないための必読記事をご紹介します。
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 lg:gap-8">
+            {/* 記事1: 完璧なコードなんて存在しない */}
+            <Link href="/posts/beginner-perfect-code-myth">
+              <article className="group article-card h-full flex flex-col hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 bg-white border-2 border-transparent hover:border-emerald-400">
+                <div className="absolute top-4 right-4 z-10">
+                  <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-bold bg-gradient-to-r from-emerald-500 to-teal-500 text-white shadow-lg">
+                    必読
+                  </span>
+                </div>
+                <div className="p-6 flex-1 flex flex-col">
+                  <div className="mb-4">
+                    <div className="w-14 h-14 rounded-lg bg-gradient-to-br from-emerald-400 to-teal-500 flex items-center justify-center mb-4 shadow-lg">
+                      <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                      </svg>
+                    </div>
+                  </div>
+                  <h3 className="text-xl font-bold mb-3 group-hover:text-[var(--color-primary)] transition-colors leading-tight">
+                    完璧なコードなんて存在しない
+                  </h3>
+                  <p className="text-[var(--color-text-secondary)] mb-4 flex-1 text-sm leading-relaxed">
+                    完璧主義の不安を解消。"動けばOK"から始める実践的プログラミングのマインドセットを学びます。
+                  </p>
+                  <div className="inline-flex items-center text-[var(--color-primary)] font-semibold text-sm group-hover:gap-2 gap-1 transition-all mt-auto">
+                    今すぐ読む
+                    <svg className="w-4 h-4 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                    </svg>
+                  </div>
+                </div>
+              </article>
+            </Link>
+
+            {/* 記事2: エラーが出た…もうダメだと思ったあなたへ */}
+            <Link href="/posts/beginner-error-mindset-first-truth">
+              <article className="group article-card h-full flex flex-col hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 bg-white border-2 border-transparent hover:border-emerald-400">
+                <div className="absolute top-4 right-4 z-10">
+                  <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-bold bg-gradient-to-r from-emerald-500 to-teal-500 text-white shadow-lg">
+                    必読
+                  </span>
+                </div>
+                <div className="p-6 flex-1 flex flex-col">
+                  <div className="mb-4">
+                    <div className="w-14 h-14 rounded-lg bg-gradient-to-br from-amber-400 to-orange-500 flex items-center justify-center mb-4 shadow-lg">
+                      <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
+                      </svg>
+                    </div>
+                  </div>
+                  <h3 className="text-xl font-bold mb-3 group-hover:text-[var(--color-primary)] transition-colors leading-tight">
+                    エラーが出た…もうダメだと思ったあなたへ
+                  </h3>
+                  <p className="text-[var(--color-text-secondary)] mb-4 flex-1 text-sm leading-relaxed">
+                    エラーへの恐怖を克服。初心者が最初に知るべきプログラミングの真実をお伝えします。
+                  </p>
+                  <div className="inline-flex items-center text-[var(--color-primary)] font-semibold text-sm group-hover:gap-2 gap-1 transition-all mt-auto">
+                    今すぐ読む
+                    <svg className="w-4 h-4 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                    </svg>
+                  </div>
+                </div>
+              </article>
+            </Link>
+
+            {/* 記事3: エラー10回は普通です */}
+            <Link href="/posts/beginner-error-ten-times-normal">
+              <article className="group article-card h-full flex flex-col hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 bg-white border-2 border-transparent hover:border-emerald-400">
+                <div className="absolute top-4 right-4 z-10">
+                  <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-bold bg-gradient-to-r from-emerald-500 to-teal-500 text-white shadow-lg">
+                    必読
+                  </span>
+                </div>
+                <div className="p-6 flex-1 flex flex-col">
+                  <div className="mb-4">
+                    <div className="w-14 h-14 rounded-lg bg-gradient-to-br from-blue-400 to-indigo-500 flex items-center justify-center mb-4 shadow-lg">
+                      <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
+                      </svg>
+                    </div>
+                  </div>
+                  <h3 className="text-xl font-bold mb-3 group-hover:text-[var(--color-primary)] transition-colors leading-tight">
+                    エラー10回は普通です
+                  </h3>
+                  <p className="text-[var(--color-text-secondary)] mb-4 flex-1 text-sm leading-relaxed">
+                    ベテランエンジニアも毎日エラーと戦っている現実。エラーは成長の証です。
+                  </p>
+                  <div className="inline-flex items-center text-[var(--color-primary)] font-semibold text-sm group-hover:gap-2 gap-1 transition-all mt-auto">
+                    今すぐ読む
+                    <svg className="w-4 h-4 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                    </svg>
+                  </div>
+                </div>
+              </article>
+            </Link>
+          </div>
+
+          <div className="text-center mt-10">
+            <p className="text-sm text-[var(--color-text-secondary)] font-medium">
+              この3つの記事を読めば、エラーが怖くなくなります
+            </p>
+          </div>
+        </div>
+      </section>
+
       {/* 注目記事セクション */}
       {featuredPost && (
         <section id="featured" className="py-16 px-4 sm:px-6 lg:px-8 bg-white">
