@@ -89,7 +89,7 @@ export default function Home() {
                     完璧なコードなんて存在しない
                   </h3>
                   <p className="text-[var(--color-text-secondary)] mb-4 flex-1 text-sm leading-relaxed">
-                    完璧主義の不安を解消。"動けばOK"から始める実践的プログラミングのマインドセットを学びます。
+                    完璧主義の不安を解消。&quot;動けばOK&quot;から始める実践的プログラミングのマインドセットを学びます。
                   </p>
                   <div className="inline-flex items-center text-[var(--color-primary)] font-semibold text-sm group-hover:gap-2 gap-1 transition-all mt-auto">
                     今すぐ読む
