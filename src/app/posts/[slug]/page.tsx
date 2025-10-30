@@ -86,7 +86,7 @@ export default async function Post({ params }: Props) {
 
           {/* 記事ヘッダー */}
           <header className="mb-12 text-center">
-            <h1 className="text-4xl md:text-5xl font-bold mb-6 leading-tight">
+            <h1 className="text-4xl md:text-5xl font-bold mb-6 leading-tight text-[#059669]">
               {post.title}
             </h1>
             <div className="flex items-center justify-center gap-6 text-[var(--foreground-secondary)]">
