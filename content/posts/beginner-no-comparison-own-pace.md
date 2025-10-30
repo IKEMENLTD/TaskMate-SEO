@@ -190,13 +190,13 @@ function setupWeeklyReportTrigger() {
 
 **このコードの仕組み：**
 
-<img src="/icons/chart.svg" alt="集計" class="inline-icon" width="20" height="20" /> **1. カテゴリ別集計 + 前週比計算**
+ **1. カテゴリ別集計 + 前週比計算**
 先週と先々週のデータを同時に集計し、自動で前週比の増減率を計算します。手計算では時間がかかる複雑な処理も、コードなら一瞬です。
 
-<img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> **2. 読みやすいレポート形式**
+ **2. 読みやすいレポート形式**
 金額は通貨フォーマット（¥1,234,567）で表示し、増減率には+/-記号を自動付与。見やすく分かりやすい報告書が自動生成されます。
 
-<img src="/icons/send.svg" alt="送信" class="inline-icon" width="20" height="20" /> **3. LINE通知で即座に共有**
+ **3. LINE通知で即座に共有**
 LINE Notify APIを使って、チームのLINEグループに直接送信。メールと違い、スマホで即座に確認でき、見逃すこともありません。
 
 **実行結果：**

@@ -1,5 +1,5 @@
 ---
-title: '**完璧なコードなんて存在しない**｜"動けばOK"から始める実践的プログラミング'
+title: '完璧なコードなんて存在しない｜"動けばOK"から始める実践的プログラミング'
 date: "2025-10-16"
 description: "プログラミング 完璧主義の不安を解消する初心者向けガイド。失敗やエラーを恐れず、自分のペースで成長するマインドセットを身につける方法を解説します。"
 slug: "beginner-perfect-code-myth"
@@ -66,7 +66,7 @@ Google、Meta、Amazonといった巨大IT企業のコードベースにも、�
 
 例えば：
 
-<img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> **従来の考え方（完璧主義）**
+ **従来の考え方（完璧主義）**
 1. プログラミング言語を勉強
 2. 文法を完璧に覚える
 3. アルゴリズムを理解
@@ -76,7 +76,7 @@ Google、Meta、Amazonといった巨大IT企業のコードベースにも、�
 
 → **挫折する**
 
-<img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> **バイブコーディング（実践主義）**
+ **バイブコーディング（実践主義）**
 1. 「こういう作業を自動化したい」と言葉にする
 2. その言葉をもとにコードを生成
 3. すぐに動かす
@@ -204,7 +204,7 @@ function sendToSlack(message) {
 
 TaskMateを使って業務を自動化していく上で、大切なマインドセットをまとめます。
 
-### 🎯 <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> マインド1：「動けばOK」を最優先
+### 🎯  マインド1：「動けばOK」を最優先
 
 コードが美しいかどうかは、二の次。
 
@@ -212,7 +212,7 @@ TaskMateを使って業務を自動化していく上で、大切なマインド
 
 それが最優先です。
 
-### 🎯 <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> マインド2：「やりたいこと」を明確に言葉にする
+### 🎯  マインド2：「やりたいこと」を明確に言葉にする
 
 TaskMateにお願いするときは、こう考えます：
 
@@ -222,7 +222,7 @@ TaskMateにお願いするときは、こう考えます：
 
 これを日本語で具体的に伝えれば、AIが完璧なコードを生成してくれます。
 
-### 🎯 <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> マインド3：エラーは「修正依頼のチャンス」
+### 🎯  マインド3：エラーは「修正依頼のチャンス」
 
 もしコードがエラーで動かなくても、大丈夫。
 
@@ -230,7 +230,7 @@ TaskMateにお願いするときは、こう考えます：
 
 エラーは「失敗」じゃなく、「改善のヒント」です。
 
-### 🎯 <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> マインド4：**小さな成功を積み重ねる**
+### 🎯  マインド4：**小さな成功を積み重ねる**
 
 最初から完璧な自動化システムを作ろうとしない。
 
@@ -244,7 +244,7 @@ TaskMateにお願いするときは、こう考えます：
 
 それが、挫折しない秘訣です。
 
-### 🎯 <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> マインド5：「コードを学ぶ」じゃなく「問題を解決する」
+### 🎯  マインド5：「コードを学ぶ」じゃなく「問題を解決する」
 
 プログラミングを「勉強」だと思わない。
 
@@ -258,27 +258,27 @@ TaskMateにお願いするときは、こう考えます：
 
 TaskMateを使えば、こんなことが自動化できます：
 
-<img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> **売上データの自動集計**
+ **売上データの自動集計**
 - 複数シートのデータを統合
 - 日次・月次レポート自動作成
 - グラフ自動更新
 
-<img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> **在庫管理の自動化**
+ **在庫管理の自動化**
 - 在庫数の自動チェック
 - 発注タイミングのアラート
 - 発注書の自動作成
 
-<img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> **請求書・見積書の自動作成**
+ **請求書・見積書の自動作成**
 - テンプレートへのデータ自動入力
 - PDF自動生成
 - メール自動送信
 
-<img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> **顧客管理（CRM）**
+ **顧客管理（CRM）**
 - 問い合わせの自動記録
 - フォローアップメールの自動送信
 - 顧客セグメント別の分析
 
-<img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> **勤怠・給与計算**
+ **勤怠・給与計算**
 - 勤務時間の自動集計
 - 残業時間の計算
 - 給与明細の自動作成
@@ -348,7 +348,7 @@ TaskMateを使えば、こんなことが自動化できます：
 
 ---
 
-## <img src="/icons/rocket.svg" alt="ロケット" class="inline-icon" width="20" height="20" /> TaskMate 公式LINE：無料で相談できます
+##  TaskMate 公式LINE：無料で相談できます
 
 TaskMateは、プログラミング初心者でも使える自動化の相談を**無料**で受け付けています。
 
@@ -366,16 +366,16 @@ TaskMateは、プログラミング初心者でも使える自動化の相談を
 
 最後にもう一度、伝えたいことをまとめます。
 
-<img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> **完璧なコードを書ける必要はない**
+ **完璧なコードを書ける必要はない**
 → 問題を解決できればOK
 
-<img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> **バイブコーディング：言葉で伝えればコードになる**
+ **バイブコーディング：言葉で伝えればコードになる**
 → TaskMateがAIでコード生成
 
-<img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> **まずは小さな自動化から始める**
+ **まずは小さな自動化から始める**
 → 1つ成功すれば、次々に応用できる
 
-<img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> **エラーを恐れない**
+ **エラーを恐れない**
 → 修正は簡単、TaskMateに聞けばいい
 
 あなたの業務を劇的に効率化する。

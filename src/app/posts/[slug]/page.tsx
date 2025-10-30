@@ -106,7 +106,7 @@ export default async function Post({ params }: Props) {
           </header>
 
           {/* 記事コンテンツ */}
-          <div className="bg-[var(--background)] border border-[var(--border-color)] rounded-2xl px-8 py-10 md:px-16 md:py-14 shadow-lg mb-12">
+          <div className="bg-[var(--background)] border border-[var(--border-color)] rounded-2xl px-4 py-8 sm:px-6 sm:py-10 md:px-16 md:py-14 shadow-lg mb-12">
             <div
               className="markdown-content"
               dangerouslySetInnerHTML={{ __html: post.contentHtml || '' }}

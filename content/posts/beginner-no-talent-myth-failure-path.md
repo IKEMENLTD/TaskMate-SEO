@@ -140,15 +140,15 @@ function findMemberRow(email) {
 
 **このコードの説明:**
 
-<img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> **メール検索機能**
+ **メール検索機能**
 - 過去**7日**間の「週報」という件名のメールを自動検索
 - 各メンバーからのメールを個別に処理
 
-<img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> **データ抽出処理**
+ **データ抽出処理**
 - メール本文から「訪問件数：10」のような形式を自動認識
 - 数値データと次週予定のテキストを分離して取得
 
-<img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> **自動転記**
+ **自動転記**
 - 送信者のメールアドレスから該当メンバーの行を特定
 - 抽出したデータを正しい列に自動で書き込み
 
