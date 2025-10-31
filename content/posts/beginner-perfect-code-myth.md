@@ -10,9 +10,9 @@ keywords: ["プログラミング 完璧主義", "初心者", "マインドセ�
 
 ![プログラミング学習のイメージ](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&h=400&fit=crop)
 
-<span class="text-teal">**「エラーばかりで、まともなコードが書けない...」**</span>
+<span class="text-teal"><span class="text-teal">**「エラーばかりで、まともなコードが書けない...」**</span></span>
 
-<span class="text-teal">**「もっと綺麗に書かなきゃって思うと、手が止まる...」**</span>
+<span class="text-teal"><span class="text-teal">**「もっと綺麗に書かなきゃって思うと、手が止まる...」**</span></span>
 
 そんな風に感じていませんか？
 
@@ -38,7 +38,7 @@ Google、Meta、Amazonといった巨大IT企業のコードベースにも、�
 
 プログラミングの本質は、こうです：
 
-<span class="text-teal">**「困っている作業を、自動化すること」**</span>
+<span class="text-teal"><span class="text-teal">**「困っている作業を、自動化すること」**</span></span>
 
 それだけ。
 
@@ -60,7 +60,7 @@ Google、Meta、Amazonといった巨大IT企業のコードベースにも、�
 
 ### <span class="text-teal">💡 バイブコーディングとは？</span>
 
-<span class="text-teal">**「自分がやりたいことを、直感的に言葉で表現すれば、それがコードになる」**</span>
+<span class="text-teal"><span class="text-teal">**「自分がやりたいことを、直感的に言葉で表現すれば、それがコードになる」**</span></span>
 
 という考え方です。
 
@@ -248,7 +248,7 @@ TaskMateにお願いするときは、こう考えます：
 
 プログラミングを「勉強」だと思わない。
 
-<span class="text-teal">**「困っていることを解決する道具」**</span>として使う。
+<span class="text-teal"><span class="text-teal">**「困っていることを解決する道具」**</span></span>として使う。
 
 それがバイブコーディングの本質です。
 
@@ -291,7 +291,7 @@ TaskMateを使えば、こんなことが自動化できます：
 
 多くの人がプログラミングで挫折する理由は、
 
-<span class="text-teal">**「完璧じゃなきゃダメ」**</span>
+<span class="text-teal"><span class="text-teal">**「完璧じゃなきゃダメ」**</span></span>
 
 という思い込みです。
 
@@ -342,7 +342,7 @@ TaskMateを使えば、こんなことが自動化できます：
 
 そして、自動化システムが動くのを見てください。
 
-<span class="text-teal">**「自分で作ったシステムが、勝手に動いている」**</span>
+<span class="text-teal"><span class="text-teal">**「自分で作ったシステムが、勝手に動いている」**</span></span>
 
 この瞬間の感動は、何にも代えがたいものです。
 

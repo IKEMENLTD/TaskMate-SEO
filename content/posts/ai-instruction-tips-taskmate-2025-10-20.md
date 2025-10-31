@@ -48,7 +48,7 @@ ChatGPTやTaskMateなどのAIツールに興味はあるものの、「何をど
 
 ## <span class="text-underline">💡 コツ1：「What（何を）」を明確に伝える｜曖昧でも大丈夫</span>
 
-TaskMateに指示を出すとき、最も重要なのは<span class="text-teal">**「何をしてほしいのか」**</span>を伝えることです。
+TaskMateに指示を出すとき、最も重要なのは<span class="text-teal"><span class="text-teal">**「何をしてほしいのか」**</span></span>を伝えることです。
 
 ---
 
@@ -518,7 +518,7 @@ TaskMateは幅広い分野の知識を持っているので、一般的な専門
 
 「詳しく説明した方がいいのか、簡潔な方がいいのか」というのも悩みどころですよね。
 
-答えは、<span class="text-teal">**「必要な情報は省略しない。でも、一文一文は短く、読みやすく」**</span>です。
+答えは、<span class="text-teal"><span class="text-teal">**「必要な情報は省略しない。でも、一文一文は短く、読みやすく」**</span></span>です。
 
 ---
 

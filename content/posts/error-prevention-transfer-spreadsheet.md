@@ -10,7 +10,7 @@ keywords: ["スプレッドシート 転記 ミス", "スプレッドシート",
 
 ![データ転記のイメージ](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop)
 
-<span class="text-teal">**「スプレッドシートの転記ミスで、また顧客に謝罪しなきゃいけない...」**</span>
+<span class="text-teal"><span class="text-teal">**「スプレッドシートの転記ミスで、また顧客に謝罪しなきゃいけない...」**</span></span>
 
 そんな経験、ありませんか?
 
@@ -471,7 +471,7 @@ TaskMateなら、日本語で「こういう転記作業を自動化したい」
 
 #### 改善のサイクルを回す
 
-自動化は「完成」ではなく、<span class="text-teal">**「継続的な改善」**</span>が重要です。
+自動化は「完成」ではなく、<span class="text-teal"><span class="text-teal">**「継続的な改善」**</span></span>が重要です。
 
 使っているうちに「ここをもっとこうしたい」「この機能も追加したい」というアイデアが出てきます。
 
@@ -633,7 +633,7 @@ GASやTaskMateでは、こうした検証ルールを簡単に設定できます
 
 ### 失敗パターン1：完璧を目指しすぎて始められない
 
-<span class="text-teal">**「すべての業務を一度に自動化しよう」**</span>と考えて、複雑な設計を始めてしまう。
+<span class="text-teal"><span class="text-teal">**「すべての業務を一度に自動化しよう」**</span></span>と考えて、複雑な設計を始めてしまう。
 
 結果、途中で挫折して、結局何も完成しない。
 

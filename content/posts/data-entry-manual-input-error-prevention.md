@@ -10,7 +10,7 @@ keywords: ["手入力 ミス 防止", "手入力ミス", "データ入力", "自
 
 ![データ入力のイメージ](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=400&fit=crop)
 
-<span class="text-teal">**「またデータ入力でミスをしてしまった...」**</span>
+<span class="text-teal"><span class="text-teal">**「またデータ入力でミスをしてしまった...」**</span></span>
 
 そう思って、青ざめた経験はありませんか？
 

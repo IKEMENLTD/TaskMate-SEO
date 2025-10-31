@@ -264,7 +264,7 @@ AIは、GASとGoogleドライブ、SlackのWebhookを組み合わせるシンプ
 
 **あなたの会社で使っているExcelのファイル、完璧に動いていますか？** たまに「#REF!」エラーが出たり、数式が壊れていたりしませんか？
 
-でも、それでも使い続けていますよね。なぜなら、<span class="text-teal">**「完璧じゃなくても、十分に役立っているから」**</span>です。
+でも、それでも使い続けていますよね。なぜなら、<span class="text-teal"><span class="text-teal">**「完璧じゃなくても、十分に役立っているから」**</span></span>です。
 
 ---
 
@@ -316,7 +316,7 @@ Googleフォームに顧客名と商談ステージを入力すると、スプ�
 
 ### <span class="text-teal">💡 ❓「AIが作ったシステム、セキュリティは大丈夫なの？」</span>
 
-これ、一番多い質問です。結論から言うと、<span class="text-teal">**「使うツール次第」**</span>です。
+これ、一番多い質問です。結論から言うと、<span class="text-teal"><span class="text-teal">**「使うツール次第」**</span></span>です。
 
 TaskMateが主に使うGAS（Google Apps Script）は、Googleが提供するプラットフォーム上で動きます。つまり、セキュリティはGoogleが担保している。
 
