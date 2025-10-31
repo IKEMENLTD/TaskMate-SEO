@@ -10,7 +10,7 @@ keywords: ["在庫数 合わない", "在庫管理", "実在庫", "データ整�
 
 ![在庫管理のイメージ](https://images.unsplash.com/photo-1553413077-190dd305871c?w=800&h=400&fit=crop)
 
-<span class="text-teal"><span class="text-teal">**「また在庫が合わない...一体どこで間違えたんだろう」**</span></span>
+<span class="text-teal"><span class="text-teal"><span class="text-teal">**「また在庫が合わない...一体どこで間違えたんだろう」**</span></span></span>
 
 月末の棚卸作業。システム上の在庫数と実在庫を照合していると、またもや数字が合わない。
 
@@ -514,7 +514,7 @@ Cさんが返品を受け付けたけど、システムに反映されていな�
 
 自動化は「導入したら終わり」ではありません。
 
-<span class="text-teal"><span class="text-teal">**「導入してからが始まり」**</span></span>なんです。
+<span class="text-teal"><span class="text-teal"><span class="text-teal">**「導入してからが始まり」**</span></span></span>なんです。
 
 ---
 
@@ -883,7 +883,7 @@ TaskMateを使った在庫管理自動化の最大のメリットは、**低コ�
 > - 新機能の追加検討
 > - システムの見直し
 
-<span class="text-teal"><span class="text-teal">**「測定できないものは改善できない」**</span></span>
+<span class="text-teal"><span class="text-teal"><span class="text-teal">**「測定できないものは改善できない」**</span></span></span>
 
 数字で効果を見える化することで、改善の方向性が明確になります。
 

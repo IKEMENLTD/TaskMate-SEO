@@ -6,7 +6,7 @@ slug: "beginner-error-mindset-first-truth"
 keywords: ["初心者", "マインドセット", "TaskMate", "Google Apps Script", "LINE", "自動化"]
 ---
 
-<span class="text-teal"><span class="text-teal">**「エラーが出て、もう自分にはプログラミングは無理だと諦めていませんか？」**</span></span>
+<span class="text-teal"><span class="text-teal"><span class="text-teal">**「エラーが出て、もう自分にはプログラミングは無理だと諦めていませんか？」**</span></span></span>
 
 画面に表示された赤い文字のエラーメッセージ。何が書いてあるのか分からない英語の羅列。どこを直せばいいのか見当もつかない。そんな経験をして、「やっぱり自分には才能がないんだ」と思っていませんか。
 

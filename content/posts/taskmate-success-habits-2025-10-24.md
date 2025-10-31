@@ -392,7 +392,7 @@ Excelでリストを作っている人もいれば、Notionでデータベース
 
 記録をつけることの効果は、報告のためだけではありません。
 
-最も大きな効果は、<span class="text-teal"><span class="text-teal">**「モチベーションの維持」**</span></span>です。
+最も大きな効果は、<span class="text-teal"><span class="text-teal"><span class="text-teal">**「モチベーションの維持」**</span></span></span>です。
 
 自動化って、始めた直後は「すごい、楽になった！」という実感があります。
 
@@ -412,7 +412,7 @@ Excelでリストを作っている人もいれば、Notionでデータベース
 
 ### <span class="text-teal">💡 記録で見える「優先順位」</span>
 
-記録をつけるもう1つのメリットは、<span class="text-teal"><span class="text-teal">**「優先順位が見える」**</span></span>こと。
+記録をつけるもう1つのメリットは、<span class="text-teal"><span class="text-teal"><span class="text-teal">**「優先順位が見える」**</span></span></span>こと。
 
 複数の業務を自動化しようと考えたとき、「どれから手をつけるべきか」を判断するのは意外と難しいものです。
 
@@ -429,7 +429,7 @@ Excelでリストを作っている人もいれば、Notionでデータベース
 
 Excelの簡単な表でも、手書きのノートでも、スマホのメモアプリでも。
 
-大切なのは、<span class="text-teal"><span class="text-teal">**「記録をつけ続ける」**</span></span>こと。
+大切なのは、<span class="text-teal"><span class="text-teal"><span class="text-teal">**「記録をつけ続ける」**</span></span></span>こと。
 
 > 💡 **習慣化のポイント**
 >
@@ -463,7 +463,7 @@ Excelの簡単な表でも、手書きのノートでも、スマホのメモア
 
 試行錯誤を繰り返し、失敗も経験しながら、少しずつ習慣を身につけていったんです。
 
-大切なのは、<span class="text-teal"><span class="text-teal">**「今日から始める」**</span></span>こと。
+大切なのは、<span class="text-teal"><span class="text-teal"><span class="text-teal">**「今日から始める」**</span></span></span>こと。
 
 明日から頑張ろうと思っても、明日になれば「明後日から」になりがちです。
 

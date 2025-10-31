@@ -10,9 +10,9 @@ keywords: ["ツール導入 コスパ", "業務効率化ツール", "比較", "�
 
 ![業務効率化ツールのイメージ](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=400&fit=crop)
 
-<span class="text-teal">**「業務効率化ツールを導入したいけど、月額費用が高すぎる」**</span>
-<span class="text-teal">**「予算は限られているのに、どのツールを選べばいいかわからない」**</span>
-<span class="text-teal">**「導入しても、本当に元が取れるのか不安...」**</span>
+<span class="text-teal"><span class="text-teal">**「業務効率化ツールを導入したいけど、月額費用が高すぎる」**</span></span>
+<span class="text-teal"><span class="text-teal">**「予算は限られているのに、どのツールを選べばいいかわからない」**</span></span>
+<span class="text-teal"><span class="text-teal">**「導入しても、本当に元が取れるのか不安...」**</span></span>
 
 そんな悩みを抱えていませんか？
 

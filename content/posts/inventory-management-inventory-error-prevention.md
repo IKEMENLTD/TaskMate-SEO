@@ -10,11 +10,11 @@ keywords: ["発注ミス なくす方法", "発注ミス", "在庫管理", "欠�
 
 ![在庫管理のイメージ](https://images.unsplash.com/photo-1553413077-190dd305871c?w=800&h=400&fit=crop)
 
-<span class="text-teal"><span class="text-teal">**「発注数を間違えて、倉庫が在庫で埋まってしまった...」**</span></span>
+<span class="text-teal"><span class="text-teal"><span class="text-teal">**「発注数を間違えて、倉庫が在庫で埋まってしまった...」**</span></span></span>
 
-<span class="text-teal"><span class="text-teal">**「発注を忘れて、お客様に『在庫切れです』と謝る電話をかけている...」**</span></span>
+<span class="text-teal"><span class="text-teal"><span class="text-teal">**「発注を忘れて、お客様に『在庫切れです』と謝る電話をかけている...」**</span></span></span>
 
-<span class="text-teal"><span class="text-teal">**「毎月の棚卸で、帳簿と実在庫が合わずに深夜まで原因を探している...」**</span></span>
+<span class="text-teal"><span class="text-teal"><span class="text-teal">**「毎月の棚卸で、帳簿と実在庫が合わずに深夜まで原因を探している...」**</span></span></span>
 
 こんな経験、ありませんか？
 

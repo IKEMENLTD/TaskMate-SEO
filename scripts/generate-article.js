@@ -203,7 +203,7 @@ slug: "${topic.slug}"
   try {
     const message = await anthropic.messages.create({
       model: 'claude-sonnet-4-5-20250929',
-      max_tokens: 16000,
+      max_tokens: 20000,  // Optimized for Japanese long articles
       temperature: 0.7,
       messages: [{
         role: 'user',
@@ -213,10 +213,20 @@ slug: "${topic.slug}"
 
     const response = message.content[0].text;
     console.log('✅ Article generated successfully');
+
+    // Check if response is complete (not truncated)
+    if (message.stop_reason === 'max_tokens') {
+      console.warn('⚠️  WARNING: Response may be truncated (hit max_tokens limit)');
+      console.warn('⚠️  Consider regenerating this article');
+    }
+
     return response;
 
   } catch (error) {
     console.error('❌ Claude API Error:', error.message);
+    if (error.message && error.message.includes('timeout')) {
+      console.error('💡 TIP: The article generation is taking too long. Try reducing max_tokens or use streaming.');
+    }
     throw error;
   }
 }

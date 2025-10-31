@@ -10,7 +10,7 @@ keywords: ["作業時間 削減 方法", "業務効率化", "時間削減", "自
 
 ![業務効率化のイメージ](https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&h=400&fit=crop)
 
-<span class="text-teal">**「今日も残業か...」**</span>
+<span class="text-teal"><span class="text-teal">**「今日も残業か...」**</span></span>
 
 そう思いながら、パソコンの前に座る夕方6時。やるべきことはまだ山積み。データ入力、メール返信、資料作成、報告書のまとめ...。
 
@@ -209,7 +209,7 @@ ExcelやGoogleスプレッドシート、Gmailなど、日常的に使ってい�
 
 ## <span class="text-underline">施策2：メール処理を半自動化｜テンプレートとフィルタの活用</span>
 
-記録をつけてみると、多くの人が気づくのが<span class="text-teal">**「メール処理に思った以上に時間を取られている」**</span>という事実です。
+記録をつけてみると、多くの人が気づくのが<span class="text-teal"><span class="text-teal">**「メール処理に思った以上に時間を取られている」**</span></span>という事実です。
 
 実際、オフィスワーカーは1日平均**2.5時間をメール処理に費やしている**というデータもあります。
 

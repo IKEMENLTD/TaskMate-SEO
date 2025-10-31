@@ -68,7 +68,7 @@ keywords: ["プログラミング 初心者 不安", "失敗しても大丈夫",
 
 でも、**プログラミングの世界は全く違います。**試行錯誤の繰り返しこそが、成長の本質です。
 
-実際、シリコンバレーの開発文化では<span class="text-teal"><span class="text-teal">**「Fail Fast（早く失敗しろ）」**</span></span>という言葉が合言葉になっています。早く失敗すればするほど、早く学べて、早く成長できる。
+実際、シリコンバレーの開発文化では<span class="text-teal"><span class="text-teal"><span class="text-teal">**「Fail Fast（早く失敗しろ）」**</span></span></span>という言葉が合言葉になっています。早く失敗すればするほど、早く学べて、早く成長できる。
 
 ---
 
@@ -85,7 +85,7 @@ TaskMateを使っている初心者ユーザーの声を聞くと、こんな意
 
 GoogleやAmazonといった世界的なテック企業には、共通した文化があります。それは「失敗を奨励する」文化です。
 
-Googleには<span class="text-teal"><span class="text-teal">**「ポストモーテム（事後検証）」**</span></span>という制度があります。システム障害やバグが発生したとき、原因を追求するだけでなく、そこから何を学んだかを全社で共有します。
+Googleには<span class="text-teal"><span class="text-teal"><span class="text-teal">**「ポストモーテム（事後検証）」**</span></span></span>という制度があります。システム障害やバグが発生したとき、原因を追求するだけでなく、そこから何を学んだかを全社で共有します。
 
 **失敗した人を責めるのではなく、失敗から得た知見を組織の財産にする仕組み**です。
 
@@ -209,7 +209,7 @@ TaskMateは、あなたの学習履歴を総合的に分析します。
 
 ### <span class="text-teal">💡 AIだからこそ実現できる「無限の忍耐力」</span>
 
-TaskMateには、人間の講師にはない大きな利点があります。それは<span class="text-teal"><span class="text-teal">**「何度同じことを聞いても、決して嫌な顔をしない」**</span></span>ことです。
+TaskMateには、人間の講師にはない大きな利点があります。それは<span class="text-teal"><span class="text-teal"><span class="text-teal">**「何度同じことを聞いても、決して嫌な顔をしない」**</span></span></span>ことです。
 
 同じエラーで**3回**つまずいた？大丈夫です。同じ概念を**5回**質問した？全く問題ありません。
 

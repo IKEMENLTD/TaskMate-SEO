@@ -10,7 +10,7 @@ keywords: ["少人数 業務効率化", "中小企業", "業務効率化", "少�
 
 ![少人数チームのイメージ](https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&h=400&fit=crop)
 
-<span class="text-teal"><span class="text-teal">**「人手が足りなくて、売上を伸ばせない」**</span></span>
+<span class="text-teal"><span class="text-teal"><span class="text-teal">**「人手が足りなくて、売上を伸ばせない」**</span></span></span>
 
 そう思い込んでいませんか？
 
@@ -18,7 +18,7 @@ keywords: ["少人数 業務効率化", "中小企業", "業務効率化", "少�
 
 彼らは特別な才能を持っていたわけでも、莫大な資金があったわけでもありません。
 
-ただ、<span class="text-teal"><span class="text-teal">**「少人数だからこそできる業務自動化」**</span></span>を徹底的に実践しただけなんです。
+ただ、<span class="text-teal"><span class="text-teal"><span class="text-teal">**「少人数だからこそできる業務自動化」**</span></span></span>を徹底的に実践しただけなんです。
 
 ### 📊 中小企業が抱える共通の悩み
 

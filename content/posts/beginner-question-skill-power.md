@@ -6,7 +6,7 @@ slug: "beginner-question-skill-power"
 keywords: ["初心者", "マインドセット", "TaskMate", "Google Apps Script", "LINE", "自動化"]
 ---
 
-<span class="text-teal"><span class="text-teal">**「こんな基本的なこと、聞いたら笑われるかもしれない…」**</span></span>
+<span class="text-teal"><span class="text-teal"><span class="text-teal">**「こんな基本的なこと、聞いたら笑われるかもしれない…」**</span></span></span>
 
 プログラミングを始めたばかりのあなたは、画面に表示されたエラーメッセージを前に、そう思って質問を飲み込んだ経験はありませんか？Googleスプレッドシートで業務を効率化したい、Google Apps Scriptで自動化を実現したい。そんな目標を持って学び始めたものの、わからないことだらけで前に進めない。周りの人は当たり前のように使いこなしているように見えて、自分だけが取り残されている気がする。
 

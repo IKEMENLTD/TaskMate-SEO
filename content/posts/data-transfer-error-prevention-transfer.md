@@ -10,7 +10,7 @@ keywords: ["データ転記 ミス", "データ転記", "自動化", "エクセ�
 
 ![データ転記のイメージ](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=400&fit=crop)
 
-<span class="text-teal"><span class="text-teal">**「エクセルからスプレッドシートにデータをコピーしたら、また数字が間違ってた…」**</span></span>
+<span class="text-teal"><span class="text-teal"><span class="text-teal">**「エクセルからスプレッドシートにデータをコピーしたら、また数字が間違ってた…」**</span></span></span>
 
 そんな経験、ありませんか？
 
