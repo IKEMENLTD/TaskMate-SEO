@@ -24,7 +24,7 @@ keywords: ["多店舗展開 売上管理", "多店舗", "売上管理", "日次�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 店舗数が増えるほど、管理工数は指数関数的に増える</span>
+### <span class="text-teal">店舗数が増えるほど、管理工数は指数関数的に増える</span>
 
 店舗が3つなら、まだなんとかなります。でも、5店舗、10店舗と増えていくと、もはや個人の努力では限界があります。
 
@@ -36,7 +36,7 @@ keywords: ["多店舗展開 売上管理", "多店舗", "売上管理", "日次�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> この記事でわかること</span>
+### <span class="text-teal">この記事でわかること</span>
 
 この記事では、**多店舗展開における売上管理を劇的に効率化する方法**を、実践的なステップとともにお伝えします。
 
@@ -52,7 +52,7 @@ keywords: ["多店舗展開 売上管理", "多店舗", "売上管理", "日次�
 
 まず、「なぜ多店舗の売上管理がこれほど大変なのか」を理解しておきましょう。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 原因1：データフォーマットの不統一</span>
+### <span class="text-teal">原因1：データフォーマットの不統一</span>
 
 最も多い問題がこれです。各店舗が「自分たちのやりやすい方法」で売上データを作成してしまう。
 
@@ -66,7 +66,7 @@ keywords: ["多店舗展開 売上管理", "多店舗", "売上管理", "日次�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 原因2：リアルタイム性の欠如</span>
+### <span class="text-teal">原因2：リアルタイム性の欠如</span>
 
 2つ目の問題は、**データが「過去のもの」になってしまう**こと。
 
@@ -83,7 +83,7 @@ keywords: ["多店舗展開 売上管理", "多店舗", "売上管理", "日次�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 原因3：店舗間比較の困難さ</span>
+### <span class="text-teal">原因3：店舗間比較の困難さ</span>
 
 3つ目は、**店舗間の比較が難しい**こと。
 
@@ -99,13 +99,13 @@ keywords: ["多店舗展開 売上管理", "多店舗", "売上管理", "日次�
 
 売上管理を自動化すると、どんな変化が起きるのか。実際に導入した企業の事例から、5つのメリットをご紹介します。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット1：管理工数が95%削減される</span>
+### <span class="text-teal">メリット1：管理工数が95%削減される</span>
 
 最も直接的な効果は、**圧倒的な時間削減**です。
 
 ![時間削減のイメージ](https://images.unsplash.com/photo-1434626881859-194d67b2b86f?w=1200&q=80)
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 導入前後の比較
+#### 導入前後の比較
 
 **導入前：10店舗の売上集計**
 - 各店舗からのメール確認：30分
@@ -125,11 +125,11 @@ keywords: ["多店舗展開 売上管理", "多店舗", "売上管理", "日次�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット2：リアルタイムで経営状況が把握できる</span>
+### <span class="text-teal">メリット2：リアルタイムで経営状況が把握できる</span>
 
 自動化の最大の価値は、**「今」の状況がわかる**こと。
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：カフェチェーンの事例
+#### 実例：カフェチェーンの事例
 
 あるカフェチェーン（15店舗）では、リアルタイム売上管理を導入して、こんな変化がありました。
 
@@ -155,11 +155,11 @@ keywords: ["多店舗展開 売上管理", "多店舗", "売上管理", "日次�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット3：データの精度が向上する</span>
+### <span class="text-teal">メリット3：データの精度が向上する</span>
 
 手作業でのデータ入力には、必ずミスがつきものです。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> ヒューマンエラーのデータ
+#### ヒューマンエラーのデータ
 
 ある調査によると、**手作業でのデータ入力では、平均して1%のエラーが発生する**そうです。
 
@@ -172,7 +172,7 @@ keywords: ["多店舗展開 売上管理", "多店舗", "売上管理", "日次�
 
 **年間180万円分のデータが不正確**ということになります。しかも、どこが間違っているかわからない。
 
-#### <img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 自動化による精度向上
+#### 自動化による精度向上
 
 自動化システムでは：
 - 入力時にリアルタイムでエラーチェック
@@ -183,11 +183,11 @@ keywords: ["多店舗展開 売上管理", "多店舗", "売上管理", "日次�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット4：店舗間比較が簡単になる</span>
+### <span class="text-teal">メリット4：店舗間比較が簡単になる</span>
 
 データが統一されると、**店舗間の比較が驚くほど簡単に**なります。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 自動生成される分析レポート
+#### 自動生成される分析レポート
 
 **売上ランキング：** 日次・週次・月次で自動ランキング、前週比・前年比も自動計算
 
@@ -201,11 +201,11 @@ keywords: ["多店舗展開 売上管理", "多店舗", "売上管理", "日次�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット5：店舗スタッフの負担も軽減</span>
+### <span class="text-teal">メリット5：店舗スタッフの負担も軽減</span>
 
 本部だけでなく、**各店舗の負担も大幅に減ります**。
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：小売チェーンの店長の声
+#### 実例：小売チェーンの店長の声
 
 「以前は、営業終了後にExcelで売上をまとめて、メールで送信していました。慣れていても30分はかかります。疲れているときは、数字を間違えることも。
 
@@ -219,11 +219,11 @@ keywords: ["多店舗展開 売上管理", "多店舗", "売上管理", "日次�
 
 それでは、具体的にどうやって自動化システムを構築するのか、7つのステップで解説します。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ1：現状の売上管理フローを可視化する</span>
+### <span class="text-teal">ステップ1：現状の売上管理フローを可視化する</span>
 
 まず、**今の売上管理がどうなっているか**を整理しましょう。
 
-#### <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> 確認すべきポイント
+#### 確認すべきポイント
 
 **データの流れ：**
 - [ ] 各店舗はどうやって売上を記録しているか？
@@ -246,7 +246,7 @@ keywords: ["多店舗展開 売上管理", "多店舗", "売上管理", "日次�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ2：統一フォーマットを設計する</span>
+### <span class="text-teal">ステップ2：統一フォーマットを設計する</span>
 
 次に、**全店舗で使う統一フォーマット**を作ります。
 
@@ -267,7 +267,7 @@ keywords: ["多店舗展開 売上管理", "多店舗", "売上管理", "日次�
 - 支払方法別売上
 - スタッフ数
 
-#### <img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> フォーマット設計のコツ
+#### フォーマット設計のコツ
 
 **シンプルに：** 入力項目は最小限に。多すぎると店舗の負担が増える
 
@@ -279,7 +279,7 @@ keywords: ["多店舗展開 売上管理", "多店舗", "売上管理", "日次�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ3：Googleフォームで入力画面を作成</span>
+### <span class="text-teal">ステップ3：Googleフォームで入力画面を作成</span>
 
 統一フォーマットが決まったら、**Googleフォームで入力画面**を作ります。
 
@@ -305,7 +305,7 @@ keywords: ["多店舗展開 売上管理", "多店舗", "売上管理", "日次�
 - 数値の範囲を設定（例：売上は0〜1,000,000円）
 - 異常値を入力できないようにする
 
-#### <img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 店舗スタッフにとって使いやすいフォーム
+#### 店舗スタッフにとって使いやすいフォーム
 
 「フォームが複雑すぎて、入力に時間がかかる」
 
@@ -315,13 +315,13 @@ keywords: ["多店舗展開 売上管理", "多店舗", "売上管理", "日次�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ4：Googleスプレッドシートで集計シートを作成</span>
+### <span class="text-teal">ステップ4：Googleスプレッドシートで集計シートを作成</span>
 
 Googleフォームの回答は、自動的にGoogleスプレッドシートに記録されます。
 
 このスプレッドシートに、**集計・分析機能を追加**していきます。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 集計シートの構成
+#### 集計シートの構成
 
 **シート1：フォーム回答（自動生成）**
 - Googleフォームからの回答が自動で記録される

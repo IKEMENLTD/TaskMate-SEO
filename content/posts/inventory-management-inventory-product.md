@@ -28,7 +28,7 @@ keywords: ["商品数 増加 在庫管理", "在庫管理", "商品管理", "SKU
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 商品数の増加が在庫管理を困難にする</span>
+### <span class="text-teal">商品数の増加が在庫管理を困難にする</span>
 
 実は、EC市場の拡大に伴い、多くの企業が「商品数の増加」という課題に直面しています。
 
@@ -40,7 +40,7 @@ keywords: ["商品数 増加 在庫管理", "在庫管理", "商品管理", "SKU
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> この記事でわかること</span>
+### <span class="text-teal">この記事でわかること</span>
 
 この記事では、**商品数1000点超えでも確実に管理できる在庫管理術**を、実践的に解説します。
 
@@ -56,7 +56,7 @@ keywords: ["商品数 増加 在庫管理", "在庫管理", "商品管理", "SKU
 
 まず、「なぜ商品数が増えると在庫管理が難しくなるのか」を理解しておきましょう。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 原因1：情報の更新が追いつかない</span>
+### <span class="text-teal">原因1：情報の更新が追いつかない</span>
 
 商品数が少ない頃は、入荷も出荷も、その都度Excelを更新できました。でも、商品数が1000点を超えると、**1日の入出荷件数が50件以上**になることも珍しくありません。
 
@@ -71,7 +71,7 @@ keywords: ["商品数 増加 在庫管理", "在庫管理", "商品管理", "SKU
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 原因2：複数の管理表が乱立する</span>
+### <span class="text-teal">原因2：複数の管理表が乱立する</span>
 
 商品数が増えると、部署ごとに独自の管理表を作り始めます。
 
@@ -87,7 +87,7 @@ keywords: ["商品数 増加 在庫管理", "在庫管理", "商品管理", "SKU
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 原因3：SKU管理の複雑化</span>
+### <span class="text-teal">原因3：SKU管理の複雑化</span>
 
 商品数が増えると、SKU（在庫管理単位）の管理も複雑になります。
 
@@ -107,7 +107,7 @@ keywords: ["商品数 増加 在庫管理", "在庫管理", "商品管理", "SKU
 
 従来のExcel管理や高額な在庫管理システムと比べて、**Googleスプレッドシート×GASによる在庫管理**には、圧倒的なメリットがあります。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット1：リアルタイムで情報共有できる</span>
+### <span class="text-teal">メリット1：リアルタイムで情報共有できる</span>
 
 Googleスプレッドシートの最大の強みは、**クラウドベースでリアルタイム共有**できること。
 
@@ -127,7 +127,7 @@ Googleスプレッドシートの最大の強みは、**クラウドベースで
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット2：導入コストがほぼゼロ</span>
+### <span class="text-teal">メリット2：導入コストがほぼゼロ</span>
 
 専用の在庫管理システムを導入すると、初期費用だけで**50万円〜300万円**、月額費用も**3万円〜10万円**かかります。
 
@@ -150,7 +150,7 @@ Googleスプレッドシートの最大の強みは、**クラウドベースで
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット3：自社の業務フローに完全カスタマイズできる</span>
+### <span class="text-teal">メリット3：自社の業務フローに完全カスタマイズできる</span>
 
 既製の在庫管理システムは、「システムに業務を合わせる」必要があります。でも、スプレッドシートなら、**「業務にシステムを合わせる」**ことができます。
 
@@ -166,7 +166,7 @@ Googleスプレッドシートの最大の強みは、**クラウドベースで
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット4：他のツールとの連携が容易</span>
+### <span class="text-teal">メリット4：他のツールとの連携が容易</span>
 
 GASを使えば、**他のシステムやツールとの連携**が驚くほど簡単になります。
 
@@ -182,7 +182,7 @@ GASを使えば、**他のシステムやツールとの連携**が驚くほど�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット5：段階的に機能を追加できる</span>
+### <span class="text-teal">メリット5：段階的に機能を追加できる</span>
 
 専用システムは、最初から全機能を導入する必要があります。でも、スプレッドシートなら、**小さく始めて、徐々に機能を追加**できます。
 
@@ -204,7 +204,7 @@ GASを使えば、**他のシステムやツールとの連携**が驚くほど�
 
 それでは、具体的な構築手順を見ていきましょう。最初のステップは、**「どんな情報を管理するか」を決めること**です。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 最低限必要な基本項目</span>
+### <span class="text-teal">最低限必要な基本項目</span>
 
 どんな業種でも、最低限これだけは必要という項目があります。
 
@@ -222,7 +222,7 @@ GASを使えば、**他のシステムやツールとの連携**が驚くほど�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 業種別の追加項目</span>
+### <span class="text-teal">業種別の追加項目</span>
 
 業種によって、追加すべき項目は異なります。
 
@@ -252,7 +252,7 @@ GASを使えば、**他のシステムやツールとの連携**が驚くほど�
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：雑貨EC事業者Dさんの設計プロセス
+### 実例：雑貨EC事業者Dさんの設計プロセス
 
 雑貨を扱うEC事業者のDさん（商品数約1200点）は、こんなプロセスで設計しました。
 
@@ -272,17 +272,17 @@ GASを使えば、**他のシステムやツールとの連携**が驚くほど�
 
 ---
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 項目設計のチェックリスト
+### 項目設計のチェックリスト
 
-> <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> **設計時のチェックポイント**
+> **設計時のチェックポイント**
 >
-> <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> 商品を一意に識別できる項目があるか
-> <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> 在庫の増減を記録できる項目があるか
-> <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> 発注判断に必要な項目があるか
-> <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> 保管場所が特定できる項目があるか
-> <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> 将来の拡張性を考慮しているか
+> 商品を一意に識別できる項目があるか
+> 在庫の増減を記録できる項目があるか
+> 発注判断に必要な項目があるか
+> 保管場所が特定できる項目があるか
+> 将来の拡張性を考慮しているか
 
-<img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> **所要時間：2〜3時間**
+**所要時間：2〜3時間**
 
 ---
 
@@ -290,7 +290,7 @@ GASを使えば、**他のシステムやツールとの連携**が驚くほど�
 
 項目設計ができたら、次は**商品マスタの作成**です。これが在庫管理の基盤になります。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 商品マスタとは</span>
+### <span class="text-teal">商品マスタとは</span>
 
 商品マスタとは、**すべての商品情報を一元管理するデータベース**のこと。在庫数以外の、商品の基本情報をまとめたものです。
 
@@ -309,7 +309,7 @@ GASを使えば、**他のシステムやツールとの連携**が驚くほど�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 商品コードの設計ルール</span>
+### <span class="text-teal">商品コードの設計ルール</span>
 
 商品コードは、在庫管理の要です。適切なルールを決めておかないと、後で混乱します。
 

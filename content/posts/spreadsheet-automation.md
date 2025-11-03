@@ -24,7 +24,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 
 ![パソコンの前で困っている様子](https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&q=80)
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> スプレッドシート管理の3大限界
+### スプレッドシート管理の3大限界
 
 中小企業庁の2024年調査によると、スプレッドシートで業務管理をしている企業が直面する問題は、主に3つに集約されます。
 
@@ -40,7 +40,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 - 情報更新のタイムラグが発生
 - 意思決定が遅れ、ビジネスチャンスを逃す
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> この記事でわかること</span>
+### <span class="text-teal">この記事でわかること</span>
 
 この記事では、**スプレッドシートの限界を超えて、完全自動化へ移行する具体的な方法**をお伝えします。
 
@@ -58,13 +58,13 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 
 そう思っている方もいるかもしれません。でも、ビジネス環境は急速に変化しています。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> データ量の爆発的増加</span>
+### <span class="text-teal">データ量の爆発的増加</span>
 
 10年前と比べて、企業が扱うデータ量は**平均で約50倍**に増えています（総務省2024年データ）。
 
 顧客情報、売上データ、在庫情報、問い合わせ履歴...。これらすべてをスプレッドシートで管理しようとすると、どうなるか。
 
-> <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> **製造業A社の実例**
+> **製造業A社の実例**
 >
 > 従業員50名の製造業A社では、受注管理をExcelで行っていました。
 > 月間受注件数が100件だった頃は問題なかったものの、ビジネスが成長して月間500件になると...
@@ -75,7 +75,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 
 「成長の証」であるはずのデータ増加が、逆に業務の足かせになってしまったんです。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> リモートワークの普及</span>
+### <span class="text-teal">リモートワークの普及</span>
 
 コロナ禍以降、**リモートワークを導入した企業は約78%**（日本経済新聞2024年調査）。
 
@@ -86,7 +86,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 - 気づかずに上書きしてしまい、データが消失
 - バージョン管理ができず、「どれが最新？」状態
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 人的ミスによる損失額
+### 人的ミスによる損失額
 
 日本生産性本部の調査では、**スプレッドシートの入力ミスによる年間損失額は、中小企業で平均約280万円**というデータがあります。
 
@@ -97,7 +97,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 
 「たかが入力ミス」が、積み重なると大きな損失になるんです。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 競合他社との差</span>
+### <span class="text-teal">競合他社との差</span>
 
 業務管理システムを導入している企業と、スプレッドシートのままの企業。この差は、年々開いています。
 
@@ -116,7 +116,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 
 いいえ、違います。今や、中小企業こそ自動化の恩恵を受けるべき時代です。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット1：人的ミスがゼロになる</span>
+### <span class="text-teal">メリット1：人的ミスがゼロになる</span>
 
 自動化の最大のメリットは、**人的ミスがほぼゼロになる**こと。
 
@@ -124,7 +124,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 
 でも、システムは違います。**100回やっても、1000回やっても、同じ精度で処理**してくれます。
 
-> <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> **不動産管理会社B社の事例**
+> **不動産管理会社B社の事例**
 >
 > 物件管理をスプレッドシートで行っていたB社。月に平均**12件**の入力ミスが発生していました。
 >
@@ -135,7 +135,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 >
 > 「ミスを探す時間がなくなって、本来の業務に集中できるようになりました」（担当者談）
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット2：作業時間が劇的に削減される</span>
+### <span class="text-teal">メリット2：作業時間が劇的に削減される</span>
 
 自動化すると、**これまで手作業でやっていた時間がまるごと浮きます**。
 
@@ -149,14 +149,14 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 
 これは、**週5日勤務のうち、丸々1日分の時間が浮く**計算です。
 
-> <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> **時間削減の経済効果**
+> **時間削減の経済効果**
 >
 > 仮に時給2,000円として計算すると：
 > - 月間削減時間：約80時間
 > - 月間削減コスト：**16万円**
 > - 年間削減コスト：**192万円**
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット3：リアルタイムで情報が見える</span>
+### <span class="text-teal">メリット3：リアルタイムで情報が見える</span>
 
 スプレッドシートでは、「誰かが更新するまで情報が古いまま」という問題がありました。
 
@@ -168,7 +168,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 - 売上予測の精度向上
 - 意思決定スピードの向上
 
-> <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> **EC事業者C社の事例**
+> **EC事業者C社の事例**
 >
 > 在庫管理をスプレッドシートで行っていたC社。在庫切れに気づくのが遅れ、**月平均5件の販売機会を逃していました**。
 >
@@ -178,7 +178,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 > - 販売機会損失：**ゼロ**
 > - 月間売上：**約15%向上**
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット4：属人化が解消される</span>
+### <span class="text-teal">メリット4：属人化が解消される</span>
 
 「この業務は田中さんしかわからない」
 
@@ -194,7 +194,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 
 自動化システムなら、**業務の流れがシステム化されているので、誰でも同じように作業できます**。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット5：スケーラビリティ（拡張性）</span>
+### <span class="text-teal">メリット5：スケーラビリティ（拡張性）</span>
 
 ビジネスが成長すると、データ量も業務量も増えます。
 
@@ -202,7 +202,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 
 でも、自動化システムは違います。データ量が10倍になっても、処理速度はほとんど変わりません。
 
-> <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> **人材派遣会社D社の成長事例**
+> **人材派遣会社D社の成長事例**
 >
 > 登録スタッフ100名でスタートしたD社。スプレッドシートで管理していました。
 >
@@ -222,7 +222,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 
 安心してください。自動化への移行は、思っているほど難しくありません。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ1：現状の業務フローを可視化する（1週間）</span>
+### <span class="text-teal">ステップ1：現状の業務フローを可視化する（1週間）</span>
 
 最初にやるべきは、**今の業務フローを「見える化」すること**です。
 
@@ -232,7 +232,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 - どこで時間がかかっているか
 - どこでミスが起きやすいか
 
-> <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> **可視化の方法**
+> **可視化の方法**
 >
 > 1. 業務を洗い出す（付箋に1つずつ書く）
 > 2. 時系列に並べる
@@ -243,7 +243,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 
 この可視化作業、実は**最も重要**です。ここをしっかりやるかどうかで、自動化の成否が決まります。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ2：自動化すべき業務を優先順位づけ（3日）</span>
+### <span class="text-teal">ステップ2：自動化すべき業務を優先順位づけ（3日）</span>
 
 すべてを一度に自動化しようとすると、必ず失敗します。
 
@@ -258,7 +258,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 
 **合計点が高い業務から自動化**していきます。
 
-> <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> **営業会社E社の優先順位づけ例**
+> **営業会社E社の優先順位づけ例**
 >
 > **業務A：日報作成** - 合計10点（毎日、30分、ミス少、全員）
 > **業務B：見積書作成** - 合計11点（毎日、45分、ミス多、営業のみ）
@@ -266,7 +266,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 >
 > → **業務Bから自動化**
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ3：自動化ツールを選定する（1週間）</span>
+### <span class="text-teal">ステップ3：自動化ツールを選定する（1週間）</span>
 
 次は、どのツールを使うか決めます。
 
@@ -287,12 +287,12 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 | kintone | ¥780/人〜 | 低 | 日本企業向け、サポート充実 |
 | TaskMate | 要相談 | 低 | AI活用、日本語対応 |
 
-> <img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> **初心者におすすめ**
+> **初心者におすすめ**
 >
 > プログラミング知識がない方は、**ノーコードツール**から始めるのがおすすめです。
 > 特に、日本語サポートが充実しているツールを選びましょう。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ4：小さく始めて、改善を重ねる（1ヶ月）</span>
+### <span class="text-teal">ステップ4：小さく始めて、改善を重ねる（1ヶ月）</span>
 
 いきなり完璧を目指さないこと。これが成功の秘訣です。
 
@@ -310,7 +310,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 **Week 4：** 全体の見直しと改善
 - フィードバックを反映
 
-> <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> **税理士事務所F社の段階的導入**
+> **税理士事務所F社の段階的導入**
 >
 > **1ヶ月目：** 請求書発行の自動化のみ
 > **2ヶ月目：** 入金確認の自動化を追加
@@ -319,7 +319,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 >
 > **結果：** 4ヶ月で**月間80時間の作業時間削減**
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ5：チーム全体に展開する（1ヶ月）</span>
+### <span class="text-teal">ステップ5：チーム全体に展開する（1ヶ月）</span>
 
 1つの業務で成功したら、次はチーム全体に展開します。
 
@@ -337,7 +337,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 **Step 4：** サポート体制を整える
 - 質問できる環境を作る
 
-> <img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> **展開のコツ**
+> **展開のコツ**
 >
 > 「強制」ではなく、「便利さを実感してもらう」ことが大切です。
 > 実際に使ってもらい、「これ、便利だね」と思ってもらえれば、自然と広がります。
@@ -350,7 +350,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 
 大丈夫です。どんな業種でも、自動化できる業務は必ずあります。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 製造業：生産管理の自動化</span>
+### <span class="text-teal">製造業：生産管理の自動化</span>
 
 **自動化前の課題：**
 - 生産計画をExcelで手作業管理
@@ -368,7 +368,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 
 **合計削減時間：週19時間**
 
-> <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> **金属加工業G社の事例**
+> **金属加工業G社の事例**
 >
 > 従業員30名のG社。生産管理をExcelで行っていました。
 >
@@ -378,7 +378,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 > - 月間作業時間：**76時間削減**
 > - 年間コスト削減：**約180万円**
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 小売業：販売・在庫管理の自動化</span>
+### <span class="text-teal">小売業：販売・在庫管理の自動化</span>
 
 **自動化前の課題：**
 - 日次売上集計に毎日30分
@@ -402,7 +402,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 - セグメント別分析
 - DMの自動配信
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> サービス業：顧客対応の自動化</span>
+### <span class="text-teal">サービス業：顧客対応の自動化</span>
 
 **自動化前の課題：**
 - 予約管理をExcelで手作業
@@ -418,7 +418,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 | リマインド | 前日自動通知 | 無断キャンセル50%減 |
 | 顧客管理 | 自動更新・分析 | データ精度向上 |
 
-> <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> **美容室H社の事例**
+> **美容室H社の事例**
 >
 > 3店舗展開のH社。予約管理をExcelで行っていました。
 >
@@ -428,7 +428,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 > - 無断キャンセル：**52%減少**
 > - 顧客満足度：**18%向上**
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 不動産業：物件・顧客管理の自動化</span>
+### <span class="text-teal">不動産業：物件・顧客管理の自動化</span>
 
 **自動化の内容：**
 
@@ -455,7 +455,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 
 なぜ失敗するのか。そして、どうすれば成功できるのか。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 失敗パターン1：いきなり完璧を目指す</span>
+### <span class="text-teal">失敗パターン1：いきなり完璧を目指す</span>
 
 **よくある失敗：**
 「全業務を一度に自動化しよう」と意気込んで、複雑なシステムを構築。結果、完成せずに挫折。
@@ -468,14 +468,14 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 
 **対策：**
 
-> <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> **スモールスタートの原則**
+> **スモールスタートの原則**
 >
 > - 最も簡単な業務から始める
 > - 1つずつ確実に自動化
 > - 成功体験を積み重ねる
 > - 徐々に範囲を広げる
 
-> <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> **失敗から学んだI社の事例**
+> **失敗から学んだI社の事例**
 >
 > 最初、I社は全業務の自動化を目指しました。6ヶ月かけて開発したものの、複雑すぎて誰も使えず。
 >
@@ -485,7 +485,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 > - 成功体験を得て、次々と自動化
 > - 1年後には当初の目標を達成
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 失敗パターン2：現場の声を聞かない</span>
+### <span class="text-teal">失敗パターン2：現場の声を聞かない</span>
 
 **よくある失敗：**
 経営層や管理職だけで決めて、現場に押し付ける。結果、「使いにくい」「前のほうが良かった」と不満続出。
@@ -498,14 +498,14 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 
 **対策：**
 
-> <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> **現場参加型の開発**
+> **現場参加型の開発**
 >
 > - 現場担当者をプロジェクトに参加させる
 > - 定期的にヒアリングを実施
 > - 試作品を使ってもらいフィードバック
 > - 改善を繰り返す
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 失敗パターン3：教育・サポート不足</span>
+### <span class="text-teal">失敗パターン3：教育・サポート不足</span>
 
 **よくある失敗：**
 システムは完成したけど、使い方がわからない。質問できる人もいない。結果、誰も使わなくなる。
@@ -518,21 +518,21 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 
 **対策：**
 
-> <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> **充実した教育・サポート体制**
+> **充実した教育・サポート体制**
 >
 > - わかりやすいマニュアル作成
 > - 実践的な研修の実施
 > - 質問できる窓口の設置
 > - 定期的なフォローアップ
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 失敗パターン4：効果測定をしない</span>
+### <span class="text-teal">失敗パターン4：効果測定をしない</span>
 
 **よくある失敗：**
 自動化したものの、「本当に効果が出ているのか」がわからない。経営層から「費用対効果は？」と聞かれて答えられない。
 
 **対策：**
 
-> <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> **明確なKPI設定と定期測定**
+> **明確なKPI設定と定期測定**
 >
 > **測定すべき指標：**
 > - 作業時間の削減量（時間/週）
@@ -549,7 +549,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 
 理論だけでなく、実際の成功事例を見てみましょう。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 事例1：人材派遣会社J社（従業員15名）</span>
+### <span class="text-teal">事例1：人材派遣会社J社（従業員15名）</span>
 
 **導入前の課題：**
 - スタッフ管理をExcelで実施
@@ -583,7 +583,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 >
 > 「最初は『うちみたいな小さな会社に自動化なんて』と思っていました。でも、導入してみたら、むしろ小さな会社だからこそ効果が大きかった。浮いた時間で、営業活動に注力できるようになり、売上も**前年比120%**を達成しました」
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 事例2：EC事業者K社（従業員8名）</span>
+### <span class="text-teal">事例2：EC事業者K社（従業員8名）</span>
 
 **導入前の課題：**
 - 受注管理をスプレッドシートで実施
@@ -612,7 +612,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 - レビュー評価：**上昇**
 - リピート率：**28%→42%**
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 事例3：税理士事務所L社（従業員12名）</span>
+### <span class="text-teal">事例3：税理士事務所L社（従業員12名）</span>
 
 **導入前の課題：**
 - 顧問先50社の資料管理が煩雑
@@ -653,7 +653,7 @@ keywords: ["スプレッドシート 業務管理 限界", "スプレッドシ�
 
 そんな不安を持っている方に、ぜひ知っていただきたいのが**TaskMate**です。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> TaskMateとは</span>
+### <span class="text-teal">TaskMateとは</span>
 
 TaskMateは、**業務自動化を専門とするAIアシスタント**です。
 
@@ -663,7 +663,7 @@ TaskMateは、**業務自動化を専門とするAIアシスタント**です。
 - 自動化コードを**AIが自動生成**
 - 24時間365日サポート
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> TaskMateでできること</span>
+### <span class="text-teal">TaskMateでできること</span>
 
 **スプレッドシート作業の自動化：**
 - データ入力の自動化
@@ -683,7 +683,7 @@ TaskMateは、**業務自動化を専門とするAIアシスタント**です。
 - 既存システムとの統合
 - 継続的な改善サポート
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> TaskMate導入の流れ</span>
+### <span class="text-teal">TaskMate導入の流れ</span>
 
 **Step 1：無料相談（30分）**
 - 現状の課題をヒアリング
@@ -700,7 +700,7 @@ TaskMateは、**業務自動化を専門とするAIアシスタント**です。
 - 定期的なサポート
 - 継続的な改善提案
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> TaskMate導入企業の声</span>
+### <span class="text-teal">TaskMate導入企業の声</span>
 
 > **製造業M社（従業員25名）**
 >
@@ -716,7 +716,7 @@ TaskMateは、**業務自動化を専門とするAIアシスタント**です。
 
 ここまで、スプレッドシートの限界を超えて、完全自動化へ移行する方法をお伝えしてきました。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 重要なポイントのおさらい</span>
+### <span class="text-teal">重要なポイントのおさらい</span>
 
 **スプレッドシートの3大限界：**
 1. 人的ミスの多発
@@ -737,7 +737,7 @@ TaskMateは、**業務自動化を専門とするAIアシスタント**です。
 4. 小さく始めて改善
 5. チーム全体に展開
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 今日から始められる3つのアクション</span>
+### <span class="text-teal">今日から始められる3つのアクション</span>
 
 **アクション1：業務の棚卸しをする**
 
@@ -772,7 +772,7 @@ TaskMateは、**業務自動化を専門とするAIアシスタント**です。
 
 **相談は無料です。気軽にお問い合わせください。**
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 最後に</span>
+### <span class="text-teal">最後に</span>
 
 スプレッドシートは素晴らしいツールです。でも、ビジネスが成長すれば、いつか限界が来ます。
 
@@ -798,7 +798,7 @@ TaskMateは、**業務自動化を専門とするAIアシスタント**です。
 
 ---
 
-## <span class="text-underline"><img src="/icons/rocket.svg" alt="ロケット" class="inline-icon" width="20" height="20" /> TaskMate 公式LINE：お問い合わせはこちら</span>
+## <span class="text-underline">TaskMate 公式LINE：お問い合わせはこちら</span>
 
 スプレッドシートの限界を超えて、完全自動化を実現しませんか？
 
