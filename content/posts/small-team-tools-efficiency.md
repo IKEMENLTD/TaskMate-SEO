@@ -22,7 +22,7 @@ keywords: ["業務効率化ツール 中小企業", "業務効率化ツール", 
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 中小企業の**78%**が「人手不足」に悩んでいる</span>
+### <span class="text-teal"> 中小企業の**78%**が「人手不足」に悩んでいる</span>
 
 中小企業庁の2024年調査によると、**従業員50名以下の企業の78%が「人手不足が経営課題」**と回答しています。
 
@@ -30,7 +30,7 @@ keywords: ["業務効率化ツール 中小企業", "業務効率化ツール", 
 
 ---
 
-### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 少人数でも生産性2倍は実現できる
+### 少人数でも生産性2倍は実現できる
 
 でも、朗報があります。適切な業務効率化ツールを導入すれば、**人を増やさずに生産性を2倍にすることは十分可能**なんです。
 
@@ -46,7 +46,7 @@ keywords: ["業務効率化ツール 中小企業", "業務効率化ツール", 
 
 本題に入る前に、「なぜ中小企業こそ業務効率化ツールが必要なのか」を理解しておきましょう。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由1：採用コストの高騰と人材確保の困難</span>
+### <span class="text-teal"> 理由1：採用コストの高騰と人材確保の困難</span>
 
 まず、採用コストの現実を見てみましょう。
 
@@ -62,7 +62,7 @@ keywords: ["業務効率化ツール 中小企業", "業務効率化ツール", 
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由2：一人あたりの業務負担の増加</span>
+### <span class="text-teal"> 理由2：一人あたりの業務負担の増加</span>
 
 中小企業では、一人が複数の役割を担うことが多いですよね。
 
@@ -77,7 +77,7 @@ keywords: ["業務効率化ツール 中小企業", "業務効率化ツール", 
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由3：大企業との生産性格差の拡大</span>
+### <span class="text-teal"> 理由3：大企業との生産性格差の拡大</span>
 
 実は、大企業と中小企業の生産性格差は、年々開いています。
 
@@ -94,7 +94,7 @@ keywords: ["業務効率化ツール 中小企業", "業務効率化ツール", 
 
 ---
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> ツール導入の投資対効果
+### ツール導入の投資対効果
 
 「でも、ツール導入にはお金がかかる」と思いますよね。
 
@@ -119,7 +119,7 @@ keywords: ["業務効率化ツール 中小企業", "業務効率化ツール", 
 
 中小企業には、中小企業に合ったツール選定基準があります。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 基準1：コストパフォーマンス</span>
+### <span class="text-teal"> 基準1：コストパフォーマンス</span>
 
 最も重要なのは、**費用対効果**です。
 
@@ -132,23 +132,23 @@ keywords: ["業務効率化ツール 中小企業", "業務効率化ツール", 
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 基準2：導入・運用の簡単さ</span>
+### <span class="text-teal"> 基準2：導入・運用の簡単さ</span>
 
 中小企業には、**専任のシステム担当者がいない**ことが多いですよね。
 
 だからこそ、**誰でも使える簡単さ**が必須条件です。
 
 **チェックポイント：**
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> マニュアルなしで使えるか
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> 設定に専門知識が不要か
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> サポート体制が充実しているか
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> 無料トライアルがあるか
+- マニュアルなしで使えるか
+- 設定に専門知識が不要か
+- サポート体制が充実しているか
+- 無料トライアルがあるか
 
 「高機能だけど複雑」よりも、**「シンプルだけど確実に効果が出る」**ツールを選びましょう。
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 基準3：スモールスタートできるか</span>
+### <span class="text-teal"> 基準3：スモールスタートできるか</span>
 
 中小企業では、**いきなり全社導入はリスクが高い**です。
 
@@ -166,7 +166,7 @@ keywords: ["業務効率化ツール 中小企業", "業務効率化ツール", 
 
 最初にご紹介するのは、**Slack**です。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> Slackとは</span>
+### <span class="text-teal"> Slackとは</span>
 
 Slackは、**ビジネス向けのチャットツール**です。メールに代わるコミュニケーション手段として、世界中で1,000万人以上が利用しています。
 
@@ -174,7 +174,7 @@ Slackは、**ビジネス向けのチャットツール**です。メールに�
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：従業員12名の不動産会社
+### 実例：従業員12名の不動産会社
 
 ある不動産会社では、社内連絡をすべてメールで行っていました。
 
@@ -194,7 +194,7 @@ Slackは、**ビジネス向けのチャットツール**です。メールに�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> Slackのメリット</span>
+### <span class="text-teal"> Slackのメリット</span>
 
 **コミュニケーション効率化：**
 - メールより気軽に連絡できる
@@ -213,7 +213,7 @@ Slackは、**ビジネス向けのチャットツール**です。メールに�
 
 ---
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 料金プラン
+### 料金プラン
 
 | プラン | 月額料金 | 主な機能 |
 |--------|---------|---------|
@@ -223,7 +223,7 @@ Slackは、**ビジネス向けのチャットツール**です。メールに�
 
 **中小企業におすすめ：** まずはフリープランで試して、必要に応じてプロプランへ。10名なら月額約9,000円。
 
-<img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> **削減時間：1人あたり週5時間**
+ **削減時間：1人あたり週5時間**
 
 ---
 
@@ -231,7 +231,7 @@ Slackは、**ビジネス向けのチャットツール**です。メールに�
 
 2つ目は、**Google Workspace**です。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> Google Workspaceとは</span>
+### <span class="text-teal"> Google Workspaceとは</span>
 
 Google Workspaceは、**Gmail、Googleドライブ、Googleカレンダー、Googleドキュメントなど、Googleのビジネスツールをまとめたサービス**です。
 
@@ -239,7 +239,7 @@ Google Workspaceは、**Gmail、Googleドライブ、Googleカレンダー、Goo
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：従業員8名のデザイン事務所
+### 実例：従業員8名のデザイン事務所
 
 あるデザイン事務所では、ファイル共有に苦労していました。
 
@@ -256,7 +256,7 @@ Google Workspaceは、**Gmail、Googleドライブ、Googleカレンダー、Goo
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> Google Workspaceの主要機能</span>
+### <span class="text-teal"> Google Workspaceの主要機能</span>
 
 **Gmail：** 独自ドメインのメールアドレス（例：info@yourcompany.com）
 
@@ -270,7 +270,7 @@ Google Workspaceは、**Gmail、Googleドライブ、Googleカレンダー、Goo
 
 ---
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 料金プラン
+### 料金プラン
 
 | プラン | 月額料金 | ストレージ | 主な機能 |
 |--------|---------|-----------|---------|
@@ -280,7 +280,7 @@ Google Workspaceは、**Gmail、Googleドライブ、Googleカレンダー、Goo
 
 **中小企業におすすめ：** Business Standardプラン。10名なら月額約13,600円で、ほぼすべての業務をクラウド化できます。
 
-<img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> **削減時間：1人あたり週7時間**
+ **削減時間：1人あたり週7時間**
 
 ---
 
@@ -288,7 +288,7 @@ Google Workspaceは、**Gmail、Googleドライブ、Googleカレンダー、Goo
 
 3つ目は、**freee**です。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> freeeとは</span>
+### <span class="text-teal"> freeeとは</span>
 
 freeeは、**中小企業向けのクラウド会計ソフト**です。「会計ソフトなんて、どれも同じでは？」と思うかもしれません。
 
@@ -296,7 +296,7 @@ freeeは、**中小企業向けのクラウド会計ソフト**です。「会�
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：従業員15名の製造業
+### 実例：従業員15名の製造業
 
 ある製造業では、経理担当者が毎月末に丸3日かけて経理処理をしていました。
 
@@ -316,7 +316,7 @@ freeeは、**中小企業向けのクラウド会計ソフト**です。「会�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> freeeの主要機能</span>
+### <span class="text-teal"> freeeの主要機能</span>
 
 **自動連携：**
 - 銀行口座・クレジットカードと自動連携
@@ -336,7 +336,7 @@ freeeは、**中小企業向けのクラウド会計ソフト**です。「会�
 
 ---
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 料金プラン
+### 料金プラン
 
 | プラン | 月額料金 | 主な機能 |
 |--------|---------|---------|
@@ -346,7 +346,7 @@ freeeは、**中小企業向けのクラウド会計ソフト**です。「会�
 
 **中小企業におすすめ：** ベーシックプラン。月額4,780円で、会計から請求書作成まで一元管理。
 
-<img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> **削減時間：経理担当者が月20時間**
+ **削減時間：経理担当者が月20時間**
 
 ---
 
@@ -354,7 +354,7 @@ freeeは、**中小企業向けのクラウド会計ソフト**です。「会�
 
 4つ目は、**Trello**です。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> Trelloとは</span>
+### <span class="text-teal"> Trelloとは</span>
 
 Trelloは、**カンバン方式のタスク管理ツール**です。付箋を貼るような感覚で、タスクを視覚的に管理できます。
 
@@ -362,7 +362,7 @@ Trelloは、**カンバン方式のタスク管理ツール**です。付箋を�
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：従業員10名のWeb制作会社
+### 実例：従業員10名のWeb制作会社
 
 あるWeb制作会社では、複数のプロジェクトが同時進行していました。
 
@@ -381,7 +381,7 @@ Trelloは、**カンバン方式のタスク管理ツール**です。付箋を�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> Trelloの主要機能</span>
+### <span class="text-teal"> Trelloの主要機能</span>
 
 **ボード・リスト・カード：**
 - ボード：プロジェクト全体
@@ -399,7 +399,7 @@ Trelloは、**カンバン方式のタスク管理ツール**です。付箋を�
 
 ---
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 料金プラン
+### 料金プラン
 
 | プラン | 月額料金 | 主な機能 |
 |--------|---------|---------|
@@ -409,7 +409,7 @@ Trelloは、**カンバン方式のタスク管理ツール**です。付箋を�
 
 **中小企業におすすめ：** まずは無料プランで試して、必要に応じてStandardプランへ。10名なら月額約7,500円。
 
-<img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> **削減時間：1人あたり週3時間**
+ **削減時間：1人あたり週3時間**
 
 ---
 
@@ -417,7 +417,7 @@ Trelloは、**カンバン方式のタスク管理ツール**です。付箋を�
 
 5つ目は、**Zoom**です。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> Zoomとは</span>
+### <span class="text-teal"> Zoomとは</span>
 
 Zoomは、**ビデオ会議ツール**です。コロナ禍で一気に普及しましたが、今やリモート会議の標準ツールとなっています。
 
@@ -425,7 +425,7 @@ Zoomは、**ビデオ会議ツール**です。コロナ禍で一気に普及し
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：従業員20名の営業会社
+### 実例：従業員20名の営業会社
 
 ある営業会社では、顧客訪問に多くの時間を費やしていました。
 
@@ -444,7 +444,7 @@ Zoomは、**ビデオ会議ツール**です。コロナ禍で一気に普及し
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> Zoomの主要機能</span>
+### <span class="text-teal"> Zoomの主要機能</span>
 
 **ビデオ会議：**
 - 最大100〜1,000名まで参加可能
@@ -461,7 +461,7 @@ Zoomは、**ビデオ会議ツール**です。コロナ禍で一気に普及し
 
 ---
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 料金プラン
+### 料金プラン
 
 | プラン | 月額料金 | 主な機能 |
 |--------|---------|---------|
@@ -471,7 +471,7 @@ Zoomは、**ビデオ会議ツール**です。コロナ禍で一気に普及し
 
 **中小企業におすすめ：** プロプラン。ホスト（主催者）のみ有料なので、5名がホストなら月額約10,000円。
 
-<img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> **削減時間：営業担当1人あたり週10時間**
+ **削減時間：営業担当1人あたり週10時間**
 
 ---
 
@@ -479,7 +479,7 @@ Zoomは、**ビデオ会議ツール**です。コロナ禍で一気に普及し
 
 6つ目は、**Canva**です。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> Canvaとは</span>
+### <span class="text-teal"> Canvaとは</span>
 
 Canvaは、**デザインの知識がなくても、プロ級の資料やチラシが作れるツール**です。
 
@@ -487,7 +487,7 @@ Canvaは、**デザインの知識がなくても、プロ級の資料やチラ�
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：従業員7名の美容サロン
+### 実例：従業員7名の美容サロン
 
 ある美容サロンでは、SNS投稿やチラシ作成を外注していました。
 
@@ -506,7 +506,7 @@ Canvaは、**デザインの知識がなくても、プロ級の資料やチラ�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> Canvaの主要機能</span>
+### <span class="text-teal"> Canvaの主要機能</span>
 
 **豊富なテンプレート：**
 - プレゼン資料、チラシ、SNS投稿など
@@ -526,7 +526,7 @@ Canvaは、**デザインの知識がなくても、プロ級の資料やチラ�
 
 ---
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 料金プラン
+### 料金プラン
 
 | プラン | 月額料金 | 主な機能 |
 |--------|---------|---------|
@@ -536,7 +536,7 @@ Canvaは、**デザインの知識がなくても、プロ級の資料やチラ�
 
 **中小企業におすすめ：** Proプラン。月額1,500円で、ほぼすべてのデザイン作業を内製化できます。
 
-<img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> **削減時間：週2〜3時間 + 外注費削減**
+ **削減時間：週2〜3時間 + 外注費削減**
 
 ---
 
@@ -544,7 +544,7 @@ Canvaは、**デザインの知識がなくても、プロ級の資料やチラ�
 
 7つ目は、**Notion**です。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> Notionとは</span>
+### <span class="text-teal"> Notionとは</span>
 
 Notionは、**メモ、タスク管理、データベース、Wiki、プロジェクト管理など、あらゆる情報を一元管理できるツール**です。
 
@@ -552,7 +552,7 @@ Notionは、**メモ、タスク管理、データベース、Wiki、プロジ�
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：従業員12名のコンサルティング会社
+### 実例：従業員12名のコンサルティング会社
 
 あるコンサルティング会社では、情報管理に苦労していました。
 
@@ -573,7 +573,7 @@ Notionは、**メモ、タスク管理、データベース、Wiki、プロジ�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> Notionの主要機能</span>
+### <span class="text-teal"> Notionの主要機能</span>
 
 **柔軟なページ作成：**
 - テキスト、画像、表、データベースを自由に配置
@@ -593,7 +593,7 @@ Notionは、**メモ、タスク管理、データベース、Wiki、プロジ�
 
 ---
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 料金プラン
+### 料金プラン
 
 | プラン | 月額料金 | 主な機能 |
 |--------|---------|---------|
@@ -603,7 +603,7 @@ Notionは、**メモ、タスク管理、データベース、Wiki、プロジ�
 
 **中小企業におすすめ：** プラスプラン。10名なら月額約12,000円で、すべての情報を一元管理。
 
-<img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> **削減時間：1人あたり週5時間**
+ **削減時間：1人あたり週5時間**
 
 ---
 
@@ -611,7 +611,7 @@ Notionは、**メモ、タスク管理、データベース、Wiki、プロジ�
 
 8つ目は、**Chatwork**です。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> Chatworkとは</span>
+### <span class="text-teal"> Chatworkとは</span>
 
 Chatworkは、**日本発のビジネスチャットツール**です。Slackとよく比較されますが、**日本企業に特化した機能**が特徴です。
 
@@ -619,7 +619,7 @@ Chatworkは、**日本発のビジネスチャットツール**です。Slackと
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：従業員18名の建設会社
+### 実例：従業員18名の建設会社
 
 ある建設会社では、協力会社との連絡に苦労していました。
 
@@ -638,7 +638,7 @@ Chatworkは、**日本発のビジネスチャットツール**です。Slackと
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> Chatworkの主要機能</span>
+### <span class="text-teal"> Chatworkの主要機能</span>
 
 **グループチャット：**
 - プロジェクトごとにグループ作成
@@ -657,7 +657,7 @@ Chatworkは、**日本発のビジネスチャットツール**です。Slackと
 
 ---
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 料金プラン
+### 料金プラン
 
 | プラン | 月額料金 | 主な機能 |
 |--------|---------|---------|
@@ -667,7 +667,7 @@ Chatworkは、**日本発のビジネスチャットツール**です。Slackと
 
 **中小企業におすすめ：** ビジネスプラン。10名なら月額5,000円で、社内外のコミュニケーションを一元化。
 
-<img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> **削減時間：1人あたり週4時間**
+ **削減時間：1人あたり週4時間**
 
 ---
 
@@ -675,7 +675,7 @@ Chatworkは、**日本発のビジネスチャットツール**です。Slackと
 
 9つ目は、**kintone**です。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> kintoneとは</span>
+### <span class="text-teal"> kintoneとは</span>
 
 kintoneは、**プログラミング不要で業務アプリを作れるツール**です。顧客管理、案件管理、日報管理など、**自社の業務に合わせたシステムを簡単に構築**できます。
 
@@ -683,7 +683,7 @@ kintoneは、**プログラミング不要で業務アプリを作れるツー�
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：従業員25名の卸売業
+### 実例：従業員25名の卸売業
 
 ある卸売業では、顧客情報と在庫管理をExcelで行っていました。
 
@@ -702,7 +702,7 @@ kintoneは、**プログラミング不要で業務アプリを作れるツー�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> kintoneの主要機能</span>
+### <span class="text-teal"> kintoneの主要機能</span>
 
 **ノーコードでアプリ作成：**
 - ドラッグ&ドロップで項目配置
@@ -722,7 +722,7 @@ kintoneは、**プログラミング不要で業務アプリを作れるツー�
 
 ---
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 料金プラン
+### 料金プラン
 
 | プラン | 月額料金 | 主な機能 |
 |--------|---------|---------|
@@ -731,7 +731,7 @@ kintoneは、**プログラミング不要で業務アプリを作れるツー�
 
 **中小企業におすすめ：** スタンダードコース。10名なら月額15,000円で、自社専用のシステムを複数構築できます。
 
-<img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> **削減時間：チーム全体で週30時間**
+ **削減時間：チーム全体で週30時間**
 
 ---
 
@@ -739,7 +739,7 @@ kintoneは、**プログラミング不要で業務アプリを作れるツー�
 
 最後にご紹介するのは、**TaskMate**です。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> TaskMateとは</span>
+### <span class="text-teal"> TaskMateとは</span>
 
 TaskMateは、**業務効率化を専門とするAIアシスタント**です。
 
@@ -747,7 +747,7 @@ TaskMateは、**業務効率化を専門とするAIアシスタント**です。
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：従業員9名のマーケティング会社
+### 実例：従業員9名のマーケティング会社
 
 あるマーケティング会社では、レポート作成に多くの時間を費やしていました。
 
@@ -768,7 +768,7 @@ TaskMateは、**業務効率化を専門とするAIアシスタント**です。
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> TaskMateができること</span>
+### <span class="text-teal"> TaskMateができること</span>
 
 **業務効率化の相談：**
 - 「こんな業務を効率化したい」→最適な方法を提案
@@ -786,7 +786,7 @@ TaskMateは、**業務効率化を専門とするAIアシスタント**です。
 
 ---
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> TaskMate活用の効果
+### TaskMate活用の効果
 
 **導入企業の実績：**
 - 平均して週15時間の作業時間削減
@@ -799,7 +799,7 @@ TaskMateは、**業務効率化を専門とするAIアシスタント**です。
 
 > 「プログラミングの知識がゼロでしたが、TaskMateに相談するだけで、すぐに自動化できました。もっと早く知りたかった」（経理担当・30代女性）
 
-<img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> **削減時間：週10〜20時間**
+ **削減時間：週10〜20時間**
 
 ---
 
@@ -807,7 +807,7 @@ TaskMateは、**業務効率化を専門とするAIアシスタント**です。
 
 ここまで10のツールをご紹介してきました。「で、結局どれを選べばいいの？」と思いますよね。
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> ツール比較表
+### ツール比較表
 
 | ツール | 月額費用（10名） | 主な用途 | 削減時間 | 導入難易度 |
 |--------|----------------|---------|---------|-----------|
@@ -824,7 +824,7 @@ TaskMateは、**業務効率化を専門とするAIアシスタント**です。
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 業種別おすすめツール組み合わせ</span>
+### <span class="text-teal"> 業種別おすすめツール組み合わせ</span>
 
 **製造業：**
 - Google Workspace + Chatwork + kintone
@@ -848,7 +848,7 @@ TaskMateは、**業務効率化を専門とするAIアシスタント**です。
 
 ---
 
-### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> ツール選定の3ステップ
+### ツール選定の3ステップ
 
 **ステップ1：最も時間がかかっている業務を特定**
 - 1週間、業務時間を記録
@@ -868,7 +868,7 @@ TaskMateは、**業務効率化を専門とするAIアシスタント**です。
 
 業務効率化ツールの導入でよくある失敗パターンを知っておけば、同じ失敗を避けられます。
 
-### <img src="/icons/x.svg" alt="バツ" class="inline-icon" width="20" height="20" /> 失敗パターン1：いきなり全社導入
+### 失敗パターン1：いきなり全社導入
 
 **症状：** 「良さそうだから」といきなり全社員に使わせる。でも、誰も使い方がわからず、結局使われない。
 
@@ -876,7 +876,7 @@ TaskMateは、**業務効率化を専門とするAIアシスタント**です。
 
 ---
 
-### <img src="/icons/x.svg" alt="バツ" class="inline-icon" width="20" height="20" /> 失敗パターン2：高機能すぎるツールを選ぶ
+### 失敗パターン2：高機能すぎるツールを選ぶ
 
 **症状：** 「機能が多い方がいい」と高機能ツールを選ぶ。でも、複雑すぎて使いこなせない。
 
@@ -884,7 +884,7 @@ TaskMateは、**業務効率化を専門とするAIアシスタント**です。
 
 ---
 
-### <img src="/icons/x.svg" alt="バツ" class="inline-icon" width="20" height="20" /> 失敗パターン3：社員への説明不足
+### 失敗パターン3：社員への説明不足
 
 **症状：** ツールを導入したものの、「なぜ使うのか」「どう使うのか」を説明しない。社員は「また余計な仕事が増えた」と感じる。
 
@@ -892,7 +892,7 @@ TaskMateは、**業務効率化を専門とするAIアシスタント**です。
 
 ---
 
-### <img src="/icons/x.svg" alt="バツ" class="inline-icon" width="20" height="20" /> 失敗パターン4：効果測定をしない
+### 失敗パターン4：効果測定をしない
 
 **症状：** ツールを導入したものの、「本当に効果が出ているのか」がわからない。
 
@@ -900,7 +900,7 @@ TaskMateは、**業務効率化を専門とするAIアシスタント**です。
 
 ---
 
-### <img src="/icons/x.svg" alt="バツ" class="inline-icon" width="20" height="20" /> 失敗パターン5：サポートを活用しない
+### 失敗パターン5：サポートを活用しない
 
 **症状：** わからないことがあっても、「自分で何とかしなきゃ」と1人で悩み続ける。結局、使いこなせない。
 
@@ -912,7 +912,7 @@ TaskMateは、**業務効率化を専門とするAIアシスタント**です。
 
 最後に、実際に業務効率化ツールで大きな成果を出した企業の事例をご紹介します。
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> B社の背景
+### B社の背景
 
 **業種：** 印刷業
 **従業員数：** 15名
@@ -922,7 +922,7 @@ B社では、営業3名、デザイン4名、製造5名、事務3名の体制で
 
 ---
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 導入前の状況
+### 導入前の状況
 
 **営業部門：**
 - 顧客訪問に1日3時間
@@ -944,7 +944,7 @@ B社では、営業3名、デザイン4名、製造5名、事務3名の体制で
 
 ---
 
-### <img src="/icons/rocket.svg" alt="ロケット" class="inline-icon" width="20" height="20" /> 導入したツール
+### 導入したツール
 
 **1ヶ月目：基盤づくり**
 - Google Workspace：ファイル共有とメール
@@ -965,7 +965,7 @@ B社では、営業3名、デザイン4名、製造5名、事務3名の体制で
 
 ---
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 導入後の効果
+### 導入後の効果
 
 **営業部門：**
 - 初回商談はZoomで実施→移動時間削減
@@ -996,7 +996,7 @@ B社では、営業3名、デザイン4名、製造5名、事務3名の体制で
 
 ---
 
-### <img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 成功の秘訣
+### 成功の秘訣
 
 B社の社長に、成功の秘訣を聞きました。
 
@@ -1012,7 +1012,7 @@ B社の社長に、成功の秘訣を聞きました。
 
 ここまで、中小企業向けの業務効率化ツール10選と、実践方法をご紹介してきました。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 重要なポイントのおさらい</span>
+### <span class="text-teal"> 重要なポイントのおさらい</span>
 
 **1. 人を増やすより、ツールを導入する方が効率的**
 - 採用コスト：1名約65万円＋年間約400万円
@@ -1030,7 +1030,7 @@ B社の社長に、成功の秘訣を聞きました。
 
 ---
 
-### <img src="/icons/rocket.svg" alt="ロケット" class="inline-icon" width="20" height="20" /> 今日から始められる3つのアクション
+### 今日から始められる3つのアクション
 
 **アクション1：1週間、業務時間を記録する**
 
@@ -1058,7 +1058,7 @@ B社の社長に、成功の秘訣を聞きました。
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 最後に</span>
+### <span class="text-teal"> 最後に</span>
 
 業務効率化ツールの導入は、決して難しいものではありません。
 
@@ -1076,7 +1076,7 @@ B社の社長に、成功の秘訣を聞きました。
 
 ---
 
-## <span class="text-underline"><img src="/icons/rocket.svg" alt="ロケット" class="inline-icon" width="20" height="20" /> TaskMate 公式LINE：お問い合わせはこちら</span>
+## <span class="text-underline"> TaskMate 公式LINE：お問い合わせはこちら</span>
 
 この記事でご紹介した業務効率化ツールの導入を今すぐ始めませんか？
 

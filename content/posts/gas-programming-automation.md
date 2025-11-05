@@ -20,13 +20,13 @@ keywords: ["GAS 導入 サポート", "GAS", "導入", "サポート", "プロ�
 
 でも、安心してください。**GASは、プログラミング知識がなくても導入できます。**
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> GAS導入の現実
+### GAS導入の現実
 
 ある調査では、GASの導入を検討した企業のうち、**実際に導入まで至ったのはわずか42%**。残りの58%は、「難しそう」「サポートがない」「失敗が怖い」という理由で断念しています。
 
 でも、逆に言えば、**適切なサポートがあれば、誰でもGASを導入できる**ということです。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> この記事でわかること</span>
+### <span class="text-teal"> この記事でわかること</span>
 
 この記事では、プログラミング知識ゼロの方でも、**GASを確実に導入できる実践的な方法**をお伝えします。
 
@@ -40,13 +40,13 @@ keywords: ["GAS 導入 サポート", "GAS", "導入", "サポート", "プロ�
 
 まず、「なぜGASなのか」を理解しておきましょう。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由1：完全無料で始められる</span>
+### <span class="text-teal"> 理由1：完全無料で始められる</span>
 
 GASの最大の魅力は、**完全無料**であること。
 
 一般的な業務自動化ツールは、月額数万円から数十万円のコストがかかります。でも、GASはGoogleアカウントさえあれば、**追加費用ゼロで利用できます**。
 
-> <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> **コスト比較**
+> **コスト比較**
 >
 > - 一般的なRPAツール：月額5万円〜30万円
 > - ワークフロー自動化ツール：月額3万円〜15万円
@@ -54,7 +54,7 @@ GASの最大の魅力は、**完全無料**であること。
 
 中小企業にとって、この「無料」という点は大きなメリットです。「試しに使ってみて、合わなければやめる」ということが、コストを気にせずにできるんです。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由2：Googleサービスとの完璧な連携</span>
+### <span class="text-teal"> 理由2：Googleサービスとの完璧な連携</span>
 
 多くの企業が、すでにGoogleのサービスを使っています。Gmail、Googleスプレッドシート、Googleカレンダー、Googleドライブ...。
 
@@ -70,7 +70,7 @@ GASは、これらのサービスと**完璧に連携**できます。
 
 「すでに使っているツールをもっと便利にする」という発想なので、**新しいツールを覚える必要がない**んです。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由3：AIサポートで誰でも使える時代に</span>
+### <span class="text-teal"> 理由3：AIサポートで誰でも使える時代に</span>
 
 「でも、プログラミングができないと使えないんでしょ？」
 
@@ -78,7 +78,7 @@ GASは、これらのサービスと**完璧に連携**できます。
 
 **ChatGPTやTaskMateなどのAIツールが登場したことで、「コードを書けなくても、GASを使える」時代になった**んです。
 
-> <img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> **AIサポートの仕組み**
+> **AIサポートの仕組み**
 >
 > あなた：「毎日、売上データをスプレッドシートに転記しているのを自動化したい」
 > AI：「わかりました。こちらのコードをコピーして、スプレッドシートに貼り付けてください」
@@ -93,7 +93,7 @@ GASは、これらのサービスと**完璧に連携**できます。
 
 では、GASを導入すると、具体的にどんなメリットがあるのでしょうか。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット1：繰り返し作業からの完全解放</span>
+### <span class="text-teal"> メリット1：繰り返し作業からの完全解放</span>
 
 最も大きなメリットは、**毎日・毎週繰り返している作業を完全自動化できる**こと。
 
@@ -107,7 +107,7 @@ GASは、これらのサービスと**完璧に連携**できます。
 
 これらの作業、手作業でやると毎日30分〜1時間かかりますよね。でも、GASで自動化すれば、**所要時間ゼロ**になります。
 
-> <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> **実例：営業部門の日報自動化**
+> **実例：営業部門の日報自動化**
 >
 > ある営業部門では、全社員が毎日30分かけて日報を作成していました。
 > 社員20名×30分×20営業日＝**月200時間**
@@ -119,13 +119,13 @@ GASは、これらのサービスと**完璧に連携**できます。
 >
 > **削減時間：月167時間**
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット2：ヒューマンエラーの撲滅</span>
+### <span class="text-teal"> メリット2：ヒューマンエラーの撲滅</span>
 
 手作業には、必ずミスがつきものです。データの入力ミス、コピペミス、計算ミス...。
 
 でも、GASで自動化すれば、**同じ処理を100%正確に実行**してくれます。
 
-> <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> **ヒューマンエラーのコスト**
+> **ヒューマンエラーのコスト**
 >
 > 米国品質協会の調査によると、ヒューマンエラーによる企業の損失は、**年間売上の15〜25%**に達するそうです。
 >
@@ -133,7 +133,7 @@ GASは、これらのサービスと**完璧に連携**できます。
 
 特に、経理処理や顧客データ管理など、ミスが許されない業務では、自動化の価値は計り知れません。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット3：24時間365日働く"デジタル社員"</span>
+### <span class="text-teal"> メリット3：24時間365日働く"デジタル社員"</span>
 
 GASは、**休まず、文句も言わず、24時間働き続けます**。
 
@@ -145,7 +145,7 @@ GASは、**休まず、文句も言わず、24時間働き続けます**。
 
 人間なら残業代が発生する時間帯でも、GASなら無料で動き続けます。
 
-> <img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> **コスト換算**
+> **コスト換算**
 >
 > 仮に、これらの作業を人がやると：
 > - 深夜作業：時給2,500円（深夜割増）
@@ -153,7 +153,7 @@ GASは、**休まず、文句も言わず、24時間働き続けます**。
 >
 > GASなら：**0円**
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット4：チーム全体の生産性向上</span>
+### <span class="text-teal"> メリット4：チーム全体の生産性向上</span>
 
 GASの効果は、導入した個人だけにとどまりません。**チーム全体の生産性が向上**します。
 
@@ -165,7 +165,7 @@ GASの効果は、導入した個人だけにとどまりません。**チーム
 
 ある企業では、GAS導入後、**チーム全体で週40時間の削減**を実現しました。これは、実質的に「1人分の労働力が増えた」のと同じ効果です。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット5：スキルアップと市場価値の向上</span>
+### <span class="text-teal"> メリット5：スキルアップと市場価値の向上</span>
 
 最後に、個人的なメリットも大きいです。
 
@@ -183,7 +183,7 @@ GASの効果は、導入した個人だけにとどまりません。**チーム
 
 では、具体的にどうやってGASを導入すればいいのか。**7つのステップ**に分けて解説します。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ1：自動化したい業務を1つ選ぶ（所要時間：30分）</span>
+### <span class="text-teal"> ステップ1：自動化したい業務を1つ選ぶ（所要時間：30分）</span>
 
 最初のステップは、**自動化する業務を1つだけ選ぶ**こと。
 
@@ -194,17 +194,17 @@ GASの効果は、導入した個人だけにとどまりません。**チーム
 2. 手順が明確に決まっている
 3. 所要時間が10分以上
 
-> <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> **具体例**
+> **具体例**
 >
-> <img src="/icons/x.svg" alt="バツ" class="inline-icon" width="20" height="20" /> 悪い例：「全部の業務を自動化したい」
-> <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> 良い例：「毎朝、前日の売上をスプレッドシートに転記する作業」
+> 悪い例：「全部の業務を自動化したい」
+> 良い例：「毎朝、前日の売上をスプレッドシートに転記する作業」
 
 **選定のヒント：**
 - 1週間、業務を記録してみる
 - 「面倒だな」と感じる作業をメモ
 - その中で最も頻度が高いものを選ぶ
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ2：現状の手順を書き出す（所要時間：15分）</span>
+### <span class="text-teal"> ステップ2：現状の手順を書き出す（所要時間：15分）</span>
 
 次に、**その業務を「どうやっているか」を書き出します**。
 
@@ -217,7 +217,7 @@ GASの効果は、導入した個人だけにとどまりません。**チーム
 4. どんな計算をするか
 5. 誰に送るか
 
-> <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> **実例：売上データ転記の手順**
+> **実例：売上データ転記の手順**
 >
 > 1. Gmailを開く
 > 2. 「売上報告」という件名のメールを探す
@@ -230,7 +230,7 @@ GASの効果は、導入した個人だけにとどまりません。**チーム
 
 こんな感じで、**誰が読んでもわかるように**書き出します。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ3：AIにコード生成を依頼する（所要時間：10分）</span>
+### <span class="text-teal"> ステップ3：AIにコード生成を依頼する（所要時間：10分）</span>
 
 手順が明確になったら、次は**AIにコードを作ってもらいます**。
 

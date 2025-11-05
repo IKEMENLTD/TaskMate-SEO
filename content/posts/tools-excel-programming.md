@@ -24,11 +24,11 @@ keywords: ["エクセル 自動化 ツール", "エクセル", "自動化", "マ
 
 ---
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> エクセル作業の実態
+### エクセル作業の実態
 
 ある中小企業の経理担当者、田中さん（仮名）の1週間を見てみましょう。
 
-> <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> **田中さんの週間エクセル作業**
+> **田中さんの週間エクセル作業**
 >
 > - 月曜日：先週の売上データ入力（2時間）
 > - 火曜日：請求書作成（3時間）
@@ -42,7 +42,7 @@ keywords: ["エクセル 自動化 ツール", "エクセル", "自動化", "マ
 
 田中さんは、そう思っていました。でも、実は**プログラミングスキルがなくても、エクセル作業は自動化できる**んです。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> この記事でわかること</span>
+### <span class="text-teal"> この記事でわかること</span>
 
 この記事では、**プログラミング不要で使える5つのエクセル自動化ツール**を、実際の導入事例とともに詳しくご紹介します。
 
@@ -58,13 +58,13 @@ keywords: ["エクセル 自動化 ツール", "エクセル", "自動化", "マ
 
 本題に入る前に、「なぜエクセル業務の自動化が重要なのか」を理解しておきましょう。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由1：人的ミスのリスク</span>
+### <span class="text-teal"> 理由1：人的ミスのリスク</span>
 
 手作業でのデータ入力には、必ずミスがつきまといます。
 
 経済産業省の調査によると、**手作業でのデータ入力ミス率は平均1.2%**。つまり、1000件のデータを入力すれば、12件はミスが発生する計算です。
 
-> <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> **実例：ある製造業での事故**
+> **実例：ある製造業での事故**
 >
 > ある製造業では、手作業での在庫データ入力ミスが原因で、**300万円分の過剰発注**が発生しました。
 > たった1桁の入力ミスが、大きな損失につながったんです。
@@ -73,7 +73,7 @@ keywords: ["エクセル 自動化 ツール", "エクセル", "自動化", "マ
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由2：時間コストの膨大さ</span>
+### <span class="text-teal"> 理由2：時間コストの膨大さ</span>
 
 「エクセル作業なんて、たかが数時間」と思うかもしれません。でも、積み重なると驚くほどの時間になります。
 
@@ -86,7 +86,7 @@ keywords: ["エクセル 自動化 ツール", "エクセル", "自動化", "マ
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由3：本来の業務に集中できない</span>
+### <span class="text-teal"> 理由3：本来の業務に集中できない</span>
 
 エクセル作業に追われていると、本来やるべき「考える仕事」に時間を使えません。
 
@@ -98,7 +98,7 @@ keywords: ["エクセル 自動化 ツール", "エクセル", "自動化", "マ
 
 ---
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 自動化の投資対効果
+### 自動化の投資対効果
 
 エクセル自動化ツールの多くは、月額数千円から利用できます。
 
@@ -117,7 +117,7 @@ keywords: ["エクセル 自動化 ツール", "エクセル", "自動化", "マ
 
 最初にご紹介するのは、Microsoft社が提供する**Power Automate**です。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> Power Automateとは</span>
+### <span class="text-teal"> Power Automateとは</span>
 
 Power Automateは、**様々なアプリやサービスを連携させて、業務フローを自動化できるツール**です。
 
@@ -125,7 +125,7 @@ Power Automateは、**様々なアプリやサービスを連携させて、業�
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：営業部門の日報自動化
+### 実例：営業部門の日報自動化
 
 ある営業部門では、毎日の日報作成に悩んでいました。
 
@@ -146,7 +146,7 @@ Power Automateは、**様々なアプリやサービスを連携させて、業�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> Power Automateでできること</span>
+### <span class="text-teal"> Power Automateでできること</span>
 
 **データ連携：**
 - エクセルとOutlookの連携
@@ -165,20 +165,20 @@ Power Automateは、**様々なアプリやサービスを連携させて、業�
 
 ---
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 導入のメリット・デメリット
+### 導入のメリット・デメリット
 
 **メリット：**
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> Microsoft製品との相性が抜群
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> テンプレートが豊富で初心者でも使いやすい
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> Microsoft 365ユーザーなら無料で使える機能も多い
+- Microsoft製品との相性が抜群
+- テンプレートが豊富で初心者でも使いやすい
+- Microsoft 365ユーザーなら無料で使える機能も多い
 
 **デメリット：**
-- <img src="/icons/x.svg" alt="バツ" class="inline-icon" width="20" height="20" /> 高度な自動化には有料プラン（月額1,650円〜）が必要
-- <img src="/icons/x.svg" alt="バツ" class="inline-icon" width="20" height="20" /> 複雑なフローは設定に時間がかかる
+- 高度な自動化には有料プラン（月額1,650円〜）が必要
+- 複雑なフローは設定に時間がかかる
 
 ---
 
-### <img src="/icons/rocket.svg" alt="ロケット" class="inline-icon" width="20" height="20" /> 導入のステップ
+### 導入のステップ
 
 **ステップ1：** Microsoft 365アカウントでサインイン
 
@@ -190,7 +190,7 @@ Power Automateは、**様々なアプリやサービスを連携させて、業�
 
 **所要時間：30分〜1時間**
 
-<img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> **削減時間：週5〜10時間**
+ **削減時間：週5〜10時間**
 
 ---
 
@@ -200,7 +200,7 @@ Power Automateは、**様々なアプリやサービスを連携させて、業�
 
 「プログラミングツールじゃないの？」と思うかもしれません。でも、最近は**AIがコードを自動生成してくれる**ので、実質的にプログラミング不要なんです。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> GASの最大の魅力：完全無料</span>
+### <span class="text-teal"> GASの最大の魅力：完全無料</span>
 
 GASの最大の魅力は、**完全無料で使える**こと。
 
@@ -208,7 +208,7 @@ Googleアカウントさえあれば、誰でも今すぐ使い始められま�
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：経理部門の請求書作成自動化
+### 実例：経理部門の請求書作成自動化
 
 経理担当の山田さん（仮名）は、毎月50件以上の請求書を作成していました。
 
@@ -228,7 +228,7 @@ Googleアカウントさえあれば、誰でも今すぐ使い始められま�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> GASでできること</span>
+### <span class="text-teal"> GASでできること</span>
 
 **スプレッドシート操作：**
 - データの自動入力・更新
@@ -252,21 +252,21 @@ Googleアカウントさえあれば、誰でも今すぐ使い始められま�
 
 ---
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 導入のメリット・デメリット
+### 導入のメリット・デメリット
 
 **メリット：**
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> 完全無料
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> Googleサービスとの連携が簡単
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> AIがコード生成してくれるので初心者でもOK
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> クラウドベースなので、どこからでもアクセス可能
+- 完全無料
+- Googleサービスとの連携が簡単
+- AIがコード生成してくれるので初心者でもOK
+- クラウドベースなので、どこからでもアクセス可能
 
 **デメリット：**
-- <img src="/icons/x.svg" alt="バツ" class="inline-icon" width="20" height="20" /> エクセルファイル（.xlsx）は直接扱えない（スプレッドシートへの変換が必要）
-- <img src="/icons/x.svg" alt="バツ" class="inline-icon" width="20" height="20" /> 実行時間に制限がある（1回6分まで）
+- エクセルファイル（.xlsx）は直接扱えない（スプレッドシートへの変換が必要）
+- 実行時間に制限がある（1回6分まで）
 
 ---
 
-### <img src="/icons/rocket.svg" alt="ロケット" class="inline-icon" width="20" height="20" /> 導入のステップ
+### 導入のステップ
 
 **ステップ1：** Googleスプレッドシートを開く
 
@@ -280,7 +280,7 @@ Googleアカウントさえあれば、誰でも今すぐ使い始められま�
 
 **所要時間：30分〜1時間**
 
-<img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> **削減時間：週10〜15時間**
+ **削減時間：週10〜15時間**
 
 ---
 
@@ -288,7 +288,7 @@ Googleアカウントさえあれば、誰でも今すぐ使い始められま�
 
 3つ目は、世界中で500万人以上が使う自動化ツール**Zapier**です。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> Zapierの特徴</span>
+### <span class="text-teal"> Zapierの特徴</span>
 
 Zapierは、**3000以上のアプリやサービスを連携できる**プラットフォーム。
 
@@ -298,7 +298,7 @@ Zapierは、**3000以上のアプリやサービスを連携できる**プラッ
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：マーケティング部門のリード管理自動化
+### 実例：マーケティング部門のリード管理自動化
 
 マーケティング担当の鈴木さん（仮名）は、複数のツールを使ってリード管理をしていました。
 
@@ -320,7 +320,7 @@ Zapierは、**3000以上のアプリやサービスを連携できる**プラッ
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> Zapierでできること</span>
+### <span class="text-teal"> Zapierでできること</span>
 
 **エクセル連携の例：**
 - Googleフォームの回答を自動でエクセルに追加
@@ -337,22 +337,22 @@ Zapierは、**3000以上のアプリやサービスを連携できる**プラッ
 
 ---
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 導入のメリット・デメリット
+### 導入のメリット・デメリット
 
 **メリット：**
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> 3000以上のアプリと連携可能
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> 設定が簡単（平均15分で完成）
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> テンプレートが豊富
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> 無料プランでも基本的な自動化は可能
+- 3000以上のアプリと連携可能
+- 設定が簡単（平均15分で完成）
+- テンプレートが豊富
+- 無料プランでも基本的な自動化は可能
 
 **デメリット：**
-- <img src="/icons/x.svg" alt="バツ" class="inline-icon" width="20" height="20" /> 無料プランは月100タスクまで
-- <img src="/icons/x.svg" alt="バツ" class="inline-icon" width="20" height="20" /> 有料プラン（月額2,500円〜）が必要な場合も
-- <img src="/icons/x.svg" alt="バツ" class="inline-icon" width="20" height="20" /> 日本語対応が不十分な部分がある
+- 無料プランは月100タスクまで
+- 有料プラン（月額2,500円〜）が必要な場合も
+- 日本語対応が不十分な部分がある
 
 ---
 
-### <img src="/icons/rocket.svg" alt="ロケット" class="inline-icon" width="20" height="20" /> 導入のステップ
+### 導入のステップ
 
 **ステップ1：** Zapierにアカウント登録（無料）
 
@@ -366,7 +366,7 @@ Zapierは、**3000以上のアプリやサービスを連携できる**プラッ
 
 **所要時間：15分〜30分**
 
-<img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> **削減時間：週8〜12時間**
+ **削減時間：週8〜12時間**
 
 ---
 
@@ -374,7 +374,7 @@ Zapierは、**3000以上のアプリやサービスを連携できる**プラッ
 
 4つ目は、**UiPath StudioX**。本格的なRPA（ロボティック・プロセス・オートメーション）ツールです。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> RPAとは</span>
+### <span class="text-teal"> RPAとは</span>
 
 RPAは、**人間がパソコンで行う作業を、ロボットが代わりに実行する技術**です。
 
@@ -382,7 +382,7 @@ RPAは、**人間がパソコンで行う作業を、ロボットが代わりに
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：人事部門の給与計算自動化
+### 実例：人事部門の給与計算自動化
 
 人事担当の加藤さん（仮名）は、毎月の給与計算に丸2日かかっていました。
 
@@ -405,7 +405,7 @@ RPAは、**人間がパソコンで行う作業を、ロボットが代わりに
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> UiPath StudioXでできること</span>
+### <span class="text-teal"> UiPath StudioXでできること</span>
 
 **エクセル操作：**
 - 複数ファイルのデータを自動統合
@@ -429,22 +429,22 @@ RPAは、**人間がパソコンで行う作業を、ロボットが代わりに
 
 ---
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 導入のメリット・デメリット
+### 導入のメリット・デメリット
 
 **メリット：**
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> 複雑な業務フローも自動化可能
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> エクセルだけでなく、様々なアプリを操作できる
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> 個人利用なら無料
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> 大企業でも採用されている信頼性
+- 複雑な業務フローも自動化可能
+- エクセルだけでなく、様々なアプリを操作できる
+- 個人利用なら無料
+- 大企業でも採用されている信頼性
 
 **デメリット：**
-- <img src="/icons/x.svg" alt="バツ" class="inline-icon" width="20" height="20" /> 初期設定にやや時間がかかる（2〜3時間）
-- <img src="/icons/x.svg" alt="バツ" class="inline-icon" width="20" height="20" /> 複雑な自動化は学習が必要
-- <img src="/icons/x.svg" alt="バツ" class="inline-icon" width="20" height="20" /> ビジネス利用は有料（年額42万円〜）
+- 初期設定にやや時間がかかる（2〜3時間）
+- 複雑な自動化は学習が必要
+- ビジネス利用は有料（年額42万円〜）
 
 ---
 
-### <img src="/icons/rocket.svg" alt="ロケット" class="inline-icon" width="20" height="20" /> 導入のステップ
+### 導入のステップ
 
 **ステップ1：** UiPath公式サイトからStudioXをダウンロード（無料）
 
@@ -458,7 +458,7 @@ RPAは、**人間がパソコンで行う作業を、ロボットが代わりに
 
 **所要時間：2〜3時間**
 
-<img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> **削減時間：週15〜20時間**
+ **削減時間：週15〜20時間**
 
 ---
 
@@ -466,7 +466,7 @@ RPAは、**人間がパソコンで行う作業を、ロボットが代わりに
 
 最後にご紹介するのは、**TaskMate**です。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> TaskMateの革新性</span>
+### <span class="text-teal"> TaskMateの革新性</span>
 
 TaskMateは、**「こんな自動化がしたい」と日本語で伝えるだけで、AIが自動化コードを生成してくれる**ツールです。
 
@@ -476,7 +476,7 @@ TaskMateは、**「こんな自動化がしたい」と日本語で伝えるだ�
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：総務部門の備品発注自動化
+### 実例：総務部門の備品発注自動化
 
 総務担当の伊藤さん（仮名）は、備品の発注管理に悩んでいました。
 
@@ -500,7 +500,7 @@ TaskMateは、この要望を理解して、GASのコードを自動生成。伊
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> TaskMateでできること</span>
+### <span class="text-teal"> TaskMateでできること</span>
 
 **コード生成：**
 - GASのコードを自動生成
@@ -519,7 +519,7 @@ TaskMateは、この要望を理解して、GASのコードを自動生成。伊
 
 ---
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> TaskMate活用の実績
+### TaskMate活用の実績
 
 **導入企業の成果：**
 - 平均して週15時間の作業時間削減
@@ -534,7 +534,7 @@ TaskMateは、この要望を理解して、GASのコードを自動生成。伊
 
 ---
 
-### <img src="/icons/rocket.svg" alt="ロケット" class="inline-icon" width="20" height="20" /> 導入のステップ
+### 導入のステップ
 
 **ステップ1：** TaskMate公式LINEに登録
 
@@ -546,7 +546,7 @@ TaskMateは、この要望を理解して、GASのコードを自動生成。伊
 
 **所要時間：15分〜30分**
 
-<img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> **削減時間：週10〜20時間**
+ **削減時間：週10〜20時間**
 
 ---
 
@@ -554,7 +554,7 @@ TaskMateは、この要望を理解して、GASのコードを自動生成。伊
 
 ここまで5つのツールをご紹介してきました。「で、結局どれを選べばいいの？」と思いますよね。
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> ツール比較表
+### ツール比較表
 
 | ツール | 費用 | 難易度 | 削減時間 | おすすめ度 |
 |--------|------|--------|----------|------------|
@@ -566,7 +566,7 @@ TaskMateは、この要望を理解して、GASのコードを自動生成。伊
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 選び方のポイント</span>
+### <span class="text-teal"> 選び方のポイント</span>
 
 **「とにかく簡単に始めたい」→ Zapier または TaskMate**
 - 設定が最も簡単
@@ -592,21 +592,21 @@ TaskMateは、この要望を理解して、GASのコードを自動生成。伊
 
 成功率を高めるための5つのステップをご紹介します。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ1：自動化する業務を1つ選ぶ</span>
+### <span class="text-teal"> ステップ1：自動化する業務を1つ選ぶ</span>
 
 最初から全部を自動化しようとしないこと。まずは**1つの業務**から始めましょう。
 
 **選ぶべき業務の条件：**
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> 毎日または毎週繰り返している
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> 手順が決まっている
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> 所要時間が30分以上
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> 失敗してもダメージが小さい
+- 毎日または毎週繰り返している
+- 手順が決まっている
+- 所要時間が30分以上
+- 失敗してもダメージが小さい
 
 例：「毎週月曜日の売上集計」「毎日の日報作成」「月末の請求書発行」
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ2：現状の業務フローを書き出す</span>
+### <span class="text-teal"> ステップ2：現状の業務フローを書き出す</span>
 
 自動化する前に、**現状の業務フローを明確にする**ことが重要です。
 
@@ -620,21 +620,21 @@ TaskMateは、この要望を理解して、GASのコードを自動生成。伊
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ3：小さく始めて、テストする</span>
+### <span class="text-teal"> ステップ3：小さく始めて、テストする</span>
 
 いきなり本番環境で動かさないこと。まずは**テスト環境で試す**のが鉄則です。
 
 **テストのポイント：**
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> 少量のデータで動作確認
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> エラーが出ないかチェック
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> 想定通りの結果が出るか確認
-- <img src="/icons/check.svg" alt="チェック" class="inline-icon" width="20" height="20" /> 処理時間を測定
+- 少量のデータで動作確認
+- エラーが出ないかチェック
+- 想定通りの結果が出るか確認
+- 処理時間を測定
 
 問題がなければ、本番環境に移行します。
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ4：効果を測定する</span>
+### <span class="text-teal"> ステップ4：効果を測定する</span>
 
 導入したら、必ず**効果を測定**しましょう。
 
@@ -648,7 +648,7 @@ TaskMateは、この要望を理解して、GASのコードを自動生成。伊
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ5：少しずつ改善していく</span>
+### <span class="text-teal"> ステップ5：少しずつ改善していく</span>
 
 自動化は「完成」ではなく「成長」です。
 
@@ -668,7 +668,7 @@ TaskMateは、この要望を理解して、GASのコードを自動生成。伊
 
 エクセル自動化でよくある失敗パターンを知っておけば、同じ失敗を避けられます。
 
-### <img src="/icons/x.svg" alt="バツ" class="inline-icon" width="20" height="20" /> 失敗パターン1：最初から完璧を目指す
+### 失敗パターン1：最初から完璧を目指す
 
 **症状：** 「すべての業務を一気に自動化しよう」と意気込んで、複雑なシステムを作ろうとする。結果、挫折する。
 
@@ -676,7 +676,7 @@ TaskMateは、この要望を理解して、GASのコードを自動生成。伊
 
 ---
 
-### <img src="/icons/x.svg" alt="バツ" class="inline-icon" width="20" height="20" /> 失敗パターン2：ツールに振り回される
+### 失敗パターン2：ツールに振り回される
 
 **症状：** 「このツールが流行ってるから」と飛びついて、自社の業務に合わない。
 
@@ -684,7 +684,7 @@ TaskMateは、この要望を理解して、GASのコードを自動生成。伊
 
 ---
 
-### <img src="/icons/x.svg" alt="バツ" class="inline-icon" width="20" height="20" /> 失敗パターン3：1人で抱え込む
+### 失敗パターン3：1人で抱え込む
 
 **症状：** 「自分でなんとかしなきゃ」と1人で悩み続け、結局進まない。
 
@@ -692,7 +692,7 @@ TaskMateは、この要望を理解して、GASのコードを自動生成。伊
 
 ---
 
-### <img src="/icons/x.svg" alt="バツ" class="inline-icon" width="20" height="20" /> 失敗パターン4：効果測定をしない
+### 失敗パターン4：効果測定をしない
 
 **症状：** 自動化したものの、「本当に効果が出ているのか」がわからない。
 
@@ -700,7 +700,7 @@ TaskMateは、この要望を理解して、GASのコードを自動生成。伊
 
 ---
 
-### <img src="/icons/x.svg" alt="バツ" class="inline-icon" width="20" height="20" /> 失敗パターン5：メンテナンスを怠る
+### 失敗パターン5：メンテナンスを怠る
 
 **症状：** 一度作ったら放置。業務フローが変わっても、自動化を更新しない。
 
@@ -712,7 +712,7 @@ TaskMateは、この要望を理解して、GASのコードを自動生成。伊
 
 最後に、実際にエクセル自動化で大きな成果を出した企業の事例をご紹介します。
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> A社の背景
+### A社の背景
 
 **業種：** 不動産管理会社
 **従業員数：** 25名
@@ -722,7 +722,7 @@ A社では、5人の事務スタッフが、毎日大量のエクセル作業に
 
 ---
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 導入前の状況
+### 導入前の状況
 
 **事務スタッフの1週間：**
 - 物件情報の入力・更新：週10時間
@@ -737,7 +737,7 @@ A社では、5人の事務スタッフが、毎日大量のエクセル作業に
 
 ---
 
-### <img src="/icons/rocket.svg" alt="ロケット" class="inline-icon" width="20" height="20" /> 導入したツール
+### 導入したツール
 
 A社が選んだのは、**Google Apps Script + TaskMate**の組み合わせ。
 
@@ -748,7 +748,7 @@ A社が選んだのは、**Google Apps Script + TaskMate**の組み合わせ。
 
 ---
 
-### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 自動化の実践
+### 自動化の実践
 
 **1ヶ月目：小さく始める**
 - 物件情報の自動更新
@@ -766,7 +766,7 @@ A社が選んだのは、**Google Apps Script + TaskMate**の組み合わせ。
 
 ---
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 導入後の効果
+### 導入後の効果
 
 **数値的成果：**
 - 事務作業時間：週180時間 → **週100時間**（44%削減）
@@ -780,7 +780,7 @@ A社が選んだのは、**Google Apps Script + TaskMate**の組み合わせ。
 
 ---
 
-### <img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 成功の秘訣
+### 成功の秘訣
 
 A社の担当者に、成功の秘訣を聞きました。
 
@@ -797,7 +797,7 @@ A社の担当者に、成功の秘訣を聞きました。
 
 ここまで、エクセル業務を自動化する5つのツールと、実践方法をご紹介してきました。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 重要なポイントのおさらい</span>
+### <span class="text-teal"> 重要なポイントのおさらい</span>
 
 **1. エクセル作業の自動化は、もはや「選択肢」ではなく「必須」**
 - 人的ミスの削減
@@ -816,7 +816,7 @@ A社の担当者に、成功の秘訣を聞きました。
 
 ---
 
-### <img src="/icons/rocket.svg" alt="ロケット" class="inline-icon" width="20" height="20" /> 今日から始められる3つのアクション
+### 今日から始められる3つのアクション
 
 **アクション1：自動化したい業務を1つ選ぶ**
 
@@ -844,7 +844,7 @@ A社の担当者に、成功の秘訣を聞きました。
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 最後に</span>
+### <span class="text-teal"> 最後に</span>
 
 エクセル業務の自動化は、決して難しいものではありません。
 
@@ -862,7 +862,7 @@ A社の担当者に、成功の秘訣を聞きました。
 
 ---
 
-## <span class="text-underline"><img src="/icons/rocket.svg" alt="ロケット" class="inline-icon" width="20" height="20" /> TaskMate 公式LINE：お問い合わせはこちら</span>
+## <span class="text-underline"> TaskMate 公式LINE：お問い合わせはこちら</span>
 
 この記事でご紹介したエクセル自動化を今すぐ始めませんか？
 
