@@ -8,7 +8,7 @@ keywords: ["プログラミング不要 自動化", "業務自動化", "プロ�
 
 ## <span class="text-underline">「プログラミングができないから、業務自動化は無理」と諦めていませんか？</span>
 
-![業務自動化のイメージ](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop)
+![業務自動化のイメージ](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=800&h=400&fit=crop)
 
 <span class="text-teal">**「毎日同じ作業の繰り返しで時間がない」**</span>
 <span class="text-teal">**「自動化したいけど、プログラミングなんてできない」**</span>
@@ -20,7 +20,7 @@ keywords: ["プログラミング不要 自動化", "業務自動化", "プロ�
 
 中小企業庁の2024年調査によると、**業務自動化ツールを導入している企業の68%が「プログラミング未経験者が主導して導入した」**と回答しています。つまり、専門知識がなくても、誰でも業務自動化を実現できる時代になったんです。
 
-![パソコンの前で笑顔の女性](https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&q=80)
+![パソコンの前で笑顔の女性](https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&q=80)
 
 ---
 

@@ -8,7 +8,7 @@ keywords: ["バックオフィス 人件費削減", "人件費削減", "バッ�
 
 ## <span class="text-underline">「バックオフィスの人件費、このままでいいのか」と悩んでいませんか？</span>
 
-![バックオフィス業務のイメージ](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=400&fit=crop)
+![バックオフィス業務のイメージ](https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&h=400&fit=crop)
 
 <span class="text-teal"><span class="text-teal"><span class="text-teal">**「経理や総務の人件費が経営を圧迫している...」**</span></span></span>
 
@@ -20,7 +20,7 @@ keywords: ["バックオフィス 人件費削減", "人件費削減", "バッ�
 
 わかります、その悩み。
 
-![経営会議の様子](https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80)
+![経営会議の様子](https://images.unsplash.com/photo-1559136656-2b0d1e13b54b?w=1200&q=80)
 
 実は、多くの中小企業が同じ課題を抱えています。帝国データバンクの2024年調査によると、**中小企業の約**73%**が「バックオフィス業務の効率化」を経営課題として挙げています**。
 

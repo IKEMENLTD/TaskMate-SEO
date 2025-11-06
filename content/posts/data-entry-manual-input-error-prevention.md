@@ -8,7 +8,7 @@ keywords: ["手入力 ミス 防止", "手入力ミス", "データ入力", "自
 
 ## <span class="text-underline">「また入力ミス...」その小さなミスが会社に大損失を与えている</span>
 
-![データ入力のイメージ](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=400&fit=crop)
+![データ入力のイメージ](https://images.unsplash.com/photo-1554034952-81d78bf7e00a?w=800&h=400&fit=crop)
 
 <span class="text-teal"><span class="text-teal"><span class="text-teal">**「またデータ入力でミスをしてしまった...」**</span></span></span>
 
@@ -20,7 +20,7 @@ keywords: ["手入力 ミス 防止", "手入力ミス", "データ入力", "自
 
 実は、こうした「手入力ミス」は、あなただけの問題ではありません。むしろ、**データ入力を行うすべての企業が抱えている共通の課題**なんです。
 
-![パソコンの前で困っている様子](https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&q=80)
+![パソコンの前で困っている様子](https://images.unsplash.com/photo-1563986768609-322da13575f3?w=1200&q=80)
 
 ---
 
@@ -149,7 +149,7 @@ Excelから基幹システムへ顧客情報を転記する際、電話番号を
 
 これが、これから紹介する「手入力ミスを防ぐ3つの方法」の基本的な考え方です。
 
-![自動化システムのイメージ](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop)
+![自動化システムのイメージ](https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=1200&q=80)
 
 ---
 
@@ -179,7 +179,7 @@ Excelから基幹システムへ顧客情報を転記する際、電話番号を
 
 ### メリット2：作業時間が**70%**以上削減される
 
-![時間削減のイメージ](https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800&h=400&fit=crop)
+![時間削減のイメージ](https://images.unsplash.com/photo-1563986768609-322da13575f3?w=1200&q=80)
 
 自動化のもう1つの大きなメリットは、**圧倒的な時短効果**です。
 
@@ -207,7 +207,7 @@ Excelから基幹システムへ顧客情報を転記する際、電話番号を
 
 月間20営業日、毎日**2時間**のデータ入力作業があるとします。
 
-![データ分析と効率化](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=400&fit=crop)
+![データ分析と効率化](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80)
 
 ---
 

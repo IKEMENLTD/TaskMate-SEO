@@ -8,7 +8,7 @@ keywords: ["店舗数 増えた 管理できない", "多店舗展開", "売上�
 
 ## <span class="text-underline">「店舗が増えるほど、管理が追いつかない」で悩んでいませんか？</span>
 
-![多店舗管理のイメージ](https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=400&fit=crop)
+![多店舗管理のイメージ](https://images.unsplash.com/photo-1556742111-a301076d9d18?w=800&h=400&fit=crop)
 
 <span class="text-teal">**「3店舗目を出店したら、もう管理が回らなくなった」**</span>
 <span class="text-teal">**「各店舗の売上を把握するだけで、毎日2時間かかっている」**</span>
@@ -18,7 +18,7 @@ keywords: ["店舗数 増えた 管理できない", "多店舗展開", "売上�
 
 実は、飲食店や小売店の経営者の多くが、店舗数が増えるたびに同じ壁にぶつかっています。1店舗、2店舗のときは何とか回っていた管理方法が、3店舗、5店舗と増えるにつれて完全に破綻してしまう。そんなケースが後を絶ちません。
 
-![複数の店舗を管理するイメージ](https://images.unsplash.com/photo-1556740758-90de374c12ad?w=1200&q=80)
+![複数の店舗を管理するイメージ](https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=1200&q=80)
 
 ---
 

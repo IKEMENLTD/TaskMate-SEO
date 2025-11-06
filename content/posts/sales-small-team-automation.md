@@ -8,7 +8,7 @@ keywords: ["少人数 業務効率化", "中小企業", "業務効率化", "少�
 
 ## <span class="text-underline">少人数だから売上が伸びない、は本当か？</span>
 
-![少人数チームのイメージ](https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&h=400&fit=crop)
+![少人数チームのイメージ](https://images.unsplash.com/photo-1552581234-26160f608093?w=800&h=400&fit=crop)
 
 <span class="text-teal"><span class="text-teal"><span class="text-teal">**「人手が足りなくて、売上を伸ばせない」**</span></span></span>
 

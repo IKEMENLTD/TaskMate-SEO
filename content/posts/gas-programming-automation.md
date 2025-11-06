@@ -8,7 +8,7 @@ keywords: ["GAS 導入 サポート", "GAS", "導入", "サポート", "プロ�
 
 ## <span class="text-underline">「プログラミングができないから、業務自動化は無理」と諦めていませんか？</span>
 
-![業務自動化のイメージ](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop)
+![業務自動化のイメージ](https://images.unsplash.com/photo-1555099962-4199c345e5dd?w=800&h=400&fit=crop)
 
 **「GASって聞いたことあるけど、プログラミングの知識がないから使えない」**
 **「自動化したい業務はあるけど、どこから手をつけていいかわからない」**

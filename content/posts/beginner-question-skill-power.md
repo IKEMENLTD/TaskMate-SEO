@@ -16,7 +16,7 @@ keywords: ["初心者", "マインドセット", "TaskMate", "Google Apps Script
 
 しかし、ここで視点を変えてみましょう。質問できる力こそが、初心者が持つ最強のスキルなのです。ベテランエンジニアが当たり前すぎて見落としてしまう問題点を、初心者の新鮮な視点だからこそ発見できることもあります。
 
-![プログラミング学習のイメージ](https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&auto=format&fit=crop&q=60)
+![プログラミング学習のイメージ](https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800&h=400&fit=crop)
 
 ## <span class="text-underline">問題の深掘り</span>
 

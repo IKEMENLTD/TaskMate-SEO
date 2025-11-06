@@ -8,7 +8,7 @@ keywords: ["EC 複数サイト 管理", "EC", "複数サイト", "一元管理",
 
 ## <span class="text-underline">「複数のECサイト、管理が大変すぎる...」そんな悩みを抱えていませんか？</span>
 
-![EC管理のイメージ](https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=400&fit=crop)
+![EC管理のイメージ](https://images.unsplash.com/photo-1556742049-11b9db2d5c8a?w=800&h=400&fit=crop)
 
 <span class="text-teal">**「楽天とAmazon、それに自社ECサイト...毎日3つのサイトを行ったり来たりして、在庫確認だけで午前中が終わってしまう」**</span>
 
@@ -18,7 +18,7 @@ keywords: ["EC 複数サイト 管理", "EC", "複数サイト", "一元管理",
 
 実は、複数のECサイトを運営している企業の**78%**が、「サイト間のデータ管理に課題を感じている」というデータがあります（日本ネット経済新聞2024年調査）。
 
-![複数のタブを開いて作業する様子](https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&q=80)
+![複数のタブを開いて作業する様子](https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80)
 
 ### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> この記事でわかること</span>
 

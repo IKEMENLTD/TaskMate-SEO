@@ -8,7 +8,7 @@ keywords: ["給与計算 間違い 対策", "給与計算", "自動化", "勤怠
 
 ## <span class="text-underline">給与計算のミスで、従業員との信頼関係が崩れていませんか?</span>
 
-![給与計算のイメージ](https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&h=400&fit=crop)
+![給与計算のイメージ](https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&h=400&fit=crop)
 
 <span class="text-teal">**「今月も給与計算にミスがあった...」**</span>
 
@@ -38,7 +38,7 @@ keywords: ["給与計算 間違い 対策", "給与計算", "自動化", "勤怠
 
 給与計算は、まさにこの「単調な繰り返し作業」の典型。ミスが起きるのは、あなたの能力の問題ではなく、**人間の認知特性と作業の性質が合っていない**からなんです。
 
-![パソコンで作業する様子](https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&q=80)
+![パソコンで作業する様子](https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=1200&q=80)
 
 ---
 
@@ -82,7 +82,7 @@ keywords: ["給与計算 間違い 対策", "給与計算", "自動化", "勤怠
 
 こうした状態が続けば、担当者の健康を損なうだけでなく、離職にもつながります。実際、給与計算担当者の離職率は、他の事務職と比べて約1.8倍高いというデータもあります。
 
-![ストレスを抱える経理担当者](https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=800&h=400&fit=crop)
+![ストレスを抱える経理担当者](https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&q=80)
 
 ---
 
@@ -161,13 +161,13 @@ keywords: ["給与計算 間違い 対策", "給与計算", "自動化", "勤怠
 
 こうした「当たり前」が確実に実現されることで、従業員は安心して働けるようになります。
 
-![チームで働く様子](https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&q=80)
+![チームで働く様子](https://images.unsplash.com/photo-1590402494682-cd3fb53b1f70?w=1200&q=80)
 
 ---
 
 ## <span class="text-underline">給与計算自動化の実践ステップ</span>
 
-![自動化ダッシュボード](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=400&fit=crop)
+![自動化ダッシュボード](https://images.unsplash.com/photo-1554224311-beee415c201f?w=1200&q=80)
 
 ### <span class="text-teal">💡 ステップ1：現状の給与計算フローを可視化する(1週間)</span>
 
@@ -483,7 +483,7 @@ T社は、まず**シフト管理システム**から導入しました。
 
 あなたの会社でも、この5つのポイントを押さえれば、必ず成功できます。
 
-![成功したビジネスチーム](https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=400&fit=crop)
+![成功したビジネスチーム](https://images.unsplash.com/photo-1590650107333-e4e8af562d52?w=1200&q=80)
 
 ---
 

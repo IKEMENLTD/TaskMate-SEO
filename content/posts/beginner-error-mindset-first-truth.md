@@ -16,7 +16,7 @@ keywords: ["初心者", "マインドセット", "TaskMate", "Google Apps Script
 
 でも、ここで知っておいてほしい真実があります。エラーが出るのは、あなたの能力が低いからではありません。プログラミングとは本来、試行錯誤の連続なのです。プロのエンジニアでさえ、毎日何十個ものエラーと向き合いながら仕事をしています。
 
-![プログラミング学習のイメージ](https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=1200&h=600&fit=crop)
+![プログラミング学習のイメージ](https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=800&h=400&fit=crop)
 
 ## <span class="text-underline">初心者が陥る「完璧主義の罠」</span>
 

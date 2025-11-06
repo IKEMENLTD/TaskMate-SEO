@@ -8,7 +8,7 @@ keywords: ["AIコーディング とは", "AI開発", "プログラミング不�
 
 ## <span class="text-underline">「AIがコーディングする」って、結局どういうことなんだろう</span>
 
-![AIコーディングのイメージ](https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&h=400&fit=crop)
+![AIコーディングのイメージ](https://images.unsplash.com/photo-1677442135019-21780ecad995?w=800&h=400&fit=crop)
 
 あなたも最近、こんな言葉を耳にしませんか。「もう人間がコードを書く時代じゃない」「AIに指示するだけでシステムが完成する」——。
 
@@ -38,7 +38,7 @@ keywords: ["AIコーディング とは", "AI開発", "プログラミング不�
 
 ## <span class="text-underline">「AIコーディング」の正体——コンピュータ語の自動翻訳機だと思ってください</span>
 
-![自動翻訳のイメージ](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=400&fit=crop)
+![自動翻訳のイメージ](https://images.unsplash.com/photo-1519389950473-47577de88cb4?w=1200&q=80)
 
 まず最初に、大きな誤解を解いておきましょう。「AIコーディング」と聞くと、何か魔法のようにシステムが突然完成する様子を想像するかもしれません。
 
@@ -104,7 +104,7 @@ Excelはある程度使えるけど、プログラミングは「if文って何�
 
 ## <span class="text-underline">"指示だけ開発"の3つのステップ——あなたがやることは、驚くほどシンプルです</span>
 
-![開発ステップのイメージ](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&h=400&fit=crop)
+![開発ステップのイメージ](https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&q=80)
 
 「指示だけでシステムができる」と聞いても、具体的にどう進むのかイメージしづらいですよね。実際の流れを、架空の事例で追体験してみましょう。
 
@@ -200,7 +200,7 @@ TaskMateに依頼が来たとき、私たちがまず田中さんに聞いたの
 
 ## <span class="text-underline">従来の開発との決定的な違い——あなたが「開発チームの一員」になる</span>
 
-![チーム開発のイメージ](https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&h=400&fit=crop)
+![チーム開発のイメージ](https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=1200&q=80)
 
 ここまで読んで、もしかしたらあなたはこう感じているかもしれません。「それって、外注と何が違うの？結局、誰かに作ってもらうのは同じでは？」
 

@@ -8,7 +8,7 @@ keywords: ["作業時間 削減 方法", "業務効率化", "時間削減", "自
 
 ## <span class="text-underline">「毎日残業、でも仕事は終わらない」そんな日々を送っていませんか？</span>
 
-![業務効率化のイメージ](https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&h=400&fit=crop)
+![業務効率化のイメージ](https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=800&h=400&fit=crop)
 
 <span class="text-teal">**「今日も残業か...」**</span>
 
@@ -18,7 +18,7 @@ keywords: ["作業時間 削減 方法", "業務効率化", "時間削減", "自
 
 わかります、その気持ち。実は、多くのビジネスパーソンが同じ悩みを抱えているんです。
 
-![パソコンの前で疲れている様子](https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&q=80)
+![パソコンの前で疲れている様子](https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&q=80)
 
 ---
 

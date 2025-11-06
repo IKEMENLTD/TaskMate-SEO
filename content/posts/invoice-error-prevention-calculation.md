@@ -8,7 +8,7 @@ keywords: ["請求書 計算ミス", "請求書", "計算ミス", "自動作成"
 
 ## <span class="text-underline">請求書の計算ミスで、取引先の信頼を失っていませんか？</span>
 
-![請求書作成のイメージ](https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&h=400&fit=crop)
+![請求書作成のイメージ](https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&h=400&fit=crop)
 
 <span class="text-teal"><span class="text-teal"><span class="text-teal">**「また請求金額が違うって連絡が来た...」**</span></span></span>
 

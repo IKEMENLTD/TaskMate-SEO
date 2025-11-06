@@ -8,7 +8,7 @@ keywords: ["発注ミス なくす方法", "発注ミス", "在庫管理", "欠�
 
 ## <span class="text-underline">「また発注ミス...」という悪夢から解放されたいと思いませんか？</span>
 
-![在庫管理のイメージ](https://images.unsplash.com/photo-1553413077-190dd305871c?w=800&h=400&fit=crop)
+![在庫管理のイメージ](https://images.unsplash.com/photo-1565793298595-6a879b1d9492?w=800&h=400&fit=crop)
 
 <span class="text-teal"><span class="text-teal"><span class="text-teal">**「発注数を間違えて、倉庫が在庫で埋まってしまった...」**</span></span></span>
 
@@ -24,7 +24,7 @@ keywords: ["発注ミス なくす方法", "発注ミス", "在庫管理", "欠�
 
 発注ミスって、単なる「うっかり」では済まないんですよね。お客様からの信頼を失い、過剰在庫でキャッシュフローが悪化し、担当者は毎日プレッシャーに押しつぶされそうになる。
 
-![パソコンの前で頭を抱える様子](https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&q=80)
+![パソコンの前で頭を抱える様子](https://images.unsplash.com/photo-1553413077-190dd305871c?w=1200&q=80)
 
 ---
 
@@ -167,7 +167,7 @@ keywords: ["発注ミス なくす方法", "発注ミス", "在庫管理", "欠�
 
 ### メリット2：**24時間****365日**の監視体制
 
-![**24時間**監視システム](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=400&fit=crop)
+![**24時間**監視システム](https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=1200&q=80)
 
 人間は夜寝ますし、休日もあります。でも、在庫は**24時間**動いています。
 
@@ -304,7 +304,7 @@ keywords: ["発注ミス なくす方法", "発注ミス", "在庫管理", "欠�
 
 ### <span class="text-teal">💡 ステップ3：自動アラートの設定</span>
 
-![アラート通知システム](https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800&h=400&fit=crop)
+![アラート通知システム](https://images.unsplash.com/photo-1591857639314-ea82b6c1bf6b?w=1200&q=80)
 
 在庫が一定数を下回ったら、自動でアラートが届く仕組みを作ります。
 
@@ -382,7 +382,7 @@ keywords: ["発注ミス なくす方法", "発注ミス", "在庫管理", "欠�
 
 ### <span class="text-teal">💡 ステップ6：在庫回転率のモニタリング</span>
 
-![データ分析ダッシュボード](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop)
+![データ分析ダッシュボード](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80)
 
 在庫管理がうまくいっているかを測る指標が「在庫回転率」です。
 

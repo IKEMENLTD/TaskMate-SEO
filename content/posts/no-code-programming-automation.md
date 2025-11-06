@@ -8,7 +8,7 @@ keywords: ["ノーコード 業務自動化", "ノーコード", "業務自動�
 
 ## <span class="text-underline">「プログラミングができないから、業務自動化は無理」と諦めていませんか？</span>
 
-![ノーコード業務自動化のイメージ](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop)
+![ノーコード業務自動化のイメージ](https://images.unsplash.com/photo-1551650975-87deedd944c3?w=800&h=400&fit=crop)
 
 <span class="text-teal">**「業務を自動化したいけど、プログラミングなんてできない」**</span>
 <span class="text-teal">**「ITに詳しい人がいないから、DXなんて夢のまた夢」**</span>
@@ -20,7 +20,7 @@ keywords: ["ノーコード 業務自動化", "ノーコード", "業務自動�
 
 日本商工会議所の2024年調査によると、**中小企業の68%が「DX推進の必要性は感じているが、専門人材がいない」**と回答しています。でも、もうそれは言い訳にできません。
 
-![パソコンの前で悩むビジネスパーソン](https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&q=80)
+![パソコンの前で悩むビジネスパーソン](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&q=80)
 
 ---
 

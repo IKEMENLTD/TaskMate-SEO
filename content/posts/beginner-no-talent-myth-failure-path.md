@@ -16,7 +16,7 @@ keywords: ["初心者", "マインドセット", "TaskMate", "Google Apps Script
 
 今日からあなたは、エラーメッセージを「失敗」ではなく「学びのチャンス」として捉えられるようになります。そして、コードを一から書けなくても、自分のやりたいことを実現できる方法があることを知るでしょう。
 
-![プログラミング学習のイメージ](https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=800&auto=format&fit=crop&q=60)
+![プログラミング学習のイメージ](https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=400&fit=crop)
 
 ## <span class="text-underline">「才能がない」と感じる本当の理由</span>
 
@@ -26,7 +26,7 @@ keywords: ["初心者", "マインドセット", "TaskMate", "Google Apps Script
 
 さらに、プログラミングのエラーメッセージは英語で表示されることが多く、何が問題なのかを理解すること自体が難題です。「Syntax Error」「Undefined」「Null Reference」といった専門用語は、初心者にとっては暗号のようなもの。エラーの意味を調べるだけで数時間かかり、本来やりたかった作業は一向に進まないという悪循環に陥ります。
 
-![チーム作業の様子](https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&auto=format&fit=crop&q=60)
+![チーム作業の様子](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&q=80)
 
 こうした状況が続くと、「自分は論理的思考が苦手なんだ」「プログラマーの素質がないんだ」と結論づけてしまいがちです。しかし、これは才能の問題ではなく、学習アプローチの問題なのです。
 

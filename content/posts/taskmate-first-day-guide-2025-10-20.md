@@ -8,7 +8,7 @@ keywords: ["TaskMate", "始め方", "初心者", "スタートガイド", "最�
 
 ## <span class="text-underline">TaskMateを導入したけど、何から始めればいいの？</span>
 
-![スタートガイドのイメージ](https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&h=400&fit=crop)
+![スタートガイドのイメージ](https://images.unsplash.com/photo-1551836022-4c4c79ecde51?w=800&h=400&fit=crop)
 
 「TaskMate、契約したはいいけど...」
 
@@ -18,7 +18,7 @@ keywords: ["TaskMate", "始め方", "初心者", "スタートガイド", "最�
 
 わかります、その気持ち。
 
-![パソコンの前で困っている様子](https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&q=80)
+![パソコンの前で困っている様子](https://images.unsplash.com/photo-1531537571171-a707bf2683da?w=1200&q=80)
 
 ---
 
@@ -194,7 +194,7 @@ TaskMateは対話型のAIです。あなたが「こういうことをしたい�
 
 だから、まずは気軽に話しかけてみてください。「こんなこと、できますか？」から始めて大丈夫です。
 
-![スマホでLINEを使っている様子](https://images.unsplash.com/photo-1556656793-08538906a9f8?w=1200&q=80)
+![スマホでLINEを使っている様子](https://images.unsplash.com/photo-1531537571171-a707bf2683da?w=1200&q=80)
 
 ---
 
@@ -322,7 +322,7 @@ TaskMateには、**設置の際によくあるトラブルとその解決方法�
 
 落ち着いて手順通りに進めれば、必ず設置できます。
 
-![パソコンで作業している様子](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&q=80)
+![パソコンで作業している様子](https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1200&q=80)
 
 ---
 

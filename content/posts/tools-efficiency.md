@@ -8,7 +8,7 @@ keywords: ["ツール導入 コスパ", "業務効率化ツール", "比較", "�
 
 ## <span class="text-underline">「ツール導入したいけど、費用が心配...」で悩んでいませんか？</span>
 
-![業務効率化ツールのイメージ](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=400&fit=crop)
+![業務効率化ツールのイメージ](https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800&h=400&fit=crop)
 
 <span class="text-teal"><span class="text-teal">**「業務効率化ツールを導入したいけど、月額費用が高すぎる」**</span></span>
 <span class="text-teal"><span class="text-teal">**「予算は限られているのに、どのツールを選べばいいかわからない」**</span></span>
@@ -18,7 +18,7 @@ keywords: ["ツール導入 コスパ", "業務効率化ツール", "比較", "�
 
 実は、中小企業の経営者や担当者の多くが、同じ壁にぶつかっています。デジタルトランスフォーメーション（DX）の必要性は理解しているものの、「コストと効果のバランス」が見えず、一歩を踏み出せずにいるんです。
 
-![パソコンの前で悩むビジネスパーソン](https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&q=80)
+![パソコンの前で悩むビジネスパーソン](https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&q=80)
 
 ---
 

@@ -16,7 +16,7 @@ keywords: ["初心者", "マインドセット", "TaskMate", "Google Apps Script
 
 こうした挫折体験は決して珍しいものではありません。むしろ、プログラミング学習者の大半が一度は経験する壁なのです。大切なのは、挫折したという事実ではなく、そこからどう再スタートするかです。
 
-![プログラミング学習の再スタート](https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop)
+![プログラミング学習の再スタート](https://images.unsplash.com/photo-1528605248644-14dd04022da1?w=800&h=400&fit=crop)
 
 ## <span class="text-underline">なぜプログラミング学習は続かないのか</span>
 

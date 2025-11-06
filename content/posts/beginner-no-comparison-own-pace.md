@@ -16,7 +16,7 @@ keywords: ["初心者", "マインドセット", "TaskMate", "Google Apps Script
 
 でも、安心してください。あなたが感じている焦りや不安は、決して珍しいものではありません。そして、比較せずに自分のペースで着実に成長していく方法は、確実に存在します。
 
-![プログラミング学習のイメージ](https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=800&auto=format&fit=crop&q=60)
+![プログラミング学習のイメージ](https://images.unsplash.com/photo-1544717305-2782549b5136?w=800&h=400&fit=crop)
 
 ## <span class="text-underline">問題の深掘り：なぜ比較は学習の敵なのか</span>
 
@@ -67,7 +67,7 @@ TaskMateの使い方は驚くほどシンプルです。第一に、LINEでTaskM
 
 この作業には毎週約90分かかり、月曜日の朝の貴重な時間が失われています。さらに、手作業のため転記ミスが発生することもあり、後から修正が必要になることも少なくありません。「もっと効率化できないだろうか」と思いながらも、プログラミングの知識がないため、どうすればいいのかわからず、毎週同じ作業を繰り返していました。
 
-![売上グラフのイメージ](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&auto=format&fit=crop&q=60)
+![売上グラフのイメージ](https://images.unsplash.com/photo-1544717305-2782549b5136?w=1200&q=80)
 
 **After（TaskMateで自動化）:**
 

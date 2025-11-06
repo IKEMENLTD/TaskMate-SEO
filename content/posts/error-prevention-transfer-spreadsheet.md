@@ -8,7 +8,7 @@ keywords: ["スプレッドシート 転記 ミス", "スプレッドシート",
 
 ## <span class="text-underline">「また転記ミスで謝罪メールを送る日々」から抜け出したくないですか?</span>
 
-![データ転記のイメージ](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop)
+![データ転記のイメージ](https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=800&h=400&fit=crop)
 
 <span class="text-teal">**「スプレッドシートの転記ミスで、また顧客に謝罪しなきゃいけない...」**</span>
 
@@ -18,7 +18,7 @@ keywords: ["スプレッドシート 転記 ミス", "スプレッドシート",
 
 実は、**人間が手作業でデータを転記する場合、ミス率は平均0.5〜3%**というデータがあります。100件の転記作業なら、1〜3件はミスが発生する計算です。
 
-![パソコンの前で頭を抱える様子](https://images.unsplash.com/photo-1554224311-beee2ade6524?w=1200&q=80)
+![パソコンの前で頭を抱える様子](https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=1200&q=80)
 
 ---
 

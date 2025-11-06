@@ -8,7 +8,7 @@ keywords: ["自動化", "成功", "秘訣", "成功事例", "習慣", "TaskMate"
 
 ## <span class="text-underline">なぜ、同じツールを使っているのに成果が違うのか</span>
 
-![成功習慣のイメージ](https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=400&fit=crop)
+![成功習慣のイメージ](https://images.unsplash.com/photo-1494178270175-e96de2971df9?w=800&h=400&fit=crop)
 
 TaskMateを導入した会社の話です。A部署は3か月で業務時間を**40%**削減できました。
 

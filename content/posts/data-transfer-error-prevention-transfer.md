@@ -8,7 +8,7 @@ keywords: ["データ転記 ミス", "データ転記", "自動化", "エクセ�
 
 ## <span class="text-underline">「また転記ミス…」その繰り返しで悩んでいませんか？</span>
 
-![データ転記のイメージ](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=400&fit=crop)
+![データ転記のイメージ](https://images.unsplash.com/photo-1560250254-3f47e3f46c34?w=800&h=400&fit=crop)
 
 <span class="text-teal"><span class="text-teal"><span class="text-teal">**「エクセルからスプレッドシートにデータをコピーしたら、また数字が間違ってた…」**</span></span></span>
 

@@ -8,7 +8,7 @@ keywords: ["商品数 増加 在庫管理", "在庫管理", "商品管理", "SKU
 
 ## <span class="text-underline">「在庫が合わない」「どこに何があるかわからない」で悩んでいませんか？</span>
 
-![在庫管理のイメージ](https://images.unsplash.com/photo-1553413077-190dd305871c?w=800&h=400&fit=crop)
+![在庫管理のイメージ](https://images.unsplash.com/photo-1586528116493-a029325540fa?w=800&h=400&fit=crop)
 
 **「また在庫が合わない...」**
 
@@ -24,7 +24,7 @@ keywords: ["商品数 増加 在庫管理", "在庫管理", "商品管理", "SKU
 
 こんな悩み、抱えていませんか？
 
-![倉庫で在庫を探す様子](https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=1200&q=80)
+![倉庫で在庫を探す様子](https://images.unsplash.com/photo-1576424512081-1f74e41e6584?w=1200&q=80)
 
 ---
 

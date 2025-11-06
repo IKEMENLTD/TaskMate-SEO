@@ -8,7 +8,7 @@ keywords: ["プログラミング 完璧主義", "初心者", "マインドセ�
 
 ## <span class="text-underline">「完璧なコードを書けない自分」を責めていませんか？</span>
 
-![プログラミング学習のイメージ](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&h=400&fit=crop)
+![プログラミング学習のイメージ](https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=800&h=400&fit=crop)
 
 <span class="text-teal"><span class="text-teal"><span class="text-teal">**「エラーばかりで、まともなコードが書けない...」**</span></span></span>
 
@@ -22,7 +22,7 @@ keywords: ["プログラミング 完璧主義", "初心者", "マインドセ�
 
 Google、Meta、Amazonといった巨大IT企業のコードベースにも、「とりあえず動く」コードが山ほど存在します。
 
-![パソコンの前で悩む様子](https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&q=80)
+![パソコンの前で悩む様子](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80)
 
 ---
 

@@ -8,7 +8,7 @@ keywords: ["事務作業 外注 高い", "外注コスト", "内製化", "自動
 
 ## <span class="text-underline">外注費が毎月膨らんでいく不安</span>
 
-![外注コストのイメージ](https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&h=400&fit=crop)
+![外注コストのイメージ](https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=800&h=400&fit=crop)
 
 <span class="text-teal"><span class="text-teal"><span class="text-teal">**「外注費、また上がってる...このままで大丈夫なのかな」**</span></span></span>
 

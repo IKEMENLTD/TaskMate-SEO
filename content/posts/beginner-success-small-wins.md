@@ -16,7 +16,7 @@ keywords: ["初心者", "マインドセット", "TaskMate", "Google Apps Script
 
 本当に必要なのは、理論を学ぶ前に「自分の日常の困りごとが解決できた」という実感です。毎週手作業でやっていた集計作業が自動化できた、毎日送っているメールが自動で送信されるようになった。そんな小さな成功体験が、次の学習への意欲を生み出します。
 
-![プログラミング学習のイメージ](https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=800&auto=format&fit=crop&q=60)
+![プログラミング学習のイメージ](https://images.unsplash.com/photo-1537511446984-935f663eb1f4?w=800&h=400&fit=crop)
 
 ## <span class="text-underline">プログラミング学習が続かない本当の理由</span>
 
@@ -69,7 +69,7 @@ TaskMateの使い方は驚くほどシンプルです。まず、LINEでTaskMate
 
 この作業に毎週30分〜40分かかり、月曜の朝の貴重な時間が奪われていました。さらに、祝日で月曜が休みの場合は火曜に送り忘れたり、出張中に送れなかったりと、継続性の面でも課題がありました。
 
-![データ分析のイメージ](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&auto=format&fit=crop&q=60)
+![データ分析のイメージ](https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=1200&q=80)
 
 **After（TaskMateで自動化）:**
 
