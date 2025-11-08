@@ -1,6 +1,6 @@
 ---
 title: "【2025年版】楽天・Amazon・自社ECの一元管理｜複数サイトの売上を自動集計する方法"
-date: "2025-10-31"
+date: "2024-10-31"
 description: "複数のEC 複数サイト 管理を効率的に一元管理する方法を紹介。データの自動集計と可視化により、経営判断のスピードと精度を向上させる具体的な手順を解説します。"
 slug: "sales-ecommerce-rakuten"
 keywords: ["EC 複数サイト 管理", "EC", "複数サイト", "一元管理", "楽天", "Amazon"]
@@ -16,7 +16,7 @@ keywords: ["EC 複数サイト 管理", "EC", "複数サイト", "一元管理",
 
 こんな状況に、心当たりはありませんか？
 
-実は、複数のECサイトを運営している企業の**78%**が、「サイト間のデータ管理に課題を感じている」というデータがあります（日本ネット経済新聞2024年調査）。
+実際、複数のECサイトを運営している企業の78%が、「サイト間のデータ管理に課題を感じている」というデータがあります（日本ネット経済新聞2024年調査）。
 
 ![複数のタブを開いて作業する様子](https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80)
 
@@ -52,7 +52,7 @@ keywords: ["EC 複数サイト 管理", "EC", "複数サイト", "一元管理",
 
 ## <span class="text-underline">複数サイト管理の3つの革命的メリット</span>
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット1：データ集計時間が**90%**削減される</span>
+### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット1：データ集計時間が90%削減される</span>
 
 **従来の方法：**
 - 各サイトにログイン・データダウンロード・Excelに転記・グラフ作成
@@ -326,4 +326,4 @@ TaskMateの公式LINEでは、あなたの運営サイトに最適な一元管�
 
 **まずはお気軽にご相談ください**
 
-👉 **[TaskMate 公式LINE：お問い合わせはこちら](https://taskmateai.net/t/pio8hwhejjhy)**
+ **[TaskMate 公式LINE：お問い合わせはこちら](https://taskmateai.net/t/pio8hwhejjhy)**
