@@ -22,11 +22,21 @@ export function getAllPosts(): PostData[] {
     const fileContents = fs.readFileSync(fullPath, 'utf8');
     const matterResult = matter(fileContents);
 
+    // date フィールドを安全に処理
+    let dateValue = '2024-01-01'; // デフォルト値
+    if (matterResult.data.date) {
+      if (typeof matterResult.data.date === 'string') {
+        dateValue = matterResult.data.date;
+      } else if (matterResult.data.date.toISOString) {
+        dateValue = matterResult.data.date.toISOString().split('T')[0];
+      }
+    }
+
     return {
       slug,
-      title: matterResult.data.title,
-      date: typeof matterResult.data.date === 'string' ? matterResult.data.date : matterResult.data.date.toISOString().split('T')[0],
-      description: matterResult.data.description,
+      title: matterResult.data.title || 'Untitled',
+      date: dateValue,
+      description: matterResult.data.description || '',
     };
   });
 
@@ -49,11 +59,21 @@ export async function getPostData(slug: string): Promise<PostData> {
     .process(matterResult.content);
   const contentHtml = processedContent.toString();
 
+  // date フィールドを安全に処理
+  let dateValue = '2024-01-01'; // デフォルト値
+  if (matterResult.data.date) {
+    if (typeof matterResult.data.date === 'string') {
+      dateValue = matterResult.data.date;
+    } else if (matterResult.data.date.toISOString) {
+      dateValue = matterResult.data.date.toISOString().split('T')[0];
+    }
+  }
+
   return {
     slug,
-    title: matterResult.data.title,
-    date: typeof matterResult.data.date === 'string' ? matterResult.data.date : matterResult.data.date.toISOString().split('T')[0],
-    description: matterResult.data.description,
+    title: matterResult.data.title || 'Untitled',
+    date: dateValue,
+    description: matterResult.data.description || '',
     contentHtml,
   };
 }
