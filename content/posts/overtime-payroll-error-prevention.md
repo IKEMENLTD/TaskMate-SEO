@@ -39,7 +39,7 @@ keywords: ["残業代 計算 効率化", "残業代", "計算", "自動化", "�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 給与計算ミスの78%が「残業代の計算間違い」</span>
+### <span class="text-teal">給与計算ミスの78%が「残業代の計算間違い」</span>
 
 日本労務研究会の2024年調査によると、**給与計算に関するトラブルの78%が「残業代の計算間違い」**に起因しています。
 
@@ -54,7 +54,7 @@ keywords: ["残業代 計算 効率化", "残業代", "計算", "自動化", "�
 
 ---
 
-### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 自動化で「ミスゼロ」と「時間削減」を同時実現
+### 自動化で「ミスゼロ」と「時間削減」を同時実現
 
 でも、安心してください。残業代計算の自動化システムを導入すれば、**計算ミスをほぼゼロにしながら、作業時間も大幅に削減できます**。
 
@@ -68,11 +68,11 @@ keywords: ["残業代 計算 効率化", "残業代", "計算", "自動化", "�
 
 ## <span class="text-underline">なぜ今、残業代計算の自動化が急務なのか</span>
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由1：労働基準法の厳格化と罰則強化</span>
+### <span class="text-teal">理由1：労働基準法の厳格化と罰則強化</span>
 
 2024年4月から、労働基準法の罰則が大幅に強化されました。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 未払い残業代の罰則
+#### 未払い残業代の罰則
 
 **従来：** 6ヶ月以下の懲役または30万円以下の罰金
 
@@ -84,11 +84,11 @@ keywords: ["残業代 計算 効率化", "残業代", "計算", "自動化", "�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由2：働き方改革による計算の複雑化</span>
+### <span class="text-teal">理由2：働き方改革による計算の複雑化</span>
 
 働き方改革関連法の施行により、残業代計算はますます複雑になっています。
 
-#### <img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> 考慮すべき項目の増加
+#### 考慮すべき項目の増加
 
 **2024年現在、考慮すべき項目：**
 - 時間外労働（月45時間まで、それ以降）
@@ -104,11 +104,11 @@ keywords: ["残業代 計算 効率化", "残業代", "計算", "自動化", "�
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 理由3：従業員の権利意識の高まり</span>
+### 理由3：従業員の権利意識の高まり</span>
 
 SNSやインターネットの普及により、従業員の労働法に関する知識レベルが向上しています。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 労働相談の増加データ
+#### 労働相談の増加データ
 
 厚生労働省の「総合労働相談コーナー」への相談件数：
 - 2020年：約118万件
@@ -166,7 +166,7 @@ SNSやインターネットの普及により、従業員の労働法に関す�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由4：人事担当者の負担増大</span>
+### <span class="text-teal">理由4：人事担当者の負担増大</span>
 
 人手不足の中、人事・経理担当者の業務負担は増える一方です。
 
@@ -186,11 +186,11 @@ SNSやインターネットの普及により、従業員の労働法に関す�
 
 ## <span class="text-underline">残業代計算自動化がもたらす5つの革命的メリット</span>
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット1：計算ミスをほぼ100%防止</span>
+### <span class="text-teal">メリット1：計算ミスをほぼ100%防止</span>
 
 自動化システムの最大のメリットは、**人的ミスを完全に排除できる**こと。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 手作業 vs 自動化のミス率比較
+#### 手作業 vs 自動化のミス率比較
 
 **手作業での計算：**
 - 平均ミス率：1.2%（100件中1〜2件）
@@ -204,11 +204,11 @@ SNSやインターネットの普及により、従業員の労働法に関す�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット2：作業時間を80%以上削減</span>
+### <span class="text-teal">メリット2：作業時間を80%以上削減</span>
 
 自動化により、給与計算にかかる時間が劇的に短縮されます。
 
-#### <img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> 作業時間の比較
+#### 作業時間の比較
 
 **従業員50名の企業の例：**
 
@@ -225,11 +225,11 @@ SNSやインターネットの普及により、従業員の労働法に関す�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット3：法令遵守を自動保証</span>
+### <span class="text-teal">メリット3：法令遵守を自動保証</span>
 
 労働基準法は頻繁に改正されます。自動化システムなら、**法改正に自動対応**できます。
 
-#### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 自動対応される項目
+#### 自動対応される項目
 
 **割増率の自動適用：**
 - 時間外労働：25%（月60時間超は50%）
@@ -248,11 +248,11 @@ SNSやインターネットの普及により、従業員の労働法に関す�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット4：透明性の向上で従業員満足度アップ</span>
+### <span class="text-teal">メリット4：透明性の向上で従業員満足度アップ</span>
 
 自動化システムは、従業員にとっても大きなメリットがあります。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 従業員満足度の向上
+#### 従業員満足度の向上
 
 **導入企業の調査結果：**
 - 「給与計算が正確になった」：94%
@@ -266,11 +266,11 @@ SNSやインターネットの普及により、従業員の労働法に関す�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット5：経営判断に活用できるデータ蓄積</span>
+### <span class="text-teal">メリット5：経営判断に活用できるデータ蓄積</span>
 
 自動化システムは、単なる計算ツールではありません。**経営判断に活用できる貴重なデータ**を蓄積します。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 活用できるデータ
+#### 活用できるデータ
 
 **人件費分析：**
 - 部署別・プロジェクト別の残業コスト
@@ -293,11 +293,11 @@ SNSやインターネットの普及により、従業員の労働法に関す�
 
 それでは、具体的にどうやって残業代計算を自動化するのか、5つのステップで解説します。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ1：現状の給与計算フローを整理する</span>
+### <span class="text-teal">ステップ1：現状の給与計算フローを整理する</span>
 
 まず、**現在の給与計算の流れを明確に**しましょう。
 
-#### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 整理すべき項目
+#### 整理すべき項目
 
 **勤怠管理方法：**
 - [ ] タイムカード、ICカード、Webシステム
@@ -317,11 +317,11 @@ SNSやインターネットの普及により、従業員の労働法に関す�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ2：自動化ツールを選定する</span>
+### <span class="text-teal">ステップ2：自動化ツールを選定する</span>
 
 次に、自社に最適な自動化ツールを選びます。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> ツール選定の3つのポイント
+#### ツール選定の3つのポイント
 
 **ポイント1：既存システムとの連携**
 - 勤怠管理システムとの連携
@@ -338,7 +338,7 @@ SNSやインターネットの普及により、従業員の労働法に関す�
 - 設定の簡単さ
 - マニュアルの充実度
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> おすすめツール比較
+#### おすすめツール比較
 
 | ツール | 月額費用 | 特徴 | おすすめ企業規模 |
 |--------|----------|------|------------------|
@@ -350,11 +350,11 @@ SNSやインターネットの普及により、従業員の労働法に関す�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ3：勤怠データの自動連携を構築</span>
+### <span class="text-teal">ステップ3：勤怠データの自動連携を構築</span>
 
 自動化の要は、**勤怠データを自動で給与計算システムに連携する**こと。
 
-#### <img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> 連携方法の選択肢
+#### 連携方法の選択肢
 
 **方法1：API連携**
 - 勤怠システムと給与システムを直接連携
@@ -373,7 +373,7 @@ SNSやインターネットの普及により、従業員の労働法に関す�
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：GASでの勤怠連携自動化
+### 実例：GASでの勤怠連携自動化
 
 ある企業では、TaskMateを使ってGASでの自動化を実現しました。
 
@@ -391,11 +391,11 @@ SNSやインターネットの普及により、従業員の労働法に関す�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ4：残業代計算ロジックを設定する</span>
+### <span class="text-teal">ステップ4：残業代計算ロジックを設定する</span>
 
 次に、残業代の計算ルールをシステムに設定します。
 
-#### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 設定すべき項目
+#### 設定すべき項目
 
 **基本給与情報：**
 - [ ] 基本給
@@ -416,11 +416,11 @@ SNSやインターネットの普及により、従業員の労働法に関す�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ5：テスト運用と改善</span>
+### <span class="text-teal">ステップ5：テスト運用と改善</span>
 
 いきなり本番運用せず、必ず**テスト期間**を設けましょう。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> テスト運用の手順
+#### テスト運用の手順
 
 **1ヶ月目：並行運用**
 - 従来の手作業と自動化を並行実施
@@ -443,7 +443,7 @@ SNSやインターネットの普及により、従業員の労働法に関す�
 
 残業代計算の自動化で、よくある失敗パターンとその対策をご紹介します。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 失敗パターン1：初期設定のミス</span>
+### <span class="text-teal">失敗パターン1：初期設定のミス</span>
 
 **よくあるミス：**
 - 割増率の設定間違い
@@ -457,7 +457,7 @@ SNSやインターネットの普及により、従業員の労働法に関す�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 失敗パターン2：勤怠データの不備</span>
+### <span class="text-teal">失敗パターン2：勤怠データの不備</span>
 
 **よくあるミス：**
 - 打刻漏れの放置
@@ -471,7 +471,7 @@ SNSやインターネットの普及により、従業員の労働法に関す�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 失敗パターン3：例外処理の未対応</span>
+### <span class="text-teal">失敗パターン3：例外処理の未対応</span>
 
 **よくあるミス：**
 - 直行直帰の扱い
@@ -485,7 +485,7 @@ SNSやインターネットの普及により、従業員の労働法に関す�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 失敗パターン4：従業員への説明不足</span>
+### <span class="text-teal">失敗パターン4：従業員への説明不足</span>
 
 **よくあるミス：**
 - 新システムの使い方を説明していない
@@ -500,7 +500,7 @@ SNSやインターネットの普及により、従業員の労働法に関す�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 失敗パターン5：定期的な見直しをしていない</span>
+### <span class="text-teal">失敗パターン5：定期的な見直しをしていない</span>
 
 **よくあるミス：**
 - 法改正への対応漏れ
@@ -597,7 +597,7 @@ B社では、人事担当者2名が、**月末の3日間を給与計算に費や
 
 ここまで、残業代計算の自動化について詳しく解説してきました。でも、「具体的にどうやって始めればいいの？」と思っている方も多いはずです。
 
-### <span class="text-teal"><img src="/icons/rocket.svg" alt="ロケット" class="inline-icon" width="20" height="20" /> TaskMateができること</span>
+### <span class="text-teal">TaskMateができること</span>
 
 TaskMateは、**給与計算の自動化を専門とするAIアシスタント**です。
 
@@ -625,7 +625,7 @@ TaskMateは、**給与計算の自動化を専門とするAIアシスタント**
 
 ---
 
-### <img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> TaskMate活用の実例
+### TaskMate活用の実例
 
 **ケース1：中小企業（従業員30名）**
 
@@ -656,7 +656,7 @@ TaskMateは、**給与計算の自動化を専門とするAIアシスタント**
 
 ---
 
-### <span class="text-teal"><img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> TaskMate導入企業の成果</span>
+### <span class="text-teal">TaskMate導入企業の成果</span>
 
 **平均的な効果：**
 - 給与計算時間：**85%削減**
@@ -670,7 +670,7 @@ TaskMateは、**給与計算の自動化を専門とするAIアシスタント**
 
 ## <span class="text-underline">まとめ｜今日から始める残業代計算の自動化</span>
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 重要なポイントのおさらい</span>
+### <span class="text-teal">重要なポイントのおさらい</span>
 
 **1. 残業代計算の自動化は「必須」の時代**
 - 法令遵守の厳格化
@@ -693,7 +693,7 @@ TaskMateは、**給与計算の自動化を専門とするAIアシスタント**
 
 ---
 
-### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 今日から始められる3つのアクション
+### 今日から始められる3つのアクション
 
 **アクション1：現状を記録する**
 
@@ -719,7 +719,7 @@ TaskMateは、**給与計算の自動化を専門とするAIアシスタント**
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 最後に</span>
+### <span class="text-teal">最後に</span>
 
 残業代計算の自動化は、決して難しいものではありません。
 

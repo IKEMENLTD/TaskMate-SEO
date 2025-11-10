@@ -37,7 +37,7 @@ keywords: ["日次 売上レポート 自動", "日次レポート", "売上管�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 経営者の**78%**が「リアルタイムな売上把握」に課題</span>
+### <span class="text-teal">経営者の**78%**が「リアルタイムな売上把握」に課題</span>
 
 中小企業庁の2024年調査によると、**中小企業経営者の約78%が「日次での売上把握が遅れている」という課題を抱えている**というデータがあります。
 
@@ -45,7 +45,7 @@ keywords: ["日次 売上レポート 自動", "日次レポート", "売上管�
 
 ---
 
-### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 「昨日の数字」が今日の経営判断を変える
+### 「昨日の数字」が今日の経営判断を変える
 
 考えてみてください。昨日の売上が前日比で30%落ちていたとしたら、今日すぐに対策を打てますよね。でも、それを知るのが3日後だったら？
 
@@ -59,13 +59,13 @@ keywords: ["日次 売上レポート 自動", "日次レポート", "売上管�
 
 ## <span class="text-underline">なぜ今、日次売上レポートの自動化が急務なのか</span>
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由1：スピード経営の時代</span>
+### <span class="text-teal">理由1：スピード経営の時代</span>
 
 市場環境の変化スピードは、かつてないほど速くなっています。
 
 帝国データバンクの2024年調査では、**「経営判断のスピードが業績を左右する」と回答した企業が83.2%**に達しました。特に小売業や飲食業では、この数字は**89.7%**に跳ね上がります。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 判断の遅れが生むコスト
+#### 判断の遅れが生むコスト
 
 ある飲食チェーンでは、売上データの把握が遅れたことで、在庫過多による廃棄ロスが月間**150万円**に達していました。
 
@@ -75,11 +75,11 @@ keywords: ["日次 売上レポート 自動", "日次レポート", "売上管�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由2：データ集計にかかる人的コスト</span>
+### <span class="text-teal">理由2：データ集計にかかる人的コスト</span>
 
 日次売上レポート作成に、毎日どれくらいの時間を使っていますか？
 
-#### <img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> 手作業集計の隠れたコスト
+#### 手作業集計の隠れたコスト
 
 **典型的な手作業フロー：**
 1. 各店舗・各ECサイトからデータをダウンロード（15分）
@@ -99,11 +99,11 @@ keywords: ["日次 売上レポート 自動", "日次レポート", "売上管�
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 理由3：人的ミスのリスク
+### 理由3：人的ミスのリスク
 
 手作業での集計には、必ずミスのリスクがついて回ります。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> ミスが引き起こす問題
+#### ミスが引き起こす問題
 
 ある小売企業では、売上データの入力ミスで、**実際より20%低い数字を報告**してしまいました。
 
@@ -152,7 +152,7 @@ keywords: ["日次 売上レポート 自動", "日次レポート", "売上管�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由4：経営会議の質が変わる</span>
+### <span class="text-teal">理由4：経営会議の質が変わる</span>
 
 日次売上データがリアルタイムで把握できると、経営会議の質が劇的に変わります。
 
@@ -174,7 +174,7 @@ keywords: ["日次 売上レポート 自動", "日次レポート", "売上管�
 
 ## <span class="text-underline">日次売上レポート自動化がもたらす5つの革命的メリット</span>
 
-### <span class="text-teal"><img src="/icons/rocket.svg" alt="ロケット" class="inline-icon" width="20" height="20" /> メリット1：毎朝9時、コーヒーと一緒に届く売上データ</span>
+### <span class="text-teal">メリット1：毎朝9時、コーヒーと一緒に届く売上データ</span>
 
 想像してみてください。毎朝9時、あなたのメールボックスに、前日の売上レポートが届いている光景を。
 
@@ -189,11 +189,11 @@ keywords: ["日次 売上レポート 自動", "日次レポート", "売上管�
 
 ---
 
-### <span class="text-teal"><img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> メリット2：年間292時間の削減＝従業員1人分の労働力</span>
+### <span class="text-teal">メリット2：年間292時間の削減＝従業員1人分の労働力</span>
 
 先ほど計算したように、日次レポート作成に毎日70分かかっているとすると、年間292時間。これは、**従業員1人が約7週間フルタイムで働く時間**に相当します。
 
-#### <img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 削減された時間の使い道
+#### 削減された時間の使い道
 
 **ケース1：営業担当の場合**
 - 削減時間を顧客訪問に充てる
@@ -208,7 +208,7 @@ keywords: ["日次 売上レポート 自動", "日次レポート", "売上管�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット3：異常値を即座に検知できる</span>
+### <span class="text-teal">メリット3：異常値を即座に検知できる</span>
 
 自動化されたレポートには、**異常値の自動検知機能**を組み込むことができます。
 
@@ -218,7 +218,7 @@ keywords: ["日次 売上レポート 自動", "日次レポート", "売上管�
 - 特定店舗の売上異常
 - 客単価の大幅な変化
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：早期発見で損失を防いだケース
+#### 実例：早期発見で損失を防いだケース
 
 あるアパレルチェーンでは、自動レポートで「A店の売上が前日比50%減」という異常を検知。
 
@@ -228,7 +228,7 @@ keywords: ["日次 売上レポート 自動", "日次レポート", "売上管�
 
 ---
 
-### <span class="text-teal"><img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> メリット4：過去データとの比較が一目瞭然</span>
+### <span class="text-teal">メリット4：過去データとの比較が一目瞭然</span>
 
 自動化されたレポートでは、**過去データとの比較が自動で行われます**。
 
@@ -243,13 +243,13 @@ keywords: ["日次 売上レポート 自動", "日次レポート", "売上管�
 
 ---
 
-### <span class="text-teal"><img src="/icons/rocket.svg" alt="ロケット" class="inline-icon" width="20" height="20" /> メリット5：複数チャネルのデータを一元化</span>
+### <span class="text-teal">メリット5：複数チャネルのデータを一元化</span>
 
 現代のビジネスは、複数のチャネルで展開されています。実店舗、EC、アプリ、卸売...。
 
 これらのデータを手作業で集計するのは、非常に手間がかかります。でも、自動化すれば、**すべてのチャネルのデータを一元的に把握**できます。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 統合データの価値
+#### 統合データの価値
 
 **統合前：**
 - 実店舗の売上：Excelで管理
@@ -268,11 +268,11 @@ keywords: ["日次 売上レポート 自動", "日次レポート", "売上管�
 
 それでは、具体的な実践ステップに入っていきましょう。
 
-### <span class="text-teal"><img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> まずは「現状」を把握する</span>
+### <span class="text-teal">まずは「現状」を把握する</span>
 
 自動化を始める前に、まず**現状のデータフローを可視化**することが重要です。
 
-#### <img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 可視化すべき4つのポイント
+#### 可視化すべき4つのポイント
 
 **ポイント1：データの発生源**
 - POSシステム
@@ -295,7 +295,7 @@ keywords: ["日次 売上レポート 自動", "日次レポート", "売上管�
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：B社の現状可視化
+### 実例：B社の現状可視化
 
 B社（飲食チェーン、5店舗）の例を見てみましょう。
 
@@ -316,7 +316,7 @@ B社（飲食チェーン、5店舗）の例を見てみましょう。
 
 この可視化により、「各店舗からのデータ収集」と「手入力での転記」に最も時間がかかっていることが判明しました。
 
-<img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> **所要時間：1〜2時間**
+**所要時間：1〜2時間**
 
 ---
 
@@ -324,7 +324,7 @@ B社（飲食チェーン、5店舗）の例を見てみましょう。
 
 現状が把握できたら、次は**データ収集の自動化**を設計します。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 自動化の3つのパターン</span>
+### <span class="text-teal">自動化の3つのパターン</span>
 
 **パターン1：APIで自動取得**
 - 多くのPOSシステムやECプラットフォームはAPI提供
@@ -343,7 +343,7 @@ B社（飲食チェーン、5店舗）の例を見てみましょう。
 
 ---
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> パターン選択のフローチャート
+### パターン選択のフローチャート
 
 **判断基準：**
 
@@ -361,7 +361,7 @@ B社（飲食チェーン、5店舗）の例を見てみましょう。
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：B社が選んだ方法
+### 実例：B社が選んだ方法
 
 B社の場合、POSシステムにAPIはありませんでしたが、CSVエクスポート機能はありました。
 
@@ -372,7 +372,7 @@ B社の場合、POSシステムにAPIはありませんでしたが、CSVエク�
 
 **ポイント：** 各店舗の作業は「メール送信」だけ。それ以降は完全自動化。
 
-<img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> **所要時間：2〜3時間（設計のみ）**
+**所要時間：2〜3時間（設計のみ）**
 
 ---
 
@@ -380,7 +380,7 @@ B社の場合、POSシステムにAPIはありませんでしたが、CSVエク�
 
 データが自動で集まるようになったら、次は**集計と分析の自動化**です。
 
-### <span class="text-teal"><img src="/icons/rocket.svg" alt="ロケット" class="inline-icon" width="20" height="20" /> Googleスプレッドシート + GASの組み合わせ</span>
+### <span class="text-teal">Googleスプレッドシート + GASの組み合わせ</span>
 
 最もコストパフォーマンスが高いのが、**Googleスプレッドシート + Google Apps Script（GAS）**の組み合わせです。
 
@@ -392,7 +392,7 @@ B社の場合、POSシステムにAPIはありませんでしたが、CSVエク�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 自動化する集計項目</span>
+### <span class="text-teal">自動化する集計項目</span>
 
 **基本集計：**
 - 日別売上合計
@@ -414,13 +414,13 @@ B社の場合、POSシステムにAPIはありませんでしたが、CSVエク�
 
 ---
 
-### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> TaskMateを活用したコード生成
+### TaskMateを活用したコード生成
 
 「でも、GASのコードなんて書けない...」
 
 大丈夫です。**TaskMateに相談すれば、必要なコードを自動生成してくれます**。
 
-#### <img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> TaskMateへの相談例
+#### TaskMateへの相談例
 
 「Googleスプレッドシートに、各店舗の売上データが日々追加されていきます。これを自動で集計して、以下の項目を別シートに出力したいです：
 - 前日の総売上
@@ -432,7 +432,7 @@ TaskMateは、この要望を理解して、**必要なGASコードを自動生�
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：B社の自動集計システム
+### 実例：B社の自動集計システム
 
 B社では、TaskMateが生成したコードを使って、以下の自動化を実現しました。
 
@@ -449,7 +449,7 @@ B社では、TaskMateが生成したコードを使って、以下の自動化�
 
 **所要時間：0分（完全自動）**
 
-<img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> **実装時間：3〜4時間（TaskMateのサポートあり）**
+**実装時間：3〜4時間（TaskMateのサポートあり）**
 
 ---
 
@@ -457,7 +457,7 @@ B社では、TaskMateが生成したコードを使って、以下の自動化�
 
 集計が自動化できたら、最後は**レポートの自動配信**です。
 
-### <span class="text-teal"><img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 配信方法の選択肢</span>
+### <span class="text-teal">配信方法の選択肢</span>
 
 **方法1：メール自動送信**
 - GASで、毎朝決まった時間にメール送信
@@ -476,7 +476,7 @@ B社では、TaskMateが生成したコードを使って、以下の自動化�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> おすすめ：メール + Slack の併用</span>
+### <span class="text-teal">おすすめ：メール + Slack の併用</span>
 
 最も効果的なのは、**メールとSlackの併用**です。
 
@@ -492,7 +492,7 @@ B社では、TaskMateが生成したコードを使って、以下の自動化�
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：B社のレポート配信
+### 実例：B社のレポート配信
 
 B社では、以下の配信設定を行いました。
 
@@ -531,7 +531,7 @@ B社では、以下の配信設定を行いました。
   詳細はこちら→ [リンク]
   ```
 
-<img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> **設定時間：1〜2時間**
+**設定時間：1〜2時間**
 
 ---
 
@@ -539,7 +539,7 @@ B社では、以下の配信設定を行いました。
 
 自動化システムが完成したら、最後に**運用ルール**を確立します。
 
-### <span class="text-teal"><img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 確立すべき5つのルール</span>
+### <span class="text-teal">確立すべき5つのルール</span>
 
 **ルール1：データ入力のタイミング**
 - 各店舗：毎朝8時までにデータ送信
@@ -566,7 +566,7 @@ B社では、以下の配信設定を行いました。
 
 ---
 
-### <img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 実例：B社の運用ルール
+### 実例：B社の運用ルール
 
 **データ入力ルール：**
 - 各店舗：毎朝8時までに、前日のPOSデータをメール送信
@@ -582,7 +582,7 @@ B社では、以下の配信設定を行いました。
 - 毎月第1月曜日、本部会議でレポート内容を見直し
 - 現場からの改善提案を随時受付
 
-<img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> **所要時間：1〜2時間（ドキュメント作成含む）**
+**所要時間：1〜2時間（ドキュメント作成含む）**
 
 ---
 
@@ -590,7 +590,7 @@ B社では、以下の配信設定を行いました。
 
 自動化を進める中で、多くの企業が陥りがちな失敗パターンがあります。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 失敗パターン1：完璧を目指しすぎる</span>
+### <span class="text-teal">失敗パターン1：完璧を目指しすぎる</span>
 
 **失敗例：**
 「すべてのデータを、すべてのパターンで分析できるシステムを作ろう」と、複雑なシステムを設計。結果、実装に3ヶ月かかり、途中で挫折。
@@ -604,7 +604,7 @@ B社では、以下の配信設定を行いました。
 
 ---
 
-### <span class="text-teal"><img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 失敗パターン2：現場の協力を得られない</span>
+### <span class="text-teal">失敗パターン2：現場の協力を得られない</span>
 
 **失敗例：**
 本部が一方的にシステムを導入。現場スタッフは「また余計な仕事が増えた」と反発。データ入力が徹底されず、システムが機能しない。
@@ -617,7 +617,7 @@ B社では、以下の配信設定を行いました。
 - 現場の負担を最小限にする設計
 - 成果を現場にもフィードバック
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：現場を巻き込んだC社
+#### 実例：現場を巻き込んだC社
 
 C社では、導入前に各店舗の店長を集めて説明会を実施。
 
@@ -625,7 +625,7 @@ C社では、導入前に各店舗の店長を集めて説明会を実施。
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 失敗パターン3：メンテナンスを怠る</span>
+### <span class="text-teal">失敗パターン3：メンテナンスを怠る</span>
 
 **失敗例：**
 最初は順調に動いていたが、商品マスタの変更や店舗の増減に対応せず、データがズレ始める。気づいた時には、信頼性が失われていた。
@@ -639,7 +639,7 @@ C社では、導入前に各店舗の店長を集めて説明会を実施。
 
 ---
 
-### <span class="text-teal"><img src="/icons/rocket.svg" alt="ロケット" class="inline-icon" width="20" height="20" /> 失敗パターン4：データを見るだけで終わる</span>
+### <span class="text-teal">失敗パターン4：データを見るだけで終わる</span>
 
 **失敗例：**
 毎朝、レポートは届くが、「見るだけ」で終わり。データに基づく行動変容が起きず、売上も変わらない。
@@ -651,7 +651,7 @@ C社では、導入前に各店舗の店長を集めて説明会を実施。
 - 週1回、データを基にした戦略会議
 - PDCAサイクルを回す仕組み
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> データ活用の3ステップ
+#### データ活用の3ステップ
 
 **ステップ1：See（見る）**
 - データを確認する
@@ -762,7 +762,7 @@ D社が選んだのは、**Googleスプレッドシート + Google Apps Script +
 
 ## <span class="text-underline">まとめ｜今日から始める日次売上レポート自動化</span>
 
-### <span class="text-teal"><img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 重要なポイントのおさらい</span>
+### <span class="text-teal">重要なポイントのおさらい</span>
 
 **1. 日次売上データは、経営判断の生命線**
 - スピード経営の時代、データの鮮度が勝負
@@ -824,7 +824,7 @@ D社が選んだのは、**Googleスプレッドシート + Google Apps Script +
 
 ---
 
-### <span class="text-teal"><img src="/icons/rocket.svg" alt="ロケット" class="inline-icon" width="20" height="20" /> 最後に</span>
+### <span class="text-teal">最後に</span>
 
 日次売上レポートの自動化は、決して難しいものではありません。
 
@@ -845,7 +845,7 @@ D社が選んだのは、**Googleスプレッドシート + Google Apps Script +
 
 ---
 
-## <span class="text-underline"><img src="/icons/rocket.svg" alt="ロケット" class="inline-icon" width="20" height="20" /> TaskMate 公式LINE：お問い合わせはこちら</span>
+## <span class="text-underline">TaskMate 公式LINE：お問い合わせはこちら</span>
 
 この記事でご紹介した日次売上レポートの自動化を今すぐ始めませんか？
 

@@ -37,7 +37,7 @@ keywords: ["適正在庫 管理方法", "適正在庫", "在庫管理", "自動�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 在庫管理のミスが企業に与える損失は年間**平均1,200万円**</span>
+### <span class="text-teal">在庫管理のミスが企業に与える損失は年間**平均1,200万円**</span>
 
 日本ロジスティクスシステム協会の調査では、**在庫管理の不備による損失は、年間売上の約3〜5%**に達するというデータがあります。
 
@@ -45,7 +45,7 @@ keywords: ["適正在庫 管理方法", "適正在庫", "在庫管理", "自動�
 
 ---
 
-### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 在庫管理の2つの失敗パターン
+### 在庫管理の2つの失敗パターン
 
 在庫管理の失敗には、大きく分けて2つのパターンがあります。
 
@@ -63,7 +63,7 @@ keywords: ["適正在庫 管理方法", "適正在庫", "在庫管理", "自動�
 
 ## <span class="text-underline">なぜ今、適正在庫の自動計算が必須なのか</span>
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由1：勘と経験では限界がある</span>
+### <span class="text-teal">理由1：勘と経験では限界がある</span>
 
 「ベテランの佐藤さんが見れば、在庫量がわかる」
 
@@ -73,7 +73,7 @@ keywords: ["適正在庫 管理方法", "適正在庫", "在庫管理", "自動�
 
 経済産業省の調査では、**勘と経験に頼った在庫管理をしている企業の欠品率は平均12.3%**。一方、**データドリブンな在庫管理を導入した企業は3.8%**まで低下しています。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 人間の判断の限界
+#### 人間の判断の限界
 
 人間の脳は、**同時に7±2個の情報しか処理できない**という研究結果があります（ジョージ・ミラーの法則）。
 
@@ -81,11 +81,11 @@ keywords: ["適正在庫 管理方法", "適正在庫", "在庫管理", "自動�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由2：市場変動のスピードが加速している</span>
+### <span class="text-teal">理由2：市場変動のスピードが加速している</span>
 
 コロナ禍以降、需要の変動は激しくなっています。「先月はよく売れたのに、今月は全然動かない」そんな経験、ありませんか？
 
-#### <img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> 需要予測の難しさ
+#### 需要予測の難しさ
 
 日本マーケティング協会の2024年調査では、**企業の68%が「需要予測が以前より難しくなった」**と回答しています。
 
@@ -93,7 +93,7 @@ SNSのトレンド、天候、イベント、競合の動き...。在庫に影�
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 理由3：資金繰りへの影響
+### 理由3：資金繰りへの影響
 
 在庫は「資産」ですが、同時に「寝ているお金」でもあります。
 
@@ -153,11 +153,11 @@ SNSのトレンド、天候、イベント、競合の動き...。在庫に影�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由4：競合との差が開く</span>
+### <span class="text-teal">理由4：競合との差が開く</span>
 
 大手企業や先進的な中小企業は、すでにデータドリブンな在庫管理を導入しています。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> デジタル化の格差
+#### デジタル化の格差
 
 物流総合効率化法の調査では、**在庫管理を自動化している企業は、未導入企業に比べて在庫回転率が平均2.1倍高い**という結果が出ています。
 
@@ -169,7 +169,7 @@ SNSのトレンド、天候、イベント、競合の動き...。在庫に影�
 
 適正在庫を計算する前に、まず基本的な概念を理解しましょう。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 指標1：安全在庫</span>
+### <span class="text-teal">指標1：安全在庫</span>
 
 **安全在庫とは：** 需要の変動や納期の遅れに備えて、最低限確保しておくべき在庫量
 

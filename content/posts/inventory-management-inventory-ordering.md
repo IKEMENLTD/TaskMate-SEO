@@ -37,7 +37,7 @@ keywords: ["発注点 自動計算", "発注点", "自動計算", "在庫管理"
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 在庫管理の失敗が企業経営を圧迫している</span>
+### <span class="text-teal">在庫管理の失敗が企業経営を圧迫している</span>
 
 日本ロジスティクスシステム協会の調査では、**不適切な在庫管理による企業の損失は年間平均で売上高の2.3%に達する**というデータがあります。
 
@@ -47,7 +47,7 @@ keywords: ["発注点 自動計算", "発注点", "自動計算", "在庫管理"
 
 ---
 
-### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 発注点の自動計算で、在庫管理は劇的に変わる
+### 発注点の自動計算で、在庫管理は劇的に変わる
 
 でも、考えてみてください。発注点を自動計算できれば、**「いつ発注すべきか」で悩む必要がなくなります**。
 
@@ -59,7 +59,7 @@ keywords: ["発注点 自動計算", "発注点", "自動計算", "在庫管理"
 
 ## <span class="text-underline">なぜ今、発注点の自動計算が必須なのか</span>
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由1：勘と経験だけでは限界がある</span>
+### <span class="text-teal">理由1：勘と経験だけでは限界がある</span>
 
 「長年やってるから、見ればわかる」そう言っていたベテラン担当者が退職。後任者は右も左もわからず、在庫管理が混乱...。
 
@@ -67,7 +67,7 @@ keywords: ["発注点 自動計算", "発注点", "自動計算", "在庫管理"
 
 帝国データバンクの2024年調査では、**製造・卸売業の61.2%が「在庫管理の属人化」を課題として認識**しています。特に、熟練担当者の退職により、**ノウハウが失われるリスク**が深刻化しているんです。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 属人化のリスク
+#### 属人化のリスク
 
 ある卸売業では、20年間在庫管理を担当していた社員が退職。後任者は、発注点の判断基準がわからず：
 
@@ -79,13 +79,13 @@ keywords: ["発注点 自動計算", "発注点", "自動計算", "在庫管理"
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由2：需要変動への対応が難しい</span>
+### <span class="text-teal">理由2：需要変動への対応が難しい</span>
 
 現代のビジネス環境では、需要が急激に変動します。季節要因、トレンド、SNSでのバズ、競合の動き...。
 
 従来の「過去の平均」だけで発注点を決めていると、**需要の変化に追いつけません**。
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 需要変動の実例
+#### 需要変動の実例
 
 ある食品卸売業では、SNSで商品がバズったことで：
 
@@ -97,7 +97,7 @@ keywords: ["発注点 自動計算", "発注点", "自動計算", "在庫管理"
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 理由3：人件費と時間コストの増大
+### 理由3：人件費と時間コストの増大
 
 在庫確認、発注判断、発注書作成、在庫データの更新...。これらの作業に、どれだけの時間を使っていますか？
 
@@ -168,13 +168,13 @@ keywords: ["発注点 自動計算", "発注点", "自動計算", "在庫管理"
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由4：キャッシュフローへの影響</span>
+### <span class="text-teal">理由4：キャッシュフローへの影響</span>
 
 過剰在庫は、企業のキャッシュフローを圧迫します。
 
 中小企業庁の調査では、**中小企業の倒産理由の約23%が「資金繰りの悪化」**。その原因の多くが、**過剰在庫による資金の固定化**なんです。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 過剰在庫のコスト
+#### 過剰在庫のコスト
 
 仮に、1,000万円分の過剰在庫を3ヶ月間抱えているとします：
 
@@ -189,11 +189,11 @@ keywords: ["発注点 自動計算", "発注点", "自動計算", "在庫管理"
 
 ## <span class="text-underline">発注点自動計算がもたらす5つの革命的メリット</span>
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット1：在庫切れを95%削減</span>
+### <span class="text-teal">メリット1：在庫切れを95%削減</span>
 
 発注点を自動計算することで、**在庫切れのリスクを劇的に減らせます**。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> データで見る効果
+#### データで見る効果
 
 発注点自動計算を導入した企業の平均データ：
 
@@ -205,11 +205,11 @@ keywords: ["発注点 自動計算", "発注点", "自動計算", "在庫管理"
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット2：過剰在庫を40%削減</span>
+### <span class="text-teal">メリット2：過剰在庫を40%削減</span>
 
 適切な発注点の設定により、**必要最小限の在庫で運営できる**ようになります。
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：電子部品商社B社
+#### 実例：電子部品商社B社
 
 B社では、発注点自動計算の導入により：
 
@@ -227,7 +227,7 @@ B社では、発注点自動計算の導入により：
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット3：発注業務時間を週12時間削減</span>
+### <span class="text-teal">メリット3：発注業務時間を週12時間削減</span>
 
 自動計算により、**「いつ発注すべきか」を考える時間がゼロ**になります。
 
@@ -242,11 +242,11 @@ B社では、発注点自動計算の導入により：
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット4：属人化の解消</span>
+### <span class="text-teal">メリット4：属人化の解消</span>
 
 発注点が自動計算されるため、**誰でも適切な発注判断ができる**ようになります。
 
-#### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 標準化のメリット
+#### 標準化のメリット
 
 **導入前：** ベテラン担当者しか発注判断ができない、引き継ぎに3ヶ月かかる
 
@@ -256,7 +256,7 @@ B社では、発注点自動計算の導入により：
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット5：キャッシュフローの改善</span>
+### <span class="text-teal">メリット5：キャッシュフローの改善</span>
 
 適正在庫の維持により、**運転資金が大幅に改善**します。
 
@@ -273,11 +273,11 @@ B社では、発注点自動計算の導入により：
 
 ## <span class="text-underline">発注点自動計算の実践5ステップ</span>
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ1：現状の在庫データを整理する</span>
+### <span class="text-teal">ステップ1：現状の在庫データを整理する</span>
 
 まず、**現在の在庫データを正確に把握**することから始めます。
 
-#### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 必要なデータ項目
+#### 必要なデータ項目
 
 **基本情報：**
 - 商品コード
@@ -297,11 +297,11 @@ B社では、発注点自動計算の導入により：
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ2：発注点の計算式を設定する</span>
+### <span class="text-teal">ステップ2：発注点の計算式を設定する</span>
 
 次に、発注点を計算する式を設定します。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 基本の発注点計算式
+#### 基本の発注点計算式
 
 ## よくある質問（FAQ）
 

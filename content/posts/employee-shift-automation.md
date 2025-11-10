@@ -37,7 +37,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> シフト管理の複雑さは年々増している</span>
+### <span class="text-teal">シフト管理の複雑さは年々増している</span>
 
 「昔はもっと簡単だったのに」そう感じていませんか？実際、シフト管理は年々複雑化しています。
 
@@ -50,7 +50,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 自動化で実現する「三方良し」
+### 自動化で実現する「三方良し」
 
 でも、朗報があります。シフト管理を自動化すれば、**管理者・従業員・経営者の全員にメリット**があります。
 
@@ -64,13 +64,13 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ## <span class="text-underline">なぜ今、シフト管理の自動化が必須なのか</span>
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由1：人手不足で「シフトが埋まらない」時代</span>
+### <span class="text-teal">理由1：人手不足で「シフトが埋まらない」時代</span>
 
 日本の労働市場は、かつてない人手不足に直面しています。
 
 帝国データバンクの2024年調査では、**飲食業の82.3%、小売業の75.8%、介護業の89.1%が「人手不足」**と回答。特に、シフト勤務が中心の業種ほど、深刻な状況です。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 限られた人員で最大の成果を
+#### 限られた人員で最大の成果を
 
 人が足りない中、**いかに効率的にシフトを組むか**が、事業継続の鍵になっています。
 
@@ -80,11 +80,11 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由2：労働法規制の厳格化</span>
+### <span class="text-teal">理由2：労働法規制の厳格化</span>
 
 2024年4月から、時間外労働の上限規制がすべての業種に適用されました。違反すれば、**6ヶ月以下の懲役または30万円以下の罰金**という厳しい罰則があります。
 
-#### <img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> 手作業では見落としがちな法令違反
+#### 手作業では見落としがちな法令違反
 
 **よくある法令違反パターン：**
 - 週40時間を超える労働時間
@@ -98,7 +98,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由3：従業員満足度が離職率に直結</span>
+### <span class="text-teal">理由3：従業員満足度が離職率に直結</span>
 
 リクルートワークス研究所の2024年調査によると、**シフト勤務者の退職理由の第2位が「希望シフトが通らない」**（32.8%）でした。
 
@@ -153,11 +153,11 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 理由4：人件費の無駄が利益を圧迫</span>
+### 理由4：人件費の無駄が利益を圧迫</span>
 
 手作業でのシフト作成では、**必要以上の人員を配置してしまう**ケースが多くあります。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 過剰人員配置のコスト
+#### 過剰人員配置のコスト
 
 ある飲食店の例：
 - 平均時給：1,200円
@@ -170,7 +170,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由5：管理者の時間がもっと重要な仕事に使える</span>
+### <span class="text-teal">理由5：管理者の時間がもっと重要な仕事に使える</span>
 
 シフト作成に月20時間使っているとしたら、年間240時間。時給換算で3,000円とすると、**年間72万円分の時間**です。
 
@@ -180,11 +180,11 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ## <span class="text-underline">シフト管理自動化がもたらす5つの革命的メリット</span>
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット1：シフト作成時間が95%削減</span>
+### <span class="text-teal">メリット1：シフト作成時間が95%削減</span>
 
 最も直接的なメリットは、**圧倒的な時間削減**です。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 導入前後の比較
+#### 導入前後の比較
 
 **手作業の場合：**
 - 希望シフト収集：3日
@@ -205,11 +205,11 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット2：人件費が平均15-20%削減</span>
+### <span class="text-teal">メリット2：人件費が平均15-20%削減</span>
 
 自動化ツールは、**過去のデータから需要を予測**し、最適な人員配置を算出します。
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：カフェチェーンA社
+#### 実例：カフェチェーンA社
 
 **導入前：**
 - 月間人件費：450万円
@@ -225,7 +225,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット3：法令遵守が自動でチェックされる</span>
+### <span class="text-teal">メリット3：法令遵守が自動でチェックされる</span>
 
 労働基準法違反のリスクを**ほぼゼロ**にできます。
 
@@ -241,11 +241,11 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット4：従業員満足度が大幅に向上</span>
+### <span class="text-teal">メリット4：従業員満足度が大幅に向上</span>
 
 公平で透明性の高いシフト作成は、従業員の信頼につながります。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 導入企業の従業員満足度調査
+#### 導入企業の従業員満足度調査
 
 **シフトに関する満足度（5段階評価）：**
 - 導入前：2.8点
@@ -259,7 +259,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット5：急な欠勤にも即座に対応</span>
+### <span class="text-teal">メリット5：急な欠勤にも即座に対応</span>
 
 「今日、体調不良で休みます」という連絡。手作業なら、代わりを探すのに30分以上かかることも。
 
@@ -277,7 +277,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 「自動化したいけど、何から始めればいいの？」という方のために、具体的な導入ステップをご紹介します。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ1：現状のシフト管理を可視化する（所要時間：2時間）</span>
+### <span class="text-teal">ステップ1：現状のシフト管理を可視化する（所要時間：2時間）</span>
 
 まず、**現状を正確に把握**することから始めます。
 
@@ -293,7 +293,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ2：自動化の目標を明確にする（所要時間：1時間）</span>
+### <span class="text-teal">ステップ2：自動化の目標を明確にする（所要時間：1時間）</span>
 
 「何を改善したいのか」を明確にしましょう。
 
@@ -307,11 +307,11 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ3：最適なツールを選定する（所要時間：3時間）</span>
+### <span class="text-teal">ステップ3：最適なツールを選定する（所要時間：3時間）</span>
 
 シフト管理ツールは数多くありますが、**あなたの業種・規模・予算に合ったもの**を選ぶことが重要です。
 
-#### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 主要ツールの比較
+#### 主要ツールの比較
 
 | ツール名 | 月額費用 | 従業員数 | 特徴 | おすすめ業種 |
 |---------|---------|---------|------|------------|
@@ -321,7 +321,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 | **Airシフト** | 無料〜 | 〜50人 | 無料プランあり | 小規模店舗 |
 | **oplus** | 500円/人〜 | 制限なし | 需要予測機能 | 飲食特化 |
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 選定のポイント
+#### 選定のポイント
 
 **チェックリスト：**
 - [ ] 従業員数に対応しているか
@@ -338,11 +338,11 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ4：パイロット導入で検証する（所要時間：2週間）</span>
+### <span class="text-teal">ステップ4：パイロット導入で検証する（所要時間：2週間）</span>
 
 いきなり全店舗・全部署に導入せず、**まずは1店舗・1部署で試す**のが成功の秘訣です。
 
-#### <img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> パイロット導入の進め方
+#### パイロット導入の進め方
 
 **1週目：**
 - システム設定（従業員情報、勤務パターン、ルール設定）
@@ -361,11 +361,11 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ5：従業員への丁寧な説明とトレーニング（所要時間：1週間）</span>
+### <span class="text-teal">ステップ5：従業員への丁寧な説明とトレーニング（所要時間：1週間）</span>
 
 新しいシステムへの抵抗感を減らすために、**丁寧な説明とサポート**が不可欠です。
 
-#### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 効果的な説明会の進め方
+#### 効果的な説明会の進め方
 
 **説明すべき内容：**
 1. **なぜ導入するのか：** 「みんなの希望をもっと叶えるため」「公平なシフトのため」
@@ -379,7 +379,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ6：段階的に全体展開する（所要時間：1ヶ月）</span>
+### <span class="text-teal">ステップ6：段階的に全体展開する（所要時間：1ヶ月）</span>
 
 パイロット導入で問題がなければ、**段階的に全体展開**します。
 
@@ -396,11 +396,11 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ7：効果測定と継続的改善（所要時間：継続）</span>
+### <span class="text-teal">ステップ7：効果測定と継続的改善（所要時間：継続）</span>
 
 導入して終わりではなく、**継続的に効果を測定し、改善**していきます。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 測定すべきKPI
+#### 測定すべきKPI
 
 | KPI | 目標 | 測定頻度 |
 |-----|------|---------|
@@ -423,7 +423,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 業種によって、シフト管理の課題は異なります。それぞれの特性に合わせた自動化のポイントをご紹介します。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 飲食業：時間帯別の需要変動に対応</span>
+### <span class="text-teal">飲食業：時間帯別の需要変動に対応</span>
 
 **特有の課題：**
 - ランチタイム・ディナータイムの繁閑差が大きい
@@ -435,7 +435,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 - **時間帯別の必要人員を自動算出**
 - **スキルマッチング機能**（キッチン経験者を自動配置）
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 導入事例：イタリアンレストランB社
+#### 導入事例：イタリアンレストランB社
 
 **課題：** 週末の人員不足と平日の過剰配置
 
@@ -448,7 +448,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 小売業：複数店舗間のヘルプ体制</span>
+### <span class="text-teal">小売業：複数店舗間のヘルプ体制</span>
 
 **特有の課題：**
 - 複数店舗を運営している
@@ -460,7 +460,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 - **店舗間ヘルプの自動マッチング**
 - **交通費の自動計算**
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 導入事例：アパレルチェーンC社
+#### 導入事例：アパレルチェーンC社
 
 **課題：** 10店舗のシフト管理が煩雑、ヘルプ調整に時間がかかる
 
@@ -473,7 +473,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 介護・医療：資格要件と夜勤管理</span>
+### <span class="text-teal">介護・医療：資格要件と夜勤管理</span>
 
 **特有の課題：**
 - 資格要件が厳格（看護師、介護福祉士など）
@@ -485,7 +485,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 - **夜勤回数の上限管理**
 - **利用者の介護度に応じた必要人員の自動算出**
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 導入事例：介護施設D社
+#### 導入事例：介護施設D社
 
 **課題：** 夜勤シフトの調整が困難、資格要件の確認漏れ
 
@@ -502,7 +502,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 シフト管理自動化の導入で、よくある失敗パターンとその対策をご紹介します。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 失敗パターン1：「従業員が使ってくれない」</span>
+### <span class="text-teal">失敗パターン1：「従業員が使ってくれない」</span>
 
 **原因：**
 - 使い方がわからない
@@ -515,7 +515,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 - **メリットを具体的に伝える**（「希望が通りやすくなる」「いつでも確認できる」）
 - **導入初期はサポート体制を手厚く**
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 成功事例
+#### 成功事例
 
 ある飲食店では、60代のパート従業員が「スマホは苦手」と抵抗。
 
@@ -528,7 +528,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 失敗パターン2：「システムが複雑すぎて使いこなせない」</span>
+### <span class="text-teal">失敗パターン2：「システムが複雑すぎて使いこなせない」</span>
 
 **原因：**
 - 機能が多すぎて何から使えばいいかわからない
@@ -542,7 +542,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 失敗パターン3：「AIが作ったシフトが現場に合わない」</span>
+### <span class="text-teal">失敗パターン3：「AIが作ったシフトが現場に合わない」</span>
 
 **原因：**
 - 初期設定が不十分
@@ -556,7 +556,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 失敗パターン4：「コストが想定より高くなった」</span>
+### <span class="text-teal">失敗パターン4：「コストが想定より高くなった」</span>
 
 **原因：**
 - 従業員数が増えて月額料金が上がった
@@ -574,14 +574,14 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 最後に、シフト管理自動化で大きな成果を上げた企業の事例をご紹介します。
 
-### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> E社の背景
+### E社の背景
 
 **業種：** 飲食チェーン（居酒屋）
 **店舗数：** 8店舗
 **従業員数：** 正社員25名、アルバイト・パート120名
 **課題：** シフト管理に膨大な時間、人件費の高騰、アルバイトの離職率が高い
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 導入前の状況</span>
+### <span class="text-teal">導入前の状況</span>
 
 **シフト管理の実態：**
 - 各店長がエクセルで作成：月80時間（全店舗合計）
@@ -597,7 +597,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 導入したツールと進め方</span>
+### <span class="text-teal">導入したツールと進め方</span>
 
 **選定ツール：** シフオプ（月額300円/人）
 
@@ -608,9 +608,9 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 導入後の劇的な変化</span>
+### <span class="text-teal">導入後の劇的な変化</span>
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 数値的成果
+#### 数値的成果
 
 | 項目 | 導入前 | 導入後 | 改善率 |
 |------|--------|--------|--------|
@@ -632,7 +632,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 成功の要因
+### 成功の要因
 
 **1. 経営層のコミットメント**
 - 社長自らが導入の意義を全従業員に説明
@@ -652,7 +652,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 現場の声</span>
+### <span class="text-teal">現場の声</span>
 
 **店長Fさん（35歳）：**
 「以前は、シフト作成だけで週末が潰れていました。今は、システムが自動で作ってくれるので、ほとんど確認だけ。空いた時間で、スタッフ育成や新メニュー開発に集中できています」
@@ -667,7 +667,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ## <span class="text-underline">まとめ｜今日から始める3つのアクション</span>
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 重要なポイントのおさらい</span>
+### <span class="text-teal">重要なポイントのおさらい</span>
 
 **1. シフト管理の自動化は、もはや「必須」**
 - 人手不足の中、限られた人員で最大の成果を出す
@@ -687,7 +687,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 今日から始められる3つのアクション
+### 今日から始められる3つのアクション
 
 **アクション1：現状を可視化する（今日、30分）**
 
@@ -723,7 +723,7 @@ keywords: ["シフト管理 自動化", "シフト管理", "自動化", "人件�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 最後に</span>
+### <span class="text-teal">最後に</span>
 
 シフト管理の自動化は、決して難しいものではありません。
 

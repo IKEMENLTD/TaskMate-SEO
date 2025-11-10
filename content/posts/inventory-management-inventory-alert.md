@@ -37,7 +37,7 @@ keywords: ["在庫切れ アラート", "在庫アラート", "欠品防止", "�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 中小企業の**68%**が「在庫管理の課題」を抱えている</span>
+### <span class="text-teal">中小企業の**68%**が「在庫管理の課題」を抱えている</span>
 
 中小企業庁の2024年調査によると、**小売・卸売業の約68%が「在庫管理に課題がある」**と回答しています。
 
@@ -45,7 +45,7 @@ keywords: ["在庫切れ アラート", "在庫アラート", "欠品防止", "�
 
 ---
 
-### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 在庫アラートが変える在庫管理の未来
+### 在庫アラートが変える在庫管理の未来
 
 でも、考えてみてください。もし、在庫が減ったタイミングで**自動的にアラートが届く**としたら?
 
@@ -59,13 +59,13 @@ keywords: ["在庫切れ アラート", "在庫アラート", "欠品防止", "�
 
 ## <span class="text-underline">なぜ今、在庫アラートシステムの導入が急務なのか</span>
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由1：人的ミスによる機会損失</span>
+### <span class="text-teal">理由1：人的ミスによる機会損失</span>
 
 従来の在庫管理では、担当者が目視で在庫を確認し、発注のタイミングを判断していました。
 
 しかし、この方法には大きな問題があります。**人間の記憶と判断に頼っているため、見落としやミスが発生しやすい**んです。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 手動管理のリスク
+#### 手動管理のリスク
 
 日本ロジスティクスシステム協会の調査では、**手動での在庫管理を行っている企業の約73%が「年に複数回、欠品を経験している」**と回答しています。
 
@@ -73,11 +73,11 @@ keywords: ["在庫切れ アラート", "在庫アラート", "欠品防止", "�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由2：需要変動への対応遅れ</span>
+### <span class="text-teal">理由2：需要変動への対応遅れ</span>
 
 現代の消費者ニーズは、かつてないほど変動が激しくなっています。SNSでの拡散、季節変動、トレンドの変化...。
 
-#### <img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> スピードが求められる時代
+#### スピードが求められる時代
 
 「昨日まで普通に売れていた商品が、今日突然品薄に」こんなことが日常的に起きています。
 
@@ -87,11 +87,11 @@ keywords: ["在庫切れ アラート", "在庫アラート", "欠品防止", "�
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 理由3：過剰在庫による資金繰り悪化</span>
+### 理由3：過剰在庫による資金繰り悪化</span>
 
 欠品を恐れるあまり、今度は在庫を抱えすぎてしまう。これも大きな問題です。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 在庫コストの実態
+#### 在庫コストの実態
 
 在庫には、様々なコストがかかります：
 
@@ -144,11 +144,11 @@ keywords: ["在庫切れ アラート", "在庫アラート", "欠品防止", "�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由4：競合他社との差が開く一方</span>
+### <span class="text-teal">理由4：競合他社との差が開く一方</span>
 
 すでに在庫アラートシステムを導入している企業と、していない企業の差は、年々開いています。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> デジタル化の格差データ
+#### デジタル化の格差データ
 
 流通経済研究所の調査では、**在庫管理システムを活用している企業は、未導入企業に比べて在庫回転率が平均1.8倍高い**という結果が出ています。
 
@@ -156,7 +156,7 @@ keywords: ["在庫切れ アラート", "在庫アラート", "欠品防止", "�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由5：「様子見」している間に失うもの</span>
+### <span class="text-teal">理由5：「様子見」している間に失うもの</span>
 
 「もう少し様子を見てから...」そう思っている間にも、機会損失は積み重なっています。
 
@@ -174,7 +174,7 @@ keywords: ["在庫切れ アラート", "在庫アラート", "欠品防止", "�
 
 ## <span class="text-underline">在庫アラートシステムがもたらす5つの革命的メリット</span>
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット1：24時間365日、在庫を監視</span>
+### <span class="text-teal">メリット1：24時間365日、在庫を監視</span>
 
 在庫アラートシステムの最大のメリットは、**人間が休んでいる間も、システムが在庫を監視し続けてくれる**こと。
 
@@ -190,11 +190,11 @@ keywords: ["在庫切れ アラート", "在庫アラート", "欠品防止", "�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット2：商品ごとに最適な在庫レベルを設定</span>
+### <span class="text-teal">メリット2：商品ごとに最適な在庫レベルを設定</span>
 
 すべての商品を同じ基準で管理するのは非効率です。在庫アラートシステムなら、**商品ごとに最適な在庫レベルを設定**できます。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> ABC分析との組み合わせ
+#### ABC分析との組み合わせ
 
 **A商品（売上上位20%）：** アラート在庫レベル：高め（欠品厳禁）
 
@@ -206,11 +206,11 @@ keywords: ["在庫切れ アラート", "在庫アラート", "欠品防止", "�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット3：発注タイミングの自動最適化</span>
+### <span class="text-teal">メリット3：発注タイミングの自動最適化</span>
 
 在庫アラートシステムは、単に「在庫が減った」と通知するだけではありません。**発注リードタイムを考慮した最適なタイミング**でアラートを出せます。
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 計算式の例
+#### 計算式の例
 
 **アラート在庫レベル = 1日の平均販売数 × 発注リードタイム + 安全在庫**
 
@@ -224,7 +224,7 @@ keywords: ["在庫切れ アラート", "在庫アラート", "欠品防止", "�
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> メリット4：複数チャネルへの同時通知</span>
+### メリット4：複数チャネルへの同時通知</span>
 
 現代の在庫アラートシステムは、**様々な方法で通知**できます。
 
@@ -240,11 +240,11 @@ keywords: ["在庫切れ アラート", "在庫アラート", "欠品防止", "�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット5：データ分析による継続的改善</span>
+### <span class="text-teal">メリット5：データ分析による継続的改善</span>
 
 在庫アラートシステムは、**在庫の動きをすべて記録**しています。このデータを分析することで、継続的な改善が可能になります。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 分析できるデータ
+#### 分析できるデータ
 
 **販売トレンド分析：** どの商品が、いつ、どれくらい売れているか
 
@@ -260,11 +260,11 @@ keywords: ["在庫切れ アラート", "在庫アラート", "欠品防止", "�
 
 ## <span class="text-underline">在庫アラートシステム導入の5ステップ</span>
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ1：現状の在庫管理を可視化する</span>
+### <span class="text-teal">ステップ1：現状の在庫管理を可視化する</span>
 
 まず、**現在の在庫管理の状況を明確に把握**することから始めます。
 
-#### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 確認すべき項目
+#### 確認すべき項目
 
 **商品数：** 管理している商品は何品目？
 
@@ -282,11 +282,11 @@ keywords: ["在庫切れ アラート", "在庫アラート", "欠品防止", "�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ2：商品を分類する（ABC分析）</span>
+### <span class="text-teal">ステップ2：商品を分類する（ABC分析）</span>
 
 すべての商品を同じように管理するのは非効率です。**重要度に応じて分類**しましょう。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> ABC分析の方法
+#### ABC分析の方法
 
 **A商品（重点管理）：** 売上上位20%の商品。欠品厳禁。
 
@@ -296,7 +296,7 @@ keywords: ["在庫切れ アラート", "在庫アラート", "欠品防止", "�
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：雑貨店の分類
+### 実例：雑貨店の分類
 
 ある雑貨店（300品目）でABC分析を実施：
 
@@ -310,11 +310,11 @@ keywords: ["在庫切れ アラート", "在庫アラート", "欠品防止", "�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ3：アラート在庫レベルを設定する</span>
+### <span class="text-teal">ステップ3：アラート在庫レベルを設定する</span>
 
 次に、**各商品のアラート在庫レベル**を決めます。
 
-#### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 設定の基本式
+#### 設定の基本式
 
 **アラート在庫レベル = 安全在庫 + （1日の平均販売数 × 発注リードタイム）**
 
@@ -325,7 +325,7 @@ keywords: ["在庫切れ アラート", "在庫アラート", "欠品防止", "�
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 設定例
+### 設定例
 
 **商品：人気Tシャツ（A商品）**
 - 1日の平均販売数：15枚
@@ -337,11 +337,11 @@ keywords: ["在庫切れ アラート", "在庫アラート", "欠品防止", "�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ4：システムを選定・導入する</span>
+### <span class="text-teal">ステップ4：システムを選定・導入する</span>
 
 アラート在庫レベルが決まったら、**実際にシステムを選定・導入**します。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> システム選定のポイント
+#### システム選定のポイント
 
 **1. 既存システムとの連携**
 - POSシステムと連携できるか？
@@ -361,7 +361,7 @@ keywords: ["在庫切れ アラート", "在庫アラート", "欠品防止", "�
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 選択肢1：専用の在庫管理システム
+### 選択肢1：専用の在庫管理システム
 
 **メリット：** 機能が充実、サポートが手厚い
 
@@ -371,7 +371,7 @@ keywords: ["在庫切れ アラート", "在庫アラート", "欠品防止", "�
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 選択肢2：スプレッドシート + GAS（Google Apps Script）
+### 選択肢2：スプレッドシート + GAS（Google Apps Script）
 
 **メリット：** 完全無料、カスタマイズ自由
 
@@ -381,7 +381,7 @@ keywords: ["在庫切れ アラート", "在庫アラート", "欠品防止", "�
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 選択肢3：TaskMate + スプレッドシート
+### 選択肢3：TaskMate + スプレッドシート
 
 **メリット：** AIがコード生成、設定が簡単、低コスト
 
@@ -391,11 +391,11 @@ keywords: ["在庫切れ アラート", "在庫アラート", "欠品防止", "�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ5：運用しながら改善する</span>
+### <span class="text-teal">ステップ5：運用しながら改善する</span>
 
 システムを導入したら、**実際に運用しながら継続的に改善**していきます。
 
-#### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 最初の1ヶ月
+#### 最初の1ヶ月
 
 **Week 1：** 少数の商品（A商品5〜10品目）でテスト運用
 
@@ -405,7 +405,7 @@ keywords: ["在庫切れ アラート", "在庫アラート", "欠品防止", "�
 
 **Week 4：** 全商品に展開、効果測定
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 測定すべき指標
+#### 測定すべき指標
 
 **欠品率：** 導入前後で欠品がどれくらい減ったか
 
@@ -423,7 +423,7 @@ keywords: ["在庫切れ アラート", "在庫アラート", "欠品防止", "�
 
 そんな方のために、**スプレッドシートとGASを使った無料の在庫アラートシステム**の作り方をご紹介します。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 必要なもの</span>
+### <span class="text-teal">必要なもの</span>
 
 - Googleアカウント（無料）
 - Googleスプレッドシート（無料）
@@ -432,7 +432,7 @@ keywords: ["在庫切れ アラート", "在庫アラート", "欠品防止", "�
 
 ---
 
-### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 基本的な仕組み
+### 基本的な仕組み
 
 **1. スプレッドシートに在庫データを記録**
 
@@ -452,7 +452,7 @@ keywords: ["在庫切れ アラート", "在庫アラート", "欠品防止", "�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> TaskMateを使った実装手順</span>
+### <span class="text-teal">TaskMateを使った実装手順</span>
 
 #### ステップ1：TaskMateに相談
 
@@ -483,7 +483,7 @@ TaskMateが生成したコードを、スプレッドシートの「拡張機能
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：雑貨店オーナーの佐藤さん
+### 実例：雑貨店オーナーの佐藤さん
 
 雑貨店を経営する佐藤さん（仮名）は、100品目の在庫管理に悩んでいました。
 
@@ -503,13 +503,13 @@ TaskMateが生成したコードを、スプレッドシートの「拡張機能
 
 在庫アラートシステムを導入しても、うまくいかないケースがあります。よくある失敗パターンと、その対策を見ていきましょう。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 失敗パターン1：アラートレベルが適切でない</span>
+### <span class="text-teal">失敗パターン1：アラートレベルが適切でない</span>
 
 **症状：** アラートが頻繁に来すぎる、または欠品してから気づく
 
 **原因：** アラートレベルの設定が、実態に合っていない
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 対策
+#### 対策
 
 **1. 過去のデータを分析**
 - 最低でも3ヶ月分の販売データを確認
@@ -525,13 +525,13 @@ TaskMateが生成したコードを、スプレッドシートの「拡張機能
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 失敗パターン2：通知を見落とす</span>
+### <span class="text-teal">失敗パターン2：通知を見落とす</span>
 
 **症状：** アラートが来ているのに、気づかない
 
 **原因：** 通知方法が適切でない、通知が多すぎて埋もれる
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 対策
+#### 対策
 
 **1. 複数の通知方法を併用**
 - メール + SMS
@@ -548,13 +548,13 @@ TaskMateが生成したコードを、スプレッドシートの「拡張機能
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 失敗パターン3：在庫データの更新が遅れる</span>
+### <span class="text-teal">失敗パターン3：在庫データの更新が遅れる</span>
 
 **症状：** 実際の在庫とシステム上の在庫が合わない
 
 **原因：** 販売や入荷のたびに、リアルタイムで更新していない
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 対策
+#### 対策
 
 **1. POSシステムと連携**
 - 販売と同時に、自動で在庫を減らす
@@ -569,13 +569,13 @@ TaskMateが生成したコードを、スプレッドシートの「拡張機能
 
 ---
 
-### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 失敗パターン4：発注リードタイムを考慮していない</span>
+### 失敗パターン4：発注リードタイムを考慮していない</span>
 
 **症状：** アラートが来てから発注しても、間に合わない
 
 **原因：** 発注から入荷までの日数を、アラートレベルに反映していない
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 対策
+#### 対策
 
 **1. 商品ごとのリードタイムを正確に把握**
 - 国内仕入れ：3〜5日
@@ -616,7 +616,7 @@ B社が選んだのは、**スプレッドシート + GAS + TaskMate**の組み�
 
 ### 導入の実践（3ヶ月の取り組み）
 
-#### <img src="/icons/calendar.svg" alt="カレンダー" class="inline-icon" width="20" height="20" /> 1ヶ月目：基盤構築
+#### 1ヶ月目：基盤構築
 
 **Week 1：** 過去1年分の販売データを分析、ABC分析を実施
 
@@ -630,7 +630,7 @@ B社が選んだのは、**スプレッドシート + GAS + TaskMate**の組み�
 
 ---
 
-#### <img src="/icons/calendar.svg" alt="カレンダー" class="inline-icon" width="20" height="20" /> 2ヶ月目：全商品展開
+#### 2ヶ月目：全商品展開
 
 **Week 5-6：** 全500品目にアラートシステムを展開
 
@@ -642,7 +642,7 @@ B社が選んだのは、**スプレッドシート + GAS + TaskMate**の組み�
 
 ---
 
-#### <img src="/icons/calendar.svg" alt="カレンダー" class="inline-icon" width="20" height="20" /> 3ヶ月目：最適化と改善
+#### 3ヶ月目：最適化と改善
 
 **Week 9-10：** データ分析により、アラートレベルを微調整
 
@@ -656,7 +656,7 @@ B社が選んだのは、**スプレッドシート + GAS + TaskMate**の組み�
 
 ### 導入後の効果（3ヶ月後）
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 数値的成果
+#### 数値的成果
 
 **欠品率：** 月15回 → **月2回**（85%削減）
 
@@ -670,7 +670,7 @@ B社が選んだのは、**スプレッドシート + GAS + TaskMate**の組み�
 
 ---
 
-#### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 定性的成果
+#### 定性的成果
 
 **担当者の声：**
 
@@ -698,7 +698,7 @@ B社が選んだのは、**スプレッドシート + GAS + TaskMate**の組み�
 
 ## <span class="text-underline">まとめ｜今日から始める在庫アラート導入3つのアクション</span>
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 重要なポイントのおさらい</span>
+### <span class="text-teal">重要なポイントのおさらい</span>
 
 **1. 在庫アラートは、もはや「必須」のシステム**
 - 欠品による機会損失を防ぐ
@@ -719,7 +719,7 @@ B社が選んだのは、**スプレッドシート + GAS + TaskMate**の組み�
 
 ### 今日から始められる3つのアクション
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> アクション1：過去3ヶ月の欠品・過剰在庫を洗い出す
+#### アクション1：過去3ヶ月の欠品・過剰在庫を洗い出す
 
 今日、仕事が終わったら、30分だけ時間を取ってください。
 
@@ -733,7 +733,7 @@ B社が選んだのは、**スプレッドシート + GAS + TaskMate**の組み�
 
 ---
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> アクション2：主力商品5品目のアラートレベルを計算する
+#### アクション2：主力商品5品目のアラートレベルを計算する
 
 まずは、**売上上位5品目だけ**、アラートレベルを計算してみましょう。
 
@@ -744,7 +744,7 @@ B社が選んだのは、**スプレッドシート + GAS + TaskMate**の組み�
 
 ---
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> アクション3：TaskMateに相談する
+#### アクション3：TaskMateに相談する
 
 計算したアラートレベルを元に、TaskMateに相談してみてください。
 
@@ -754,7 +754,7 @@ B社が選んだのは、**スプレッドシート + GAS + TaskMate**の組み�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 最後に</span>
+### <span class="text-teal">最後に</span>
 
 在庫管理は、ビジネスの生命線です。
 

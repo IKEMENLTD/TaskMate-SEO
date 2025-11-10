@@ -37,7 +37,7 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> タイムカード集計の「見えないコスト」</span>
+### <span class="text-teal">タイムカード集計の「見えないコスト」</span>
 
 タイムカード集計にかかる時間は、単なる「作業時間」だけではありません。
 
@@ -52,7 +52,7 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ---
 
-### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 自動化で「10分」に短縮できる時代
+### 自動化で「10分」に短縮できる時代
 
 でも、考えてみてください。この作業、本当に毎月何十時間もかける必要があるでしょうか？
 
@@ -66,13 +66,13 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ## <span class="text-underline">なぜ今、タイムカード集計の自動化が急務なのか</span>
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由1：労働基準法の厳格化</span>
+### <span class="text-teal">理由1：労働基準法の厳格化</span>
 
 2024年4月から、労働時間の把握義務がさらに厳格化されました。
 
 厚生労働省のガイドラインでは、**「客観的な方法による労働時間の把握」が義務付けられ**、タイムカードやICカード、PCのログなど、客観的な記録が必須となっています。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 法令違反のリスク
+#### 法令違反のリスク
 
 手作業での集計は、**記録の正確性や保管の観点でリスク**があります。実際、労働基準監督署の立ち入り調査で、勤怠記録の不備を指摘される企業が増加しています。
 
@@ -80,11 +80,11 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由2：人的ミスによる損失</span>
+### <span class="text-teal">理由2：人的ミスによる損失</span>
 
 手作業での集計には、どうしても「人的ミス」がつきものです。
 
-#### <img src="/icons/clock.svg" alt="時計" class="inline-icon" width="20" height="20" /> よくあるミスのパターン
+#### よくあるミスのパターン
 
 **ミス1：転記ミス** - タイムカードからExcelへの転記時に数字を間違える（発生率：約2.3%）
 
@@ -98,11 +98,11 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 理由3：担当者の負担とリスク</span>
+### <span class="text-teal">理由3：担当者の負担とリスク</span>
 
 「勤怠集計は〇〇さんしかできない」という状況、ありませんか？
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 属人化のリスク
+#### 属人化のリスク
 
 中小企業庁の調査では、**勤怠管理業務の約73%が「特定の担当者に依存している」**という結果が出ています。
 
@@ -166,11 +166,11 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ---
 
-### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 理由4：テレワーク時代の勤怠管理
+### 理由4：テレワーク時代の勤怠管理
 
 コロナ禍を経て、テレワークやハイブリッドワークが定着しました。
 
-#### <img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 紙のタイムカードの限界
+#### 紙のタイムカードの限界
 
 総務省の2024年調査では、**企業の約58%が何らかの形でテレワークを導入**しています。
 
@@ -186,11 +186,11 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ## <span class="text-underline">タイムカード集計自動化がもたらす5つの革命的メリット</span>
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット1：作業時間が95%削減</span>
+### <span class="text-teal">メリット1：作業時間が95%削減</span>
 
 最も大きなメリットは、**圧倒的な時間削減**です。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 削減時間の内訳
+#### 削減時間の内訳
 
 **従業員30名の企業の場合：**
 
@@ -207,11 +207,11 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット2：計算ミスがゼロに</span>
+### <span class="text-teal">メリット2：計算ミスがゼロに</span>
 
 自動化の最大の利点は、**人的ミスが完全になくなる**こと。
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 実例：製造業B社のケース
+#### 実例：製造業B社のケース
 
 従業員45名の製造業B社では、手作業での集計時に平均して**月3〜5件のミス**が発生していました。
 
@@ -228,11 +228,11 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット3：リアルタイムで勤怠状況を把握</span>
+### <span class="text-teal">メリット3：リアルタイムで勤怠状況を把握</span>
 
 従来の紙のタイムカードでは、**月末にならないと全体像が見えない**という問題がありました。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> リアルタイム管理の効果
+#### リアルタイム管理の効果
 
 自動化システムでは、**いつでもリアルタイムで勤怠状況を確認**できます。
 
@@ -246,11 +246,11 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット4：給与計算ソフトとの連携</span>
+### <span class="text-teal">メリット4：給与計算ソフトとの連携</span>
 
 多くの自動化ツールは、**給与計算ソフトとの連携が可能**です。
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 連携のメリット
+#### 連携のメリット
 
 **連携前：** 勤怠データを集計→手作業で給与計算ソフトに入力→確認→修正（所要時間：5〜8時間）
 
@@ -264,11 +264,11 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> メリット5：法令遵守の証拠が残る</span>
+### <span class="text-teal">メリット5：法令遵守の証拠が残る</span>
 
 自動化システムでは、**すべての記録が電子データとして保存**されます。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> コンプライアンス対応
+#### コンプライアンス対応
 
 労働基準法では、**労働時間の記録を3年間保存する義務**があります（2022年4月から5年間に延長予定）。
 
@@ -286,11 +286,11 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 それでは、具体的にどうやって自動化を進めればいいのか、5つのステップで解説します。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ1：現状の勤怠管理方法を整理する</span>
+### <span class="text-teal">ステップ1：現状の勤怠管理方法を整理する</span>
 
 まず、**現在の勤怠管理の流れを明確にする**ことから始めましょう。
 
-#### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 整理すべき項目
+#### 整理すべき項目
 
 **1. 打刻方法**
 - 紙のタイムカード？
@@ -321,11 +321,11 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ2：自社に合った自動化方法を選ぶ</span>
+### <span class="text-teal">ステップ2：自社に合った自動化方法を選ぶ</span>
 
 勤怠管理の自動化には、大きく分けて**3つの方法**があります。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 方法1：クラウド勤怠管理システム
+#### 方法1：クラウド勤怠管理システム
 
 **代表的なサービス：**
 - ジョブカン勤怠管理（月額200円/人〜）
@@ -347,7 +347,7 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ---
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 方法2：Googleスプレッドシート + GAS
+#### 方法2：Googleスプレッドシート + GAS
 
 **特徴：** 完全無料で自動化が可能
 
@@ -365,7 +365,7 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ---
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 方法3：既存システムの活用
+#### 方法3：既存システムの活用
 
 **特徴：** すでに導入している業務システムの勤怠機能を活用
 
@@ -385,7 +385,7 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ---
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> どの方法を選ぶべき？
+#### どの方法を選ぶべき？
 
 | 従業員数 | 予算 | おすすめ方法 |
 |---------|------|------------|
@@ -396,11 +396,11 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ3：打刻方法を決める</span>
+### <span class="text-teal">ステップ3：打刻方法を決める</span>
 
 次に、**従業員がどうやって打刻するか**を決めます。
 
-#### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 打刻方法の選択肢
+#### 打刻方法の選択肢
 
 **1. スマホアプリ**
 - メリット：どこからでも打刻可能、GPS機能で位置情報も記録
@@ -429,11 +429,11 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ4：自動集計の仕組みを構築する</span>
+### <span class="text-teal">ステップ4：自動集計の仕組みを構築する</span>
 
 打刻方法が決まったら、**自動集計の仕組み**を構築します。
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> パターン1：クラウドシステムの場合
+#### パターン1：クラウドシステムの場合
 
 クラウド勤怠管理システムを選んだ場合は、**システムが自動で集計**してくれます。
 
@@ -449,7 +449,7 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ---
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> パターン2：Googleスプレッドシート + GASの場合
+#### パターン2：Googleスプレッドシート + GASの場合
 
 **構築の流れ：**
 
@@ -473,11 +473,11 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> ステップ5：テスト運用と本格導入</span>
+### <span class="text-teal">ステップ5：テスト運用と本格導入</span>
 
 いきなり全社で導入するのではなく、**小規模なテスト運用から始める**のが成功の秘訣です。
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> テスト運用の進め方
+#### テスト運用の進め方
 
 **フェーズ1：少人数でテスト（1週間）**
 - まずは3〜5名でテスト運用
@@ -497,7 +497,7 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 **フェーズ4：旧システムの廃止**
 - 問題がなければ、旧システムを完全に廃止
 
-#### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 導入時の注意点
+#### 導入時の注意点
 
 **1. 従業員への説明を丁寧に**
 - 「なぜ変更するのか」を明確に伝える
@@ -518,7 +518,7 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ここでは、**完全無料で実現できるGoogleスプレッドシート + GASを使った自動化**の具体的な方法をご紹介します。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 全体の構成</span>
+### <span class="text-teal">全体の構成</span>
 
 **必要なもの：**
 1. Googleフォーム（打刻用）
@@ -529,9 +529,9 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 1. 打刻用Googleフォームの作成</span>
+### <span class="text-teal">1. 打刻用Googleフォームの作成</span>
 
-#### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> フォームの項目設定
+#### フォームの項目設定
 
 **質問1：氏名**
 - 形式：プルダウン
@@ -553,9 +553,9 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 2. スプレッドシートの構成</span>
+### <span class="text-teal">2. スプレッドシートの構成</span>
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> シート構成
+#### シート構成
 
 **シート1：フォーム回答**
 - Googleフォームからの回答が自動で記録される
@@ -575,9 +575,9 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 3. GASで自動化するポイント</span>
+### <span class="text-teal">3. GASで自動化するポイント</span>
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 自動化する処理
+#### 自動化する処理
 
 **処理1：日次の勤務時間計算**
 - 出勤時刻と退勤時刻から勤務時間を自動計算
@@ -601,13 +601,13 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> TaskMateでコード生成</span>
+### <span class="text-teal">TaskMateでコード生成</span>
 
 「GASのコードなんて書けない」と思っている方、安心してください。
 
 **TaskMateに相談すれば、必要なコードを自動生成**してくれます。
 
-#### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> TaskMateへの相談例
+#### TaskMateへの相談例
 
 「Googleフォームで出勤・退勤を記録して、スプレッドシートで自動集計したいです。以下の条件で計算してください。
 
@@ -627,18 +627,18 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 実際に導入した企業の中には、残念ながら失敗してしまったケースもあります。その失敗パターンと対策をご紹介します。
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 失敗パターン1：従業員が使ってくれない</span>
+### <span class="text-teal">失敗パターン1：従業員が使ってくれない</span>
 
 **よくあるケース：** 新しいシステムを導入したのに、従業員が「面倒くさい」と言って使ってくれない。結局、紙のタイムカードに戻ってしまった。
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 失敗の原因
+#### 失敗の原因
 
 - 操作が複雑すぎる
 - 従業員への説明が不足
 - 「なぜ変更するのか」が伝わっていない
 - スマホを持っていない従業員がいる
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 対策
+#### 対策
 
 **1. とにかくシンプルに**
 - 最初は「出勤」「退勤」の2つだけ
@@ -658,18 +658,18 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 失敗パターン2：初期設定で挫折</span>
+### <span class="text-teal">失敗パターン2：初期設定で挫折</span>
 
 **よくあるケース：** クラウドシステムを契約したものの、設定が複雑すぎて途中で挫折。結局、使わないまま月額料金だけ払い続けている。
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 失敗の原因
+#### 失敗の原因
 
 - 一人で設定しようとした
 - マニュアルを読まずに進めた
 - 自社の運用に合わない設定をした
 - サポートを活用しなかった
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 対策
+#### 対策
 
 **1. サポートを最大限活用**
 - 初期設定サポートを依頼
@@ -686,17 +686,17 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 失敗パターン3：自社の運用に合わない</span>
+### <span class="text-teal">失敗パターン3：自社の運用に合わない</span>
 
 **よくあるケース：** システムは導入できたが、自社の複雑な勤務体系に対応できず、結局手作業での修正が必要になった。
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 失敗の原因
+#### 失敗の原因
 
 - 自社の運用を整理せずに導入
 - システムの機能を確認せずに契約
 - カスタマイズが必要なのに対応していない
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 対策
+#### 対策
 
 **1. 事前に運用を整理**
 - ステップ1で紹介した「現状整理」を徹底
@@ -713,17 +713,17 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 失敗パターン4：コストが想定以上にかかる</span>
+### <span class="text-teal">失敗パターン4：コストが想定以上にかかる</span>
 
 **よくあるケース：** 月額300円/人と思って契約したら、必要な機能はオプションで、結局月額800円/人になってしまった。
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 失敗の原因
+#### 失敗の原因
 
 - 基本プランの機能を確認していない
 - オプション料金を見落とした
 - 初期費用を考慮していない
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 対策
+#### 対策
 
 **1. 総コストを事前に計算**
 - 初期費用
@@ -743,13 +743,13 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ## <span class="text-underline">成功事例：3ヶ月で月20時間削減したC社の実践</span>
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> C社の背景</span>
+### <span class="text-teal">C社の背景</span>
 
 **業種：** 飲食業（レストラン3店舗）
 **従業員数：** 正社員15名、アルバイト25名、計40名
 **課題：** シフト制で勤務時間がバラバラ、手作業での集計に毎月20時間以上かかっていた
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 導入前の状況
+#### 導入前の状況
 
 **勤怠管理の流れ：**
 1. 各店舗で紙のタイムカードを使用
@@ -769,7 +769,7 @@ keywords: ["タイムカード 集計 自動", "タイムカード", "集計", "
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 導入したシステム</span>
+### <span class="text-teal">導入したシステム</span>
 
 C社が選んだのは、**Googleスプレッドシート + GAS + TaskMate**の組み合わせ。
 
@@ -781,9 +781,9 @@ C社が選んだのは、**Googleスプレッドシート + GAS + TaskMate**の�
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 導入の実践プロセス</span>
+### <span class="text-teal">導入の実践プロセス</span>
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 1ヶ月目：システム構築とテスト
+#### 1ヶ月目：システム構築とテスト
 
 **Week 1：** TaskMateに相談して、システム設計
 
@@ -805,7 +805,7 @@ TaskMateが、必要なGoogleフォーム、スプレッドシート、GASコー
 
 ---
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 2ヶ月目：1店舗でテスト導入
+#### 2ヶ月目：1店舗でテスト導入
 
 **Week 5-6：** 1号店で本格テスト
 
@@ -821,7 +821,7 @@ TaskMateが、必要なGoogleフォーム、スプレッドシート、GASコー
 
 ---
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> 3ヶ月目：全店舗展開
+#### 3ヶ月目：全店舗展開
 
 **Week 9-10：** 2号店、3号店に展開
 
@@ -836,9 +836,9 @@ TaskMateが、必要なGoogleフォーム、スプレッドシート、GASコー
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 導入後の効果</span>
+### <span class="text-teal">導入後の効果</span>
 
-#### <img src="/icons/chart.svg" alt="グラフ" class="inline-icon" width="20" height="20" /> 数値的成果
+#### 数値的成果
 
 **作業時間の削減：**
 - 導入前：月20〜25時間
@@ -863,7 +863,7 @@ TaskMateが、必要なGoogleフォーム、スプレッドシート、GASコー
 
 ---
 
-#### <img src="/icons/note.svg" alt="ノート" class="inline-icon" width="20" height="20" /> 担当者の声
+#### 担当者の声
 
 **総務担当 山田さん（仮名）：**
 
@@ -881,7 +881,7 @@ TaskMateが、必要なGoogleフォーム、スプレッドシート、GASコー
 
 ## <span class="text-underline">まとめ｜今日から始める3つのアクション</span>
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 重要なポイントのおさらい</span>
+### <span class="text-teal">重要なポイントのおさらい</span>
 
 **1. タイムカード集計の自動化は、もはや「必須」**
 - 法令遵守の観点
@@ -901,9 +901,9 @@ TaskMateが、必要なGoogleフォーム、スプレッドシート、GASコー
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 今日から始められる3つのアクション</span>
+### <span class="text-teal">今日から始められる3つのアクション</span>
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> アクション1：現状の勤怠管理を整理する
+#### アクション1：現状の勤怠管理を整理する
 
 今日、仕事が終わったら、30分だけ時間を取ってください。
 
@@ -918,7 +918,7 @@ TaskMateが、必要なGoogleフォーム、スプレッドシート、GASコー
 
 ---
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> アクション2：自動化方法を決める
+#### アクション2：自動化方法を決める
 
 整理ができたら、**自社に合った自動化方法を選びましょう**。
 
@@ -931,7 +931,7 @@ TaskMateが、必要なGoogleフォーム、スプレッドシート、GASコー
 
 ---
 
-#### <img src="/icons/pin.svg" alt="ポイント" class="inline-icon" width="20" height="20" /> アクション3：TaskMateに相談する
+#### アクション3：TaskMateに相談する
 
 自動化方法が決まったら、**TaskMateに相談してみましょう**。
 
@@ -956,7 +956,7 @@ TaskMateが、必要なGoogleフォーム、スプレッドシート、GASコー
 
 ---
 
-### <span class="text-teal"><img src="/icons/lightbulb.svg" alt="アイデア" class="inline-icon" width="20" height="20" /> 最後に</span>
+### <span class="text-teal">最後に</span>
 
 タイムカード集計の自動化は、決して難しいものではありません。
 
