@@ -6,14 +6,8 @@ slug: "data-transfer-error-prevention-transfer"
 keywords: ["データ転記 ミス", "データ転記", "自動化", "エクセル", "スプレッドシート", "API連携"]
 ---
 
+![業務効率化のイメージ](https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=600&fit=crop)
 
-## 【3行まとめ】
-
-□ スプレッドシート自動化により月間120時間の業務時間削減、年間コスト240万円圧縮を実現
-□ GAS（Google Apps Script）活用で請求書発行・在庫管理・勤怠集計などの定型業務を完全自動化
-□ プログラミング初心者でも2週間で実装可能、導入費用ゼロでROI300%を達成
-
----
 
 ## <span class="text-underline">「また転記ミス…」その繰り返しで悩んでいませんか？</span>
 
