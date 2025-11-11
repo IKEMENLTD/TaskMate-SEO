@@ -15,7 +15,7 @@ keywords: ["AI", "協働", "働き方", "AIパートナー", "協力", "TaskMate
 
 ## <span class="text-underline">「AIは便利な道具」その認識、もう古いかもしれません</span>
 
-![AIパートナーシップのイメージ](https://images.unsplash.com/photo-1675271591424-ac988874da1d?w=800&h=400&fit=crop)
+![AIパートナーシップのイメージ](https://images.unsplash.com/photo-1531482615713-2afd69097998?w=800&h=400&fit=crop)
 
 ### <span class="text-teal">【指示を出すだけの使い方で終わらせていませんか】</span>
 

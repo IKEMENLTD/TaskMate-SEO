@@ -19,7 +19,7 @@ keywords: ["AI", "指示", "出し方", "プロンプト", "日本語", "TaskMat
 
 ChatGPTやTaskMateなどのAIツールに興味はあるものの、「何をどう伝えればいいのか」という入口の部分で躓いてしまう。わかります、その気持ち。
 
-![AIとの会話に悩む様子](https://images.unsplash.com/photo-1676911809746-c88fc3f57e29?w=800&h=400&fit=crop)
+![AIとの会話に悩む様子](https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&h=400&fit=crop)
 
 ---
 
@@ -45,7 +45,7 @@ ChatGPTやTaskMateなどのAIツールに興味はあるものの、「何をど
 
 今日から使える実践的な方法だけを、実例とともに紹介していきますね。
 
-![AI会話のイメージ](https://images.unsplash.com/photo-1677442137019-21780ecad995?w=1200&q=80)
+![AI会話のイメージ](https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=600&fit=crop)
 
 ---
 
@@ -112,7 +112,7 @@ TaskMateは単に指示された作業をこなすだけでなく、その目的
 
 「リピーターへの誠意ある謝罪」という背景があることで、**TaskMateは形式的な謝罪文ではなく、顧客との関係性を大切にした温かみのある文章を作成**してくれます。
 
-![目的を共有する様子](https://images.unsplash.com/photo-1675271591423-83e7c76b5d8c?w=1200&q=80)
+![目的を共有する様子](https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=600&fit=crop)
 
 ---
 
@@ -216,7 +216,7 @@ TaskMateのようなAIは、文脈を理解する能力に優れています。�
 
 同じ内容でも、**オンラインと印刷では最適な形式が違います。**TaskMateはこうした違いを理解し、媒体に適した形式で作成してくれます。
 
-![様々な場面でのプレゼンテーション](https://images.unsplash.com/photo-1655720031554-a929595ffad7?w=1200&q=80)
+![様々な場面でのプレゼンテーション](https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=1200&h=600&fit=crop)
 
 ---
 
@@ -296,7 +296,7 @@ TaskMateの大きな特徴は、**一方的に指示を受けるだけでなく�
 
 このように、**TaskMateは足りない情報を自分から質問してくれます。**あなたは完璧な指示を最初から出す必要はなく、対話しながら理想の成果物に近づけていけばいいんです。
 
-![対話の様子](https://images.unsplash.com/photo-1655720035861-ba7f0efbc069?w=1200&q=80)
+![対話の様子](https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&h=600&fit=crop)
 
 ---
 
@@ -454,7 +454,7 @@ TaskMateは幅広い分野の知識を持っているので、一般的な専門
 
 ただし、例がなくても問題ありません。「シンプルで見やすい」「プロフェッショナルな印象」「親しみやすい雰囲気」といった**抽象的な表現でも、TaskMateは理解してくれます。**
 
-![資料の例を見る様子](https://images.unsplash.com/photo-1527689197875-53ac868eb334?w=1200&q=80)
+![資料の例を見る様子](https://images.unsplash.com/photo-1527689197875-53ac868eb334?w=1200&h=600&fit=crop)
 
 ---
 

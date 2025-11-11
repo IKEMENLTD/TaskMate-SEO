@@ -9,7 +9,7 @@ category: 業務効率化
 tags: ['勤怠管理', '給与計算', '自動化', '人事労務']
 ---
 
-![勤怠管理のイメージ](https://images.unsplash.com/photo-1554224311-beee460533c0?w=1200&h=600&fit=crop)
+![勤怠管理のイメージ](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=600&fit=crop)
 
 ```
 
@@ -19,7 +19,7 @@ tags: ['勤怠管理', '給与計算', '自動化', '人事労務']
 <p>執筆者：TaskMateAI編集部</p>
 </div>
 
-![勤怠管理システムのイメージ](https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=630&fit=crop)
+![勤怠管理システムのイメージ](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1200&h=630&fit=crop)
 
 
 
