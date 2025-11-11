@@ -1,10 +1,10 @@
 ---
-title: 【2024年版】月1万円でCIO（最高情報責任者）を常駐させる方法｜中小企業のDX革命
+title: 【2025年版】月1万円でCIO（最高情報責任者）を常駐させる方法｜中小企業のDX革命
 description: 年収800万円〜1,200万円のCIOを月1万円で実現。TaskMateなら、プログラミング不要でスプレッドシート業務を完全自動化。売上集計、在庫管理、月次レポートが自動化される3つの実例を徹底解説します。
 keywords: CIO,最高情報責任者,業務自動化
 author: TaskMateAI編集部
-date: 2024-11-11
-updated: 2024-11-11
+date: 2025-11-11
+updated: 2025-11-11
 slug: cio-taskmate-automation
 image: https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=630&fit=crop
 ---
@@ -406,7 +406,7 @@ function autoSalesReport() {
 - 実際の導入事例のご紹介
 
 ▼無料相談を予約（15分・Zoom or 対面）
-[無料相談を予約](https://timerex.net/s/taskmate_ai/consultation)
+[無料相談を予約](https://timerex.net/s/cz1917903_47c5/7caf7949)
 
 **ご安心ください**
 - 無理な営業は一切しません
@@ -460,9 +460,9 @@ CIOの年収は800万円〜1,200万円。中小企業が雇うのは現実的で
 
 [デモで体験（5分）](https://taskmateai.net/demo)
 
-[無料相談を予約（15分）](https://timerex.net/s/taskmate_ai/consultation)
+[無料相談を予約（15分）](https://timerex.net/s/cz1917903_47c5/7caf7949)
 
-[TaskMate 公式LINE：お問い合わせはこちら](https://line.me/R/ti/p/@taskmate)
+[TaskMate 公式LINE：お問い合わせはこちら](https://taskmateai.net/)
 
 ---
 

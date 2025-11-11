@@ -418,7 +418,7 @@ TaskMateAI公式LINEでは、シフト管理の最新トレンドや、導入事
 ※ 登録は無料です。いつでも配信停止できます。
 
 【登録はこちら】
-[TaskMate 公式LINE：お問い合わせはこちら](https://line.me/R/ti/p/@taskmate)
+[TaskMate 公式LINE：お問い合わせはこちら](https://taskmateai.net/)
 
 ---
 

@@ -337,7 +337,7 @@ TaskMate公式LINEでは、業務効率化の専門家が、あなたの業務�
 
 【TaskMate公式LINE】
 今すぐ友だち追加して、あなたの業務効率化を始めましょう
-→ https://line.me/R/ti/p/@taskmate
+→ https://taskmateai.net/
 
 明日からのあなたの働き方が、劇的に変わります。エクセル作業に費やしていた時間を、もっと創造的で価値ある仕事に使いませんか？
 
