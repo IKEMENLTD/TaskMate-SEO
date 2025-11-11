@@ -497,7 +497,7 @@ TaskMateの公式LINEでは、あなたの店舗に最適な一元管理プラ�
 
 **まずはお気軽にご相談ください**
 
- **[TaskMate 公式LINE：お問い合わせはこちら](https://taskmateai.net/t/pio8hwhejjhy)**
+ **[TaskMate 公式LINE：お問い合わせはこちら](https://taskmateai.net/t/8f5yoytw84zpt/pio8hwhejjhy)**
 
 ---
 

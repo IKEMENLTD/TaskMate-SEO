@@ -334,7 +334,7 @@ TaskMateの公式LINEでは、あなたの運営サイトに最適な一元管�
 
 **まずはお気軽にご相談ください**
 
- **[TaskMate 公式LINE：お問い合わせはこちら](https://taskmateai.net/t/pio8hwhejjhy)**
+ **[TaskMate 公式LINE：お問い合わせはこちら](https://taskmateai.net/t/8f5yoytw84zpt/pio8hwhejjhy)**
 
 ---
 

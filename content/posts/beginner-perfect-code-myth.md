@@ -344,7 +344,7 @@ TaskMateは、事務職・バックオフィスの方の業務効率化の相談
 
 気軽に相談してみてください。
 
-**[TaskMate 公式LINE：お問い合わせはこちら](https://taskmateai.net/t/pio8hwhejjhy)**
+**[TaskMate 公式LINE：お問い合わせはこちら](https://taskmateai.net/t/8f5yoytw84zpt/pio8hwhejjhy)**
 
 ---
 
