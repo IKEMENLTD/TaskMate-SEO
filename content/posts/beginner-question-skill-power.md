@@ -199,7 +199,7 @@ Google Apps ScriptやGoogleスプレッドシートの自動化は、決して�
 
 **今すぐTaskMateを始めませんか？**
 
- **[TaskMate 公式LINE：お問い合わせはこちら](https://taskmateai.net/t/8f5yoytw84zpt/pio8hwhejjhy)**
+ **[TaskMate 公式LINE：お問い合わせはこちら](https://taskmateai.net/t/8f5yoytw84zpt/8f5yoytw84zp)**
 
 友だち追加後、「こういう作業を自動化したい」と送るだけで、すぐに使えるGASコードが返ってきます。専門用語を知らなくても大丈夫です。「毎週の売上集計を自動化したい」「メンバーへの一斉メール送信を楽にしたい」「勤怠データを自動で整理したい」など、あなたのやりたいことを普通の日本語で伝えてください。
 

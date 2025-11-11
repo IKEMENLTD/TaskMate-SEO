@@ -218,7 +218,7 @@ TaskMateは、そんなあなたの最初の一歩を支える強力なパート
 
 **今すぐTaskMateを始めませんか？**
 
- **[TaskMate 公式LINE：お問い合わせはこちら](https://taskmateai.net/t/8f5yoytw84zpt/pio8hwhejjhy)**
+ **[TaskMate 公式LINE：お問い合わせはこちら](https://taskmateai.net/t/8f5yoytw84zpt/8f5yoytw84zp)**
 
 友だち追加後、「スプレッドシートの売上データを集計したい」「毎週の定型業務を自動化したい」など、あなたが実現したいことを日本語で送るだけで、すぐに使えるGoogle Apps Scriptのコードが返ってきます。プログラミングの知識は一切不要。あなたの「やりたいこと」を、今すぐ形にしましょう。
 

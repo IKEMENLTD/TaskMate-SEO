@@ -589,7 +589,7 @@ TaskMateの公式LINEでは、あなたの業務に最適な自動化プラン�
 
 **まずはお気軽にご相談ください**
 
- **[TaskMate 公式LINE：お問い合わせはこちら](https://taskmateai.net/t/8f5yoytw84zpt/pio8hwhejjhy)**
+ **[TaskMate 公式LINE：お問い合わせはこちら](https://taskmateai.net/t/8f5yoytw84zpt/8f5yoytw84zp)**
 
 ---
 

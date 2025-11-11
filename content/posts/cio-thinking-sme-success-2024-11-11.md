@@ -318,7 +318,7 @@ TaskMateなら、月1万円でこの3つの視点を実現できます。
 ### 今すぐ無料で試す
 
 1. [TaskMate公式サイト](https://taskmateai.net)にアクセス
-2. [デモ体験](https://taskmateai.net/t/8f5yoytw84zpdemo)で実際の動作を確認
+2. [デモ体験](https://taskmateai.net/t/8f5yoytw84zpt/8f5yoytw84zpdemo)で実際の動作を確認
 3. フリープランで今日から開始（クレジットカード不要）
 
 あなたの会社も、CIO的思考で劇的に変わります。

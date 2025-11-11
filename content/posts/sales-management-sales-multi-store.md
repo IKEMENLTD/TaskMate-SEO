@@ -465,7 +465,7 @@ TaskMateの公式LINEでは、あなたの会社に最適な多店舗管理シ�
 
 **まずはお気軽にご相談ください**
 
- **[TaskMate 公式LINE：お問い合わせはこちら](https://taskmateai.net/t/8f5yoytw84zpt/pio8hwhejjhy)**
+ **[TaskMate 公式LINE：お問い合わせはこちら](https://taskmateai.net/t/8f5yoytw84zpt/8f5yoytw84zp)**
 
 ---
 

@@ -306,7 +306,7 @@ TaskMateの調査では、<span class="text-underline">段階的導入を行っ�
 
 <div class="cta-box">
 <p class="cta-text">TaskMate公式LINEに登録して、労務管理の悩みを解決しましょう</p>
-<a href="https://taskmateai.net/t/8f5yoytw84zp" class="cta-button">公式LINEで無料相談する</a>
+<a href="https://taskmateai.net/t/8f5yoytw84zpt/8f5yoytw84zp" class="cta-button">公式LINEで無料相談する</a>
 </div>
 
 あなたの会社の労務管理を、TaskMateが全力でサポートします。

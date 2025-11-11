@@ -365,7 +365,7 @@ Web制作会社A社（従業員5名）では、Notion導入により情報共有
 少人数チームの業務効率化を全力でサポートします。ぜひTaskMate公式LINEにご登録ください。
 
 【登録はこちら】
-TaskMate公式LINE：https://taskmateai.net/t/8f5yoytw84zp
+TaskMate公式LINE：https://taskmateai.net/t/8f5yoytw84zpt/8f5yoytw84zp
 
 ※登録後、アンケートにお答えいただくと、すぐに「業務効率化ツール比較表」をダウンロードできます
 
