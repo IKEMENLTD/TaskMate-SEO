@@ -389,7 +389,7 @@ function autoSalesReport() {
    毎週金曜、KPIレポートを自動生成・メール送信
 
 ▼今すぐ体験（会員登録不要・所要時間5分）
-https://taskmateai.net/demo
+[デモで体験](https://taskmateai.net/demo)
 
 実際にクリックすると、スプレッドシートが自動で更新される様子をその場で確認できます。
 
@@ -406,7 +406,7 @@ https://taskmateai.net/demo
 - 実際の導入事例のご紹介
 
 ▼無料相談を予約（15分・Zoom or 対面）
-https://timerex.net/s/taskmate_ai/consultation
+[無料相談を予約](https://timerex.net/s/taskmate_ai/consultation)
 
 **ご安心ください**
 - 無理な営業は一切しません
@@ -458,14 +458,11 @@ CIOの年収は800万円〜1,200万円。中小企業が雇うのは現実的で
 
 ### 今すぐできる3つのアクション
 
-**アクション1: デモで体験（5分）**
-https://taskmateai.net/demo
+[デモで体験（5分）](https://taskmateai.net/demo)
 
-**アクション2: 無料相談を予約（15分）**
-https://timerex.net/s/taskmate_ai/consultation
+[無料相談を予約（15分）](https://timerex.net/s/taskmate_ai/consultation)
 
-**アクション3: LINE公式アカウントに登録**
-https://line.me/R/ti/p/@taskmate
+[TaskMate 公式LINE：お問い合わせはこちら](https://line.me/R/ti/p/@taskmate)
 
 ---
 
