@@ -174,7 +174,59 @@ export default function Home() {
         </div>
       </section>
 
-      {/* 注目記事セクション */}
+      {/* おすすめ記事セクション - CIO記事 */}
+      <section className="py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-br from-purple-50 via-white to-indigo-50">
+        <div className="container mx-auto max-w-6xl">
+          <div className="text-center mb-12">
+            <div className="inline-flex items-center justify-center mb-4">
+              <div className="w-12 h-12 bg-gradient-to-br from-purple-500 to-indigo-600 rounded-xl flex items-center justify-center shadow-lg">
+                <svg className="w-7 h-7 text-white" fill="currentColor" viewBox="0 0 20 20">
+                  <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                </svg>
+              </div>
+            </div>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <span className="gradient-text">おすすめ記事</span>
+            </h2>
+            <p className="text-lg text-[var(--color-text-secondary)] max-w-2xl mx-auto">
+              中小企業のDX推進に必読。月1万円でCIOを常駐させる革新的な方法をご紹介します。
+            </p>
+          </div>
+
+          <Link href="/posts/cio-taskmate-automation">
+            <article className="group article-card h-full flex flex-col hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 bg-white border-2 border-transparent hover:border-purple-400">
+              <div className="absolute top-4 right-4 z-10">
+                <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-bold bg-gradient-to-r from-purple-500 to-indigo-600 text-white shadow-lg">
+                  おすすめ
+                </span>
+              </div>
+              <div className="p-8 md:p-10 flex-1 flex flex-col">
+                <div className="mb-4">
+                  <div className="w-16 h-16 rounded-lg bg-gradient-to-br from-purple-400 to-indigo-600 flex items-center justify-center mb-4 shadow-lg">
+                    <svg className="w-10 h-10 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
+                    </svg>
+                  </div>
+                </div>
+                <h3 className="text-2xl md:text-3xl font-bold mb-4 group-hover:text-[var(--color-primary)] transition-colors leading-tight">
+                  【2025年版】月1万円でCIO（最高情報責任者）を常駐させる方法｜中小企業のDX革命
+                </h3>
+                <p className="text-[var(--color-text-secondary)] mb-6 flex-1 text-base leading-relaxed">
+                  年収800万円〜1,200万円のCIOを月1万円で実現。TaskMateなら、プログラミング不要でスプレッドシート業務を完全自動化。売上集計、在庫管理、月次レポートが自動化される3つの実例を徹底解説します。
+                </p>
+                <div className="inline-flex items-center text-[var(--color-primary)] font-semibold text-base group-hover:gap-3 gap-2 transition-all mt-auto">
+                  続きを読む
+                  <svg className="w-5 h-5 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                  </svg>
+                </div>
+              </div>
+            </article>
+          </Link>
+        </div>
+      </section>
+
+      {/* 最新記事セクション */}
       {featuredPost && (
         <section id="featured" className="py-16 px-4 sm:px-6 lg:px-8 bg-white">
           <div className="container mx-auto max-w-6xl">
@@ -184,7 +236,7 @@ export default function Home() {
                   <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
                 </svg>
               </div>
-              <span className="gradient-text">注目の記事</span>
+              <span className="gradient-text">最新記事</span>
             </h2>
             <Link href={`/posts/${featuredPost.slug}`}>
               <article className="group article-card glass-card-hover">
