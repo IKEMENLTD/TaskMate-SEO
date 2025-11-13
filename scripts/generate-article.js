@@ -62,15 +62,15 @@ function getUsedTopics() {
 
   files.forEach(file => {
     const content = fs.readFileSync(path.join(postsDir, file), 'utf-8');
-    // タイトルを抽出
-    const match = content.match(/^title:\s*"(.+)"$/m);
+    // タイトルを抽出（クォートあり/なし両対応）
+    const match = content.match(/^title:\s*["']?(.+?)["']?$/m);
     if (match) {
-      used.add(match[1]);
+      used.add(match[1].trim());
     }
-    // slugも抽出
-    const slugMatch = content.match(/^slug:\s*"(.+)"$/m);
+    // slugも抽出（クォートあり/なし両対応）
+    const slugMatch = content.match(/^slug:\s*["']?(.+?)["']?$/m);
     if (slugMatch) {
-      used.add(slugMatch[1]);
+      used.add(slugMatch[1].trim());
     }
   });
 
@@ -103,8 +103,144 @@ function countTodayArticles(targetDate) {
   return count;
 }
 
-// 次のトピックを選択
-function selectNextTopic() {
+// Claude APIで新しいトピックを自動生成
+async function generateNewTopic(usedTopics) {
+  console.log('🎯 Generating new topic using Claude API...');
+
+  const usedTopicsList = Array.from(usedTopics).slice(0, 20).join('\n- ');
+
+  const prompt = `あなたはTaskMateブログの編集長です。中小企業向けの業務自動化に関する新しいブログ記事のトピックを1つ提案してください。
+
+【TaskMateについて】
+- プログラミング不要で業務自動化できるツール
+- スプレッドシート、在庫管理、勤怠管理、売上管理などを自動化
+- 月1万円から利用可能
+- 中小企業・個人事業主向け
+
+【既に使用済みのトピック（重複禁止）】
+${usedTopicsList}
+
+【要件】
+1. タイトルは60文字以内
+2. 2025年版の最新情報として作成
+3. 具体的な数字（時間削減率、費用など）を含める
+4. ターゲット：中小企業の経営者・現場担当者
+5. SEOキーワードを3つ含める
+
+【出力形式（JSON）】
+{
+  "title": "【2025年版】○○を△△する方法｜具体的な数字を含むキャッチーなタイトル",
+  "description": "150文字程度の説明文。SEOキーワードを自然に含める。",
+  "keywords": ["キーワード1", "キーワード2", "キーワード3", "業務自動化", "TaskMate"],
+  "slug": "half-width-alphanumeric-slug"
+}
+
+JSONのみを出力してください。`;
+
+  try {
+    const response = await anthropic.messages.create({
+      model: 'claude-3-5-sonnet-20241022',
+      max_tokens: 1000,
+      messages: [{
+        role: 'user',
+        content: prompt
+      }]
+    });
+
+    const content = response.content[0].text.trim();
+    // JSONブロックから抽出（```json ... ``` の場合に対応）
+    const jsonMatch = content.match(/\{[\s\S]*\}/);
+    if (!jsonMatch) {
+      throw new Error('Failed to extract JSON from response');
+    }
+
+    const newTopic = JSON.parse(jsonMatch[0]);
+    console.log('✅ New topic generated:', newTopic.title);
+
+    // 生成したトピックをJSONファイルに追加
+    const topicsFile = path.join(__dirname, 'article-topics.json');
+    const topics = JSON.parse(fs.readFileSync(topicsFile, 'utf-8'));
+    topics.push(newTopic);
+    fs.writeFileSync(topicsFile, JSON.stringify(topics, null, 2), 'utf-8');
+    console.log('💾 New topic saved to article-topics.json');
+
+    return newTopic;
+  } catch (error) {
+    console.error('❌ Failed to generate new topic:', error.message);
+    return null;
+  }
+}
+
+// フォールバックトピック（API失敗時の緊急用）
+function getFallbackTopic(index) {
+  const fallbackTopics = [
+    {
+      title: "【2025年版】業務効率化で残業を50%削減した中小企業の実例｜今すぐできる5つの施策",
+      description: "業務効率化により残業時間を大幅削減した中小企業の実例を紹介。プログラミング不要で実践できる5つの施策を具体的に解説します。",
+      keywords: ["業務効率化", "残業削減", "中小企業", "自動化", "TaskMate"],
+      slug: "efficiency-overtime-reduction-sme"
+    },
+    {
+      title: "【2025年版】スプレッドシート管理の限界を超える｜月10万円で実現する完全自動化",
+      description: "スプレッドシートでの管理業務を完全自動化する方法を解説。手作業によるミスとストレスから解放される具体的な手順を紹介します。",
+      keywords: ["スプレッドシート", "自動化", "業務管理", "効率化", "TaskMate"],
+      slug: "spreadsheet-automation-complete"
+    },
+    {
+      title: "【2025年版】在庫管理の自動化で欠品を90%削減｜リアルタイム管理の実現方法",
+      description: "在庫管理を自動化し、欠品や過剰在庫を削減する方法を解説。リアルタイムで在庫状況を把握できるシステムの構築手順を紹介します。",
+      keywords: ["在庫管理", "自動化", "欠品削減", "リアルタイム", "TaskMate"],
+      slug: "inventory-automation-stockout-reduction"
+    },
+    {
+      title: "【2025年版】売上集計を毎日5分で完了｜複数店舗の売上を自動統合する方法",
+      description: "複数店舗の売上データを自動集計し、日次レポートを瞬時に生成する方法を解説。経営判断を迅速化する実践的な手順を紹介します。",
+      keywords: ["売上集計", "自動化", "複数店舗", "日次レポート", "TaskMate"],
+      slug: "sales-aggregation-multi-store-automation"
+    },
+    {
+      title: "【2025年版】勤怠管理の完全自動化｜タイムカード不要で給与計算まで一括処理",
+      description: "勤怠管理から給与計算までを完全自動化する方法を解説。タイムカードや手入力が不要になる具体的なシステム構築手順を紹介します。",
+      keywords: ["勤怠管理", "自動化", "給与計算", "タイムカード", "TaskMate"],
+      slug: "attendance-payroll-full-automation"
+    },
+    {
+      title: "【2025年版】請求書発行を自動化して月20時間削減｜ミスゼロの請求業務を実現",
+      description: "請求書発行業務を自動化し、作成時間とミスを大幅削減する方法を解説。プログラミング不要で実践できる具体的な手順を紹介します。",
+      keywords: ["請求書", "自動化", "業務削減", "ミスゼロ", "TaskMate"],
+      slug: "invoice-automation-error-free"
+    },
+    {
+      title: "【2025年版】顧客管理をExcelから卒業｜購買履歴の自動分析でリピート率30%向上",
+      description: "顧客管理をExcelから自動化システムに移行し、リピート率を向上させる方法を解説。購買履歴の自動分析による具体的な施策を紹介します。",
+      keywords: ["顧客管理", "Excel", "自動化", "リピート率", "TaskMate"],
+      slug: "crm-excel-migration-repeat-rate"
+    },
+    {
+      title: "【2025年版】発注業務の自動化で在庫コスト20%削減｜最適な発注タイミングを自動判定",
+      description: "発注業務を自動化し、在庫コストを削減する方法を解説。需要予測に基づく最適な発注タイミングの自動判定手順を紹介します。",
+      keywords: ["発注業務", "自動化", "在庫コスト", "需要予測", "TaskMate"],
+      slug: "ordering-automation-inventory-cost-reduction"
+    },
+    {
+      title: "【2025年版】日報作成を5分で完了｜自動集計で報告業務から解放される方法",
+      description: "日報作成を自動化し、報告業務の時間を大幅削減する方法を解説。データ自動集計により5分で完了する具体的な手順を紹介します。",
+      keywords: ["日報", "自動化", "業務削減", "報告業務", "TaskMate"],
+      slug: "daily-report-5min-automation"
+    },
+    {
+      title: "【2025年版】シフト管理の自動化で調整時間80%削減｜希望シフトの自動調整を実現",
+      description: "シフト管理を自動化し、調整業務を大幅削減する方法を解説。従業員の希望を考慮した自動シフト作成の具体的な手順を紹介します。",
+      keywords: ["シフト管理", "自動化", "調整削減", "希望シフト", "TaskMate"],
+      slug: "shift-management-auto-adjustment"
+    }
+  ];
+
+  return fallbackTopics[index % fallbackTopics.length];
+}
+
+// 次のトピックを選択（完全自動化版）
+async function selectNextTopic() {
   const topicsFile = path.join(__dirname, 'article-topics.json');
 
   if (!fs.existsSync(topicsFile)) {
@@ -120,13 +256,30 @@ function selectNextTopic() {
     return !usedTopics.has(t.title) && !usedTopics.has(t.slug);
   });
 
-  if (availableTopics.length === 0) {
-    console.log('⚠️  All predefined topics have been used');
-    return null;
+  if (availableTopics.length > 0) {
+    console.log(`📋 Using predefined topic (${availableTopics.length} remaining)`);
+    return availableTopics[0];
   }
 
-  // 最初の未使用トピックを返す
-  return availableTopics[0];
+  // 定義済みトピックが枯渇 → Claude APIで自動生成
+  console.log('⚠️  All predefined topics used. Generating new topic automatically...');
+  const newTopic = await generateNewTopic(usedTopics);
+
+  if (newTopic) {
+    return newTopic;
+  }
+
+  // API失敗時のフォールバック
+  console.log('⚠️  API failed. Using fallback topic...');
+  const fallbackIndex = topics.length;
+  const fallbackTopic = getFallbackTopic(fallbackIndex);
+
+  // フォールバックトピックも保存
+  topics.push(fallbackTopic);
+  fs.writeFileSync(topicsFile, JSON.stringify(topics, null, 2), 'utf-8');
+  console.log('💾 Fallback topic saved to article-topics.json');
+
+  return fallbackTopic;
 }
 
 // Claude APIで記事を生成（LLM最適化版）
@@ -333,7 +486,7 @@ A: [明確で断定的な回答。2-3文。]
   try {
     const message = await anthropic.messages.create({
       model: 'claude-sonnet-4-5-20250929',
-      max_tokens: 24000,  // LLM最適化で文字数増加のため増量
+      max_tokens: 8000,  // タイムアウト回避のため最適化
       temperature: 0.7,
       messages: [{
         role: 'user',
@@ -482,24 +635,31 @@ async function main() {
 
     // 4-9. 必要な記事数だけ生成
     let generatedCount = 0;
+    const selectedTopics = new Set(); // 同じループ内で重複選択を防ぐ
 
     for (let i = 0; i < articlesToGenerate; i++) {
       console.log(`\n🎯 Generating LLM-optimized article ${existingCount + i + 1}/${ARTICLES_PER_DAY} for ${targetDate}...`);
 
-      // 次のトピックを選択
+      // 次のトピックを選択（async対応）
       console.log('🎯 Selecting next topic...');
-      const topic = selectNextTopic();
+      let topic = await selectNextTopic();
+
+      // 既に選択済みのトピックをスキップ
+      while (topic && selectedTopics.has(topic.slug)) {
+        console.log(`⚠️  Topic ${topic.slug} already selected in this run, selecting another...`);
+        topic = await selectNextTopic();
+      }
 
       if (!topic) {
-        console.log('⚠️  No available topics remaining');
-        console.log('Please add more topics to scripts/article-topics.json');
+        console.log('❌ Failed to select topic (this should never happen with fallback)');
         if (generatedCount === 0) {
-          process.exit(0);
+          process.exit(1);
         }
         break;
       }
 
       console.log(`✅ Topic selected: ${topic.title}\n`);
+      selectedTopics.add(topic.slug); // 選択済みに追加
 
       // 記事を生成
       console.log('✍️  Generating LLM-optimized article with Claude API...');
