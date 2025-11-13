@@ -193,7 +193,7 @@ export default function Home() {
             </p>
           </div>
 
-          <Link href="/posts/cio-taskmate-automation">
+          <Link href="/posts/cio-taskmate-automation-2025-11-11">
             <article className="group article-card h-full flex flex-col hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 bg-white border-2 border-transparent hover:border-purple-400">
               <div className="absolute top-4 right-4 z-10">
                 <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-bold bg-gradient-to-r from-purple-500 to-indigo-600 text-white shadow-lg">
