@@ -1,0 +1,15 @@
+name: Cron Test (Every 10 minutes)
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'  # 10分ごとに実行（テスト用）
+  workflow_dispatch:
+
+jobs:
+  test-cron:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test cron execution
+        run: |
+          echo "🎯 Cron executed successfully at $(date)"
+          echo "This workflow proves that GitHub Actions cron works."
