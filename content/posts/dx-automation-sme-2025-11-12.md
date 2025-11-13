@@ -345,7 +345,7 @@ TaskMateは日本語で指示を出すだけで自動化が完成します。実
 
 ### アクション2：TaskMateの無料相談を予約（所要時間：5分）
 
-- [TaskMate公式サイト](https://taskmateai.net)にアクセス
+- [TaskMate 公式LINE：お問い合わせはこちら](https://agency.ikemen.ltd/t/rpu8ewpe3mmn)にアクセス
 - 無料相談を予約
 - 自社の課題を相談
 
@@ -382,7 +382,7 @@ TaskMateを導入した企業では、こんな変化が起きています。
 
 **あなたの会社のDX推進、まずは月1万円から始めませんか？**
 
-[TaskMateの無料相談はこちら](https://taskmateai.net)
+[TaskMate 公式LINE：お問い合わせはこちら](https://agency.ikemen.ltd/t/rpu8ewpe3mmn)
 
 ---
 

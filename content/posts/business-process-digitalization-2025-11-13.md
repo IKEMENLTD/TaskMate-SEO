@@ -691,7 +691,7 @@ image: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630
 
 ### アクション2：TaskMateの無料相談を予約（所要時間：5分）
 
-- [TaskMate公式サイト](https://taskmateai.net)にアクセス
+- [TaskMate 公式LINE：お問い合わせはこちら](https://agency.ikemen.ltd/t/rpu8ewpe3mmn)にアクセス
 - 無料相談を予約
 - 自社の課題を相談
 
@@ -732,7 +732,7 @@ TaskMateを導入した企業では、こんな変化が起きています。
 
 **あなたの会社の業務プロセス、月1万円でデジタル化しませんか？**
 
-[TaskMateの無料相談はこちら](https://taskmateai.net)
+[TaskMate 公式LINE：お問い合わせはこちら](https://agency.ikemen.ltd/t/rpu8ewpe3mmn)
 
 ---
 

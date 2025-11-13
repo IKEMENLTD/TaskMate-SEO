@@ -425,7 +425,7 @@ TaskMateの公式LINEでは、あなたの業務に最適な自動化プラン�
 
 **まずはお気軽にご相談ください**
 
- **[TaskMate 公式LINE：お問い合わせはこちら](https://taskmateai.net/t/8f5yoytw84zpt/8f5yoytw84zp)**
+ **[TaskMate 公式LINE：お問い合わせはこちら](https://agency.ikemen.ltd/t/rpu8ewpe3mmn)**
 
 ---
 
@@ -465,5 +465,5 @@ A: むしろ逆で、単純作業から解放された従業員は、より創�
 **執筆**: TaskMate開発チーム
 **監修**: 鈴木大輔（プログラミング教育専門家・システムエンジニア）
 
-※本記事の情報は2025-10-24時点のものです。サービス内容や料金は変更される場合がありますので、最新情報は[公式サイト](https://taskmateai.net)でご確認ください。
+※本記事の情報は2025-10-24時点のものです。サービス内容や料金は変更される場合がありますので、最新情報は[TaskMate 公式LINE](https://agency.ikemen.ltd/t/rpu8ewpe3mmn)でご確認ください。
 

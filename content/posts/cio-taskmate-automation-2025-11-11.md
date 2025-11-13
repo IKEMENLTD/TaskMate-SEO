@@ -389,7 +389,7 @@ function autoSalesReport() {
    毎週金曜、KPIレポートを自動生成・メール送信
 
 ▼今すぐ体験（会員登録不要・所要時間5分）
-[デモで体験](https://taskmateai.net/t/8f5yoytw84zpt/8f5yoytw84zpdemo)
+[デモで体験](https://agency.ikemen.ltd/t/rpu8ewpe3mmndemo)
 
 実際にクリックすると、スプレッドシートが自動で更新される様子をその場で確認できます。
 
@@ -458,11 +458,11 @@ CIOの年収は800万円〜1,200万円。中小企業が雇うのは現実的で
 
 ### 今すぐできる3つのアクション
 
-[デモで体験（5分）](https://taskmateai.net/t/8f5yoytw84zpt/8f5yoytw84zpdemo)
+[デモで体験（5分）](https://agency.ikemen.ltd/t/rpu8ewpe3mmndemo)
 
 [無料相談を予約（15分）](https://timerex.net/s/cz1917903_47c5/7caf7949)
 
-[TaskMate 公式LINE：お問い合わせはこちら](https://taskmateai.net/t/8f5yoytw84zpt/8f5yoytw84zp)
+[TaskMate 公式LINE：お問い合わせはこちら](https://agency.ikemen.ltd/t/rpu8ewpe3mmn)
 
 ---
 
@@ -477,5 +477,5 @@ CIOの年収は800万円〜1,200万円。中小企業が雇うのは現実的で
 **執筆**: TaskMate開発チーム
 **監修**: 山田太郎（中小企業診断士・業務効率化コンサルタント）
 
-※本記事の情報は2025-11-11時点のものです。サービス内容や料金は変更される場合がありますので、最新情報は[公式サイト](https://taskmateai.net)でご確認ください。
+※本記事の情報は2025-11-11時点のものです。サービス内容や料金は変更される場合がありますので、最新情報は[TaskMate 公式LINE](https://agency.ikemen.ltd/t/rpu8ewpe3mmn)でご確認ください。
 
