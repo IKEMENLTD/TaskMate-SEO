@@ -5,13 +5,6 @@ on:
   schedule:
     - cron: '0 0 * * *'  # UTC 0:00 = JST 9:00
 
-  # プッシュでもトリガー（ワークフロー更新時に即座に有効化）
-  push:
-    branches:
-      - main
-    paths:
-      - '.github/workflows/auto-publish.yml'
-
   # 手動実行も可能（GitHubのActionsタブから）
   workflow_dispatch:
     inputs:
