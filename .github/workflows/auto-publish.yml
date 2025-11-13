@@ -97,25 +97,6 @@ jobs:
           echo "🚀 Netlify will auto-deploy in 2-3 minutes"
           echo "📝 Check: https://elegant-gumdrop-9a983a.netlify.app/"
 
-      # 8.5. Slack成功通知（オプション - SLACK_WEBHOOK_URLが設定されている場合のみ）
-      - name: Notify success to Slack
-        if: success() && steps.check_changes.outputs.changes == 'true' && secrets.SLACK_WEBHOOK_URL != ''
-        run: |
-          DATE=$(date +'%Y-%m-%d')
-          curl -X POST ${{ secrets.SLACK_WEBHOOK_URL }} \
-            -H 'Content-Type: application/json' \
-            -d "{\"text\":\"✅ *記事自動生成成功*\n日付: ${DATE}\nNetlifyデプロイ: 2-3分後に完了予定\nURL: https://elegant-gumdrop-9a983a.netlify.app/\"}"
-
-      # 8.6. Slack失敗通知（オプション）
-      - name: Notify failure to Slack
-        if: failure() && secrets.SLACK_WEBHOOK_URL != ''
-        run: |
-          DATE=$(date +'%Y-%m-%d')
-          WORKFLOW_URL="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
-          curl -X POST ${{ secrets.SLACK_WEBHOOK_URL }} \
-            -H 'Content-Type: application/json' \
-            -d "{\"text\":\"❌ *記事自動生成失敗*\n日付: ${DATE}\nワークフロー確認: ${WORKFLOW_URL}\n\n原因を確認してください。\"}"
-
       # 9. スキップ通知
       - name: Notify skip
         if: success() && steps.check_changes.outputs.changes == 'false'
