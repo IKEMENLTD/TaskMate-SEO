@@ -579,12 +579,12 @@ A: [明確で断定的な回答。2-3文。]
   try {
     console.log('🔄 Calling Claude API for article generation...');
     console.log('   - Model: claude-sonnet-4-5-20250929');
-    console.log('   - Max tokens: 8000');
+    console.log('   - Max tokens: 16000');
     console.log('   - Temperature: 0.7');
 
     const message = await anthropic.messages.create({
       model: 'claude-sonnet-4-5-20250929',
-      max_tokens: 8000,  // タイムアウト回避のため最適化
+      max_tokens: 16000,  // 記事を完結させるため16000に増加（途中カット防止）
       temperature: 0.7,
       messages: [{
         role: 'user',
