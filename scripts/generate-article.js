@@ -2,9 +2,75 @@ const Anthropic = require('@anthropic-ai/sdk');
 const fs = require('fs');
 const path = require('path');
 
+// ========================================
+// APIキーの検証（最重要）
+// ========================================
+function validateApiKey() {
+  const apiKey = process.env.ANTHROPIC_API_KEY;
+
+  // 1. APIキーが設定されているか
+  if (!apiKey) {
+    console.error('❌ FATAL ERROR: ANTHROPIC_API_KEY is not set');
+    console.error('');
+    console.error('Please set the API key in GitHub Secrets:');
+    console.error('1. Go to: https://github.com/IKEMENLTD/TaskMate-SEO/settings/secrets/actions');
+    console.error('2. Click "New repository secret"');
+    console.error('3. Name: ANTHROPIC_API_KEY');
+    console.error('4. Value: Your Claude API key (starts with sk-ant-api03-)');
+    process.exit(1);
+  }
+
+  // 2. APIキーの形式が正しいか
+  const trimmedKey = apiKey.trim();
+  if (apiKey !== trimmedKey) {
+    console.error('❌ FATAL ERROR: ANTHROPIC_API_KEY contains leading/trailing whitespace');
+    console.error('');
+    console.error('The API key has extra spaces. Please update it in GitHub Secrets:');
+    console.error('- Current length:', apiKey.length, 'characters');
+    console.error('- After trim:', trimmedKey.length, 'characters');
+    console.error('- Difference:', apiKey.length - trimmedKey.length, 'extra whitespace characters');
+    process.exit(1);
+  }
+
+  // 3. APIキーが正しいプレフィックスで始まっているか
+  if (!apiKey.startsWith('sk-ant-api03-')) {
+    console.error('❌ FATAL ERROR: ANTHROPIC_API_KEY has invalid format');
+    console.error('');
+    console.error('Expected format: sk-ant-api03-...');
+    console.error('Actual prefix:', apiKey.substring(0, 13));
+    console.error('');
+    console.error('Please verify your API key at:');
+    console.error('https://console.anthropic.com/settings/keys');
+    process.exit(1);
+  }
+
+  // 4. APIキーの長さが適切か（一般的に100文字以上）
+  if (apiKey.length < 50) {
+    console.error('❌ FATAL ERROR: ANTHROPIC_API_KEY is too short');
+    console.error('');
+    console.error('Expected length: 100+ characters');
+    console.error('Actual length:', apiKey.length, 'characters');
+    console.error('');
+    console.error('The API key seems incomplete. Please check GitHub Secrets.');
+    process.exit(1);
+  }
+
+  // 5. 成功メッセージ
+  console.log('✅ API Key validation passed');
+  console.log('   - Format: OK (starts with sk-ant-api03-)');
+  console.log('   - Length:', apiKey.length, 'characters');
+  console.log('   - First 20 chars:', apiKey.substring(0, 20) + '...');
+  console.log('');
+
+  return apiKey;
+}
+
+// APIキーを検証してから初期化
+const validatedApiKey = validateApiKey();
+
 // Claude APIクライアントを初期化
 const anthropic = new Anthropic({
-  apiKey: process.env.ANTHROPIC_API_KEY,
+  apiKey: validatedApiKey,
 });
 
 // 既存記事を分析してスタイルを学習
@@ -138,6 +204,8 @@ ${usedTopicsList}
 JSONのみを出力してください。`;
 
   try {
+    console.log('🔄 Calling Claude API for topic generation...');
+
     const response = await anthropic.messages.create({
       model: 'claude-3-5-sonnet-20241022',
       max_tokens: 1000,
@@ -146,6 +214,8 @@ JSONのみを出力してください。`;
         content: prompt
       }]
     });
+
+    console.log('✅ Claude API responded successfully');
 
     const content = response.content[0].text.trim();
     // JSONブロックから抽出（```json ... ``` の場合に対応）
@@ -166,7 +236,30 @@ JSONのみを出力してください。`;
 
     return newTopic;
   } catch (error) {
-    console.error('❌ Failed to generate new topic:', error.message);
+    console.error('');
+    console.error('❌ ============================================');
+    console.error('❌ CLAUDE API ERROR (Topic Generation)');
+    console.error('❌ ============================================');
+    console.error('');
+    console.error('Error type:', error.constructor.name);
+    console.error('Error message:', error.message);
+
+    if (error.status) {
+      console.error('HTTP Status:', error.status);
+    }
+
+    if (error.error) {
+      console.error('API Error Details:', JSON.stringify(error.error, null, 2));
+    }
+
+    // スタックトレースも表示（デバッグ用）
+    console.error('');
+    console.error('Stack trace:');
+    console.error(error.stack);
+    console.error('');
+    console.error('❌ ============================================');
+    console.error('');
+
     return null;
   }
 }
@@ -484,6 +577,11 @@ A: [明確で断定的な回答。2-3文。]
 ✅ 断定的な文章表現`;
 
   try {
+    console.log('🔄 Calling Claude API for article generation...');
+    console.log('   - Model: claude-sonnet-4-5-20250929');
+    console.log('   - Max tokens: 8000');
+    console.log('   - Temperature: 0.7');
+
     const message = await anthropic.messages.create({
       model: 'claude-sonnet-4-5-20250929',
       max_tokens: 8000,  // タイムアウト回避のため最適化
@@ -494,8 +592,13 @@ A: [明確で断定的な回答。2-3文。]
       }]
     });
 
+    console.log('✅ Claude API responded successfully');
+    console.log('   - Stop reason:', message.stop_reason);
+    console.log('   - Usage:', JSON.stringify(message.usage));
+
     const response = message.content[0].text;
     console.log('✅ LLM-optimized article generated successfully');
+    console.log('   - Article length:', response.length, 'characters');
 
     // Check if response is complete (not truncated)
     if (message.stop_reason === 'max_tokens') {
@@ -506,7 +609,30 @@ A: [明確で断定的な回答。2-3文。]
     return response;
 
   } catch (error) {
-    console.error('❌ Claude API Error:', error.message);
+    console.error('');
+    console.error('❌ ============================================');
+    console.error('❌ CLAUDE API ERROR (Article Generation)');
+    console.error('❌ ============================================');
+    console.error('');
+    console.error('Error type:', error.constructor.name);
+    console.error('Error message:', error.message);
+
+    if (error.status) {
+      console.error('HTTP Status:', error.status);
+    }
+
+    if (error.error) {
+      console.error('API Error Details:', JSON.stringify(error.error, null, 2));
+    }
+
+    // スタックトレースも表示（デバッグ用）
+    console.error('');
+    console.error('Stack trace:');
+    console.error(error.stack);
+    console.error('');
+    console.error('❌ ============================================');
+    console.error('');
+
     if (error.message && error.message.includes('timeout')) {
       console.error('💡 TIP: The article generation is taking too long. Try reducing max_tokens or use streaming.');
     }
