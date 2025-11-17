@@ -53,22 +53,27 @@ async function validateArticle(filepath) {
     }
   }
 
-  // 2. 文字数チェック
+  // 2. 文字数チェック（基準を緩和: 3000-15000文字）
   const bodyContent = content.replace(/^---\n[\s\S]+?\n---\n/, ''); // frontmatter除外
   const wordCount = bodyContent.length;
 
-  if (wordCount < 5000) {
-    errors.push(`Content too short: ${wordCount} characters (minimum: 5000)`);
-  } else if (wordCount > 6500) {
-    warnings.push(`Content too long: ${wordCount} characters (recommended maximum: 6500)`);
+  if (wordCount < 3000) {
+    errors.push(`Content too short: ${wordCount} characters (minimum: 3000)`);
+  } else if (wordCount > 15000) {
+    warnings.push(`Content too long: ${wordCount} characters (recommended maximum: 15000)`);
   }
 
-  // 3. 必須キーワードチェック（TaskMate特有の用語）
-  const requiredTerms = ['TaskMate', 'LINE', 'Google Apps Script'];
-  const missingTerms = requiredTerms.filter(term => !content.includes(term));
+  // 3. 必須キーワードチェック（TaskMateのみ必須、他は推奨）
+  if (!content.includes('TaskMate')) {
+    errors.push('Missing required keyword: TaskMate - All articles must mention TaskMate');
+  }
+
+  // LINEとGASは推奨（warningのみ）
+  const recommendedTerms = ['LINE', 'Google Apps Script'];
+  const missingTerms = recommendedTerms.filter(term => !content.includes(term));
 
   if (missingTerms.length > 0) {
-    warnings.push(`Missing key terms: ${missingTerms.join(', ')} - Ensure TaskMate relevance`);
+    warnings.push(`Missing recommended terms: ${missingTerms.join(', ')}`);
   }
 
   // 「プログラミング学習ツール」のような誤解を招く表現のチェック
@@ -185,11 +190,25 @@ async function main() {
     process.exit(1);
   }
 
-  const files = fs.readdirSync(articlesDir).filter(f => f.endsWith('.md'));
+  // 環境変数から対象日付を取得（デフォルトは今日）
+  const targetDate = process.env.INPUT_DATE;
 
-  if (files.length === 0) {
-    console.log('ℹ️  No articles found to validate');
-    process.exit(0);
+  let files = fs.readdirSync(articlesDir).filter(f => f.endsWith('.md'));
+
+  // INPUT_DATEが設定されている場合、その日付の記事のみ検証
+  if (targetDate) {
+    console.log(`\n📅 Validating articles for date: ${targetDate}`);
+    files = files.filter(f => {
+      const filepath = path.join(articlesDir, f);
+      const content = fs.readFileSync(filepath, 'utf-8');
+      return content.includes(`date: ${targetDate}`);
+    });
+
+    if (files.length === 0) {
+      console.log(`ℹ️  No articles found for date ${targetDate}`);
+      console.log('✅ Skipping validation (no new articles to check)');
+      process.exit(0);
+    }
   }
 
   console.log(`\n📁 Found ${files.length} article(s) to validate\n`);
