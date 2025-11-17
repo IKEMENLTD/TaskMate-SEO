@@ -20,6 +20,8 @@ on:
 jobs:
   generate-and-publish:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # リポジトリへの書き込み権限を付与
 
     steps:
       # 1. リポジトリをチェックアウト
