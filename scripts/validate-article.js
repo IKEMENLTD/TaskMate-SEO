@@ -190,25 +190,34 @@ async function main() {
     process.exit(1);
   }
 
-  // 環境変数から対象日付を取得（デフォルトは今日）
-  const targetDate = process.env.INPUT_DATE;
+  // 環境変数から対象日付を取得
+  // 空の場合は今日の日付を使用（自動実行時のデフォルト動作）
+  let targetDate = process.env.INPUT_DATE;
+
+  if (!targetDate || targetDate === '') {
+    // INPUT_DATEが空の場合、今日の日付を自動設定
+    const today = new Date();
+    const year = today.getFullYear();
+    const month = String(today.getMonth() + 1).padStart(2, '0');
+    const day = String(today.getDate()).padStart(2, '0');
+    targetDate = `${year}-${month}-${day}`;
+    console.log(`\n📅 INPUT_DATE not set, using today: ${targetDate}`);
+  }
 
   let files = fs.readdirSync(articlesDir).filter(f => f.endsWith('.md'));
 
-  // INPUT_DATEが設定されている場合、その日付の記事のみ検証
-  if (targetDate) {
-    console.log(`\n📅 Validating articles for date: ${targetDate}`);
-    files = files.filter(f => {
-      const filepath = path.join(articlesDir, f);
-      const content = fs.readFileSync(filepath, 'utf-8');
-      return content.includes(`date: ${targetDate}`);
-    });
+  // 指定日付の記事のみ検証
+  console.log(`\n🔍 Validating articles for date: ${targetDate}`);
+  files = files.filter(f => {
+    const filepath = path.join(articlesDir, f);
+    const content = fs.readFileSync(filepath, 'utf-8');
+    return content.includes(`date: ${targetDate}`);
+  });
 
-    if (files.length === 0) {
-      console.log(`ℹ️  No articles found for date ${targetDate}`);
-      console.log('✅ Skipping validation (no new articles to check)');
-      process.exit(0);
-    }
+  if (files.length === 0) {
+    console.log(`ℹ️  No articles found for date ${targetDate}`);
+    console.log('✅ Skipping validation (no new articles to check)');
+    process.exit(0);
   }
 
   console.log(`\n📁 Found ${files.length} article(s) to validate\n`);

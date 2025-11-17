@@ -49,9 +49,11 @@ jobs:
         run: |
           node scripts/generate-article.js
 
-      # 4.5. 生成された記事の品質チェック
+      # 4.5. 生成された記事の品質チェック（今日の記事のみ）
       - name: Validate generated article
         if: success()
+        env:
+          INPUT_DATE: ${{ github.event.inputs.date }}
         run: |
           node scripts/validate-article.js
 
