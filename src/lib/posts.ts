@@ -34,7 +34,7 @@ export function getAllPosts(): PostData[] {
 
     return {
       slug,
-      title: matterResult.data.title || 'Untitled',
+      title: matterResult.data.title || '',
       date: dateValue,
       description: matterResult.data.description || '',
     };
@@ -71,7 +71,7 @@ export async function getPostData(slug: string): Promise<PostData> {
 
   return {
     slug,
-    title: matterResult.data.title || 'Untitled',
+    title: matterResult.data.title || '',
     date: dateValue,
     description: matterResult.data.description || '',
     contentHtml,
