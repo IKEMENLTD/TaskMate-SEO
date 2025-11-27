@@ -63,13 +63,13 @@ export default async function Post({ params }: Props) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <article className="py-12 px-4 sm:px-6 lg:px-8 bg-[var(--background-secondary)]">
+      <article className="py-12 px-4 sm:px-6 lg:px-8 bg-slate-50 min-h-screen relative z-10">
         <div className="max-w-5xl mx-auto">
           {/* パンくずナビゲーション */}
           <nav className="mb-8" aria-label="Breadcrumb">
-            <ol className="flex items-center space-x-2 text-sm text-[var(--foreground-secondary)]">
+            <ol className="flex items-center space-x-2 text-sm text-slate-500">
               <li>
-                <Link href="/" className="hover:text-[var(--color-primary)] transition-colors">
+                <Link href="/" className="hover:text-emerald-600 transition-colors">
                   ホーム
                 </Link>
               </li>
@@ -78,7 +78,7 @@ export default async function Post({ params }: Props) {
                   <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
                 </svg>
               </li>
-              <li className="text-[var(--foreground)]" aria-current="page">
+              <li className="text-slate-900 font-medium" aria-current="page">
                 {post.title}
               </li>
             </ol>
@@ -86,10 +86,10 @@ export default async function Post({ params }: Props) {
 
           {/* 記事ヘッダー */}
           <header className="mb-12 text-center">
-            <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-6 leading-tight text-[#059669]" style={{wordBreak: 'keep-all', lineBreak: 'strict', overflowWrap: 'break-word'}}>
+            <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-6 leading-tight text-slate-900" style={{ wordBreak: 'keep-all', lineBreak: 'strict', overflowWrap: 'break-word' }}>
               {post.title}
             </h1>
-            <div className="flex items-center justify-center gap-6 text-[var(--foreground-secondary)]">
+            <div className="flex items-center justify-center gap-6 text-slate-500">
               <time dateTime={post.date} className="flex items-center">
                 <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
@@ -106,16 +106,16 @@ export default async function Post({ params }: Props) {
           </header>
 
           {/* 記事コンテンツ */}
-          <div className="bg-[var(--background)] border border-[var(--border-color)] rounded-2xl px-4 py-8 sm:px-6 sm:py-10 md:px-16 md:py-14 shadow-lg mb-12">
+          <div className="bg-white border border-slate-200 rounded-2xl px-4 py-8 sm:px-6 sm:py-10 md:px-16 md:py-14 shadow-xl shadow-slate-200/50 mb-12">
             <div
-              className="markdown-content"
+              className="markdown-content-light"
               dangerouslySetInnerHTML={{ __html: post.contentHtml || '' }}
             />
           </div>
 
           {/* ソーシャルシェア */}
-          <div className="flex items-center justify-center gap-4 mb-12 pb-12 border-b border-[var(--border-color)]">
-            <span className="text-[var(--foreground-secondary)] font-medium">この記事をシェア:</span>
+          <div className="flex items-center justify-center gap-4 mb-12 pb-12 border-b border-slate-200">
+            <span className="text-slate-600 font-medium">この記事をシェア:</span>
             <div className="flex gap-3">
               <a
                 href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(post.title)}&url=${encodeURIComponent('https://taskmateai.net/blog/posts/' + slug)}`}
@@ -146,7 +146,7 @@ export default async function Post({ params }: Props) {
           <div className="text-center">
             <Link
               href="/"
-              className="inline-flex items-center px-6 py-3 bg-[var(--color-primary)] text-white font-semibold rounded-lg shadow-md hover:shadow-lg transform hover:-translate-y-0.5 transition-all"
+              className="inline-flex items-center px-6 py-3 bg-emerald-600 text-white font-semibold rounded-lg shadow-md hover:shadow-lg hover:bg-emerald-500 transform hover:-translate-y-0.5 transition-all"
             >
               <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />

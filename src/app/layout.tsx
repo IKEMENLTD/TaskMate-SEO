@@ -1,12 +1,19 @@
 import type { Metadata } from "next";
+import { Plus_Jakarta_Sans } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
+const jakarta = Plus_Jakarta_Sans({
+  subsets: ["latin"],
+  variable: '--font-jakarta',
+  display: 'swap',
+});
+
 export const metadata: Metadata = {
   title: {
-    default: "TaskMateAI ブログ - AIとタスク管理の情報メディア",
-    template: "%s | TaskMateAI ブログ"
+    default: "TaskMateAI Blog | AIとタスク管理の未来",
+    template: "%s | TaskMateAI Blog"
   },
   description: "タスク管理の効率化とAI活用に関する最新情報をお届けするブログです。生産性向上のヒントやテクニックを定期的に発信しています。",
   keywords: ["TaskMateAI", "タスク管理", "AI", "生産性", "効率化", "タイムマネジメント", "仕事術"],
@@ -71,7 +78,7 @@ export default function RootLayout({
   };
 
   return (
-    <html lang="ja">
+    <html lang="ja" className={`${jakarta.variable} scroll-smooth`}>
       <head>
         <script
           type="application/ld+json"
@@ -79,9 +86,9 @@ export default function RootLayout({
         />
         <link rel="icon" href="/blog/favicon.ico" />
       </head>
-      <body className="flex flex-col min-h-screen">
+      <body className="flex flex-col min-h-screen bg-slate-50 selection:bg-emerald-500 selection:text-white">
         <Header />
-        <main className="flex-1">
+        <main className="flex-1 w-full">
           {children}
         </main>
         <Footer />

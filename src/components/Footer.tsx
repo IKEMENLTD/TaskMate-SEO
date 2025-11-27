@@ -5,26 +5,28 @@ export default function Footer() {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="border-t border-[var(--border-color)] bg-[var(--background-secondary)] mt-auto">
-      <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
+    <footer className="relative border-t border-slate-800 bg-slate-950/50 backdrop-blur-md overflow-hidden">
+      <div className="absolute inset-0 bg-grid-pattern opacity-[0.1] pointer-events-none"></div>
+      <div className="absolute inset-0 bg-gradient-to-b from-transparent to-slate-900/80 pointer-events-none"></div>
+      <div className="container relative mx-auto px-4 sm:px-6 lg:px-8 py-16">
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-12">
           {/* ブランドセクション */}
           <div className="col-span-1 md:col-span-2">
-            <Link href="/" className="inline-flex items-center space-x-2 mb-4 group">
-              <div className="flex items-center justify-center w-10 h-10 rounded-lg bg-white shadow-lg overflow-hidden">
+            <Link href="/" className="inline-flex items-center space-x-3 mb-6 group">
+              <div className="flex items-center justify-center w-10 h-10 rounded-xl bg-gradient-to-br from-emerald-500 to-teal-600 shadow-lg shadow-emerald-500/20 overflow-hidden">
                 <Image
                   src="/logo.png"
                   alt="TaskMateAI Logo"
                   width={40}
                   height={40}
-                  className="object-contain"
+                  className="object-contain p-1"
                 />
               </div>
-              <span className="font-bold text-lg gradient-text">
-                TaskMateAI ブログ
+              <span className="font-bold text-xl tracking-tight text-slate-100">
+                TaskMateAI <span className="text-emerald-400 font-normal">Blog</span>
               </span>
             </Link>
-            <p className="text-sm text-[var(--foreground-secondary)] max-w-md mb-4">
+            <p className="text-slate-400 max-w-md mb-8 leading-relaxed">
               タスク管理の効率化とAI活用に関する最新情報をお届けするブログです。生産性向上のヒントやテクニックを定期的に発信しています。
             </p>
             <div className="flex space-x-4">
@@ -32,7 +34,7 @@ export default function Footer() {
                 href="https://twitter.com"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-[var(--foreground-secondary)] hover:text-[var(--color-primary)] transition-colors"
+                className="w-10 h-10 flex items-center justify-center rounded-full bg-slate-800 border border-slate-700 text-slate-400 hover:text-emerald-400 hover:border-emerald-500/50 hover:shadow-md transition-all duration-300"
                 aria-label="Twitter"
               >
                 <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
@@ -43,7 +45,7 @@ export default function Footer() {
                 href="https://github.com"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-[var(--foreground-secondary)] hover:text-[var(--color-primary)] transition-colors"
+                className="w-10 h-10 flex items-center justify-center rounded-full bg-slate-800 border border-slate-700 text-slate-400 hover:text-white hover:border-slate-500 hover:shadow-md transition-all duration-300"
                 aria-label="GitHub"
               >
                 <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
@@ -59,12 +61,12 @@ export default function Footer() {
 
           {/* リンク集1 */}
           <div>
-            <h3 className="font-semibold text-[var(--foreground)] mb-4">コンテンツ</h3>
-            <ul className="space-y-2 text-sm">
+            <h3 className="font-bold text-slate-100 mb-6">コンテンツ</h3>
+            <ul className="space-y-4 text-sm">
               <li>
                 <Link
                   href="/"
-                  className="text-[var(--foreground-secondary)] hover:text-[var(--color-primary)] transition-colors"
+                  className="text-slate-400 hover:text-emerald-400 transition-colors inline-block transform hover:translate-x-1 duration-200"
                 >
                   記事一覧
                 </Link>
@@ -72,7 +74,7 @@ export default function Footer() {
               <li>
                 <Link
                   href="/"
-                  className="text-[var(--foreground-secondary)] hover:text-[var(--color-primary)] transition-colors"
+                  className="text-slate-400 hover:text-emerald-400 transition-colors inline-block transform hover:translate-x-1 duration-200"
                 >
                   人気記事
                 </Link>
@@ -80,7 +82,7 @@ export default function Footer() {
               <li>
                 <Link
                   href="/"
-                  className="text-[var(--foreground-secondary)] hover:text-[var(--color-primary)] transition-colors"
+                  className="text-slate-400 hover:text-emerald-400 transition-colors inline-block transform hover:translate-x-1 duration-200"
                 >
                   カテゴリー
                 </Link>
@@ -90,14 +92,14 @@ export default function Footer() {
 
           {/* リンク集2 */}
           <div>
-            <h3 className="font-semibold text-[var(--foreground)] mb-4">リンク</h3>
-            <ul className="space-y-2 text-sm">
+            <h3 className="font-bold text-slate-100 mb-6">リンク</h3>
+            <ul className="space-y-4 text-sm">
               <li>
                 <a
                   href="https://taskmateai.net"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-[var(--foreground-secondary)] hover:text-[var(--color-primary)] transition-colors"
+                  className="text-slate-400 hover:text-emerald-400 transition-colors inline-block transform hover:translate-x-1 duration-200"
                 >
                   TaskMateAI
                 </a>
@@ -107,7 +109,7 @@ export default function Footer() {
                   href="https://ikemen.ltd/contact/"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-[var(--foreground-secondary)] hover:text-[var(--color-primary)] transition-colors"
+                  className="text-slate-400 hover:text-emerald-400 transition-colors inline-block transform hover:translate-x-1 duration-200"
                 >
                   お問い合わせ
                 </a>
@@ -117,7 +119,7 @@ export default function Footer() {
                   href="https://taskmateai.net/privacy"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-[var(--foreground-secondary)] hover:text-[var(--color-primary)] transition-colors"
+                  className="text-slate-400 hover:text-emerald-400 transition-colors inline-block transform hover:translate-x-1 duration-200"
                 >
                   プライバシーポリシー
                 </a>
@@ -127,12 +129,12 @@ export default function Footer() {
         </div>
 
         {/* コピーライト */}
-        <div className="mt-12 pt-8 border-t border-[var(--border-color)]">
-          <div className="flex flex-col md:flex-row justify-between items-center text-sm text-[var(--foreground-secondary)]">
+        <div className="mt-16 pt-8 border-t border-slate-800">
+          <div className="flex flex-col md:flex-row justify-between items-center text-sm text-slate-500">
             <p>© {currentYear} TaskMateAI. All rights reserved.</p>
-            <p className="mt-2 md:mt-0">
+            <p className="mt-2 md:mt-0 flex items-center">
               Made with{' '}
-              <span className="text-red-500" aria-label="love">
+              <span className="text-emerald-500 mx-1 animate-pulse" aria-label="love">
                 ❤️
               </span>{' '}
               using Next.js & Tailwind CSS

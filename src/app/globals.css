@@ -3,599 +3,428 @@
 @tailwind utilities;
 
 /* ==========================================
-   緑系統一のカラーパレット - TaskMateAI
+   Premium Design System - TaskMateAI
    ========================================== */
 
 :root {
-  /* メインカラー: 緑系 */
-  --color-primary: #10b981; /* Emerald 500 */
-  --color-primary-dark: #059669; /* Emerald 600 */
-  --color-primary-light: #34d399; /* Emerald 400 */
-  --color-primary-lighter: #d1fae5; /* Emerald 100 */
+  /* Colors - Dark Tech Theme */
+  --color-primary: #10b981;
+  --color-primary-dark: #059669;
+  --color-primary-light: #34d399;
 
-  /* アクセントカラー: 深緑 */
-  --color-accent: #047857; /* Emerald 700 */
-  --color-accent-dark: #065f46; /* Emerald 800 */
+  --color-bg: #020617;
+  /* Slate 950 */
+  --color-bg-secondary: #0f172a;
+  /* Slate 900 */
 
-  /* 背景色 */
-  --color-bg: #ffffff;
-  --color-bg-secondary: #f0fdf4; /* Green 50 */
-  --color-bg-tertiary: #dcfce7; /* Green 100 */
-
-  /* テキストカラー */
-  --color-text: #171717;
-  --color-text-secondary: #525252;
-  --color-text-muted: #737373;
-
-  /* ボーダー */
-  --color-border: #e5e5e5;
-  --color-border-green: #a7f3d0; /* Emerald 200 */
+  --color-text: #f8fafc;
+  /* Slate 50 */
+  --color-text-secondary: #cbd5e1;
+  /* Slate 300 */
+  --color-text-muted: #94a3b8;
+  /* Slate 400 */
 }
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+/* Utility Classes */
+.text-gradient-light {
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-emerald-200 to-teal-100;
 }
 
-body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans JP", sans-serif;
-  line-height: 1.6;
-  color: var(--color-text);
-  background: var(--color-bg);
+.glass-panel {
+  @apply bg-slate-950/40 backdrop-blur-md border border-white/10 shadow-glass relative overflow-hidden;
 }
 
-/* ==========================================
-   Glassmorphism エフェクト
-   ========================================== */
+.glass-panel::before {
+  content: '';
+  @apply absolute inset-0 bg-gradient-to-br from-white/10 to-transparent pointer-events-none;
+}
 
 .glass-card {
-  background: rgba(16, 185, 129, 0.05);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  border: 1px solid rgba(16, 185, 129, 0.1);
-  border-radius: 16px;
-  box-shadow: 0 8px 32px 0 rgba(16, 185, 129, 0.1);
+  @apply bg-slate-900/40 backdrop-blur-md border border-white/10 shadow-lg transition-all duration-500 relative overflow-hidden;
 }
 
-.glass-card-hover {
-  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.glass-card-hover:hover {
-  background: rgba(16, 185, 129, 0.08);
-  border-color: rgba(16, 185, 129, 0.2);
-  box-shadow: 0 12px 48px 0 rgba(16, 185, 129, 0.15);
-  transform: translateY(-2px);
-}
-
-/* ==========================================
-   Neumorphism エフェクト
-   ========================================== */
-
-.neumorphic {
-  background: #f0fdf4;
-  box-shadow:
-    8px 8px 16px rgba(5, 150, 105, 0.1),
-    -8px -8px 16px rgba(255, 255, 255, 0.9);
-  border-radius: 20px;
-  transition: all 0.3s ease;
-}
-
-.neumorphic:hover {
-  box-shadow:
-    12px 12px 24px rgba(5, 150, 105, 0.12),
-    -12px -12px 24px rgba(255, 255, 255, 1);
-}
-
-.neumorphic-inset {
-  background: #f0fdf4;
-  box-shadow:
-    inset 6px 6px 12px rgba(5, 150, 105, 0.1),
-    inset -6px -6px 12px rgba(255, 255, 255, 0.9);
-  border-radius: 16px;
-}
-
-/* ==========================================
-   グラデーションエフェクト
-   ========================================== */
-
-.gradient-green {
-  background: linear-gradient(135deg, #10b981 0%, #059669 100%);
-}
-
-.gradient-green-light {
-  background: linear-gradient(135deg, #d1fae5 0%, #a7f3d0 100%);
-}
-
-.gradient-text {
-  background: linear-gradient(135deg, #10b981 0%, #047857 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-/* ==========================================
-   ボタンスタイル
-   ========================================== */
-
-.btn-primary {
-  background: linear-gradient(135deg, #10b981 0%, #059669 100%);
-  color: white;
-  padding: 0.75rem 1.5rem;
-  border-radius: 12px;
-  font-weight: 600;
-  border: none;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  box-shadow: 0 4px 16px rgba(16, 185, 129, 0.3);
-}
-
-.btn-primary:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 8px 24px rgba(16, 185, 129, 0.4);
-}
-
-.btn-outline {
-  background: transparent;
-  color: var(--color-primary);
-  padding: 0.75rem 1.5rem;
-  border-radius: 12px;
-  font-weight: 600;
-  border: 2px solid var(--color-primary);
-  cursor: pointer;
-  transition: all 0.3s ease;
-}
-
-.btn-outline:hover {
-  background: var(--color-primary);
-  color: white;
-  transform: translateY(-2px);
-  box-shadow: 0 8px 24px rgba(16, 185, 129, 0.3);
-}
-
-/* ==========================================
-   記事カードスタイル
-   ========================================== */
-
-.article-card {
-  background: white;
-  border-radius: 20px;
-  overflow: hidden;
-  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-  border: 1px solid var(--color-border);
-  position: relative;
-}
-
-.article-card::before {
+.glass-card::after {
   content: '';
-  position: absolute;
+  @apply absolute inset-0 bg-gradient-to-br from-emerald-500/10 via-transparent to-transparent opacity-0 transition-opacity duration-500;
+}
+
+.glass-card:hover {
+  @apply bg-slate-800/60 border-emerald-500/30 shadow-emerald-500/20 -translate-y-2;
+}
+
+.glass-card:hover::after {
+  @apply opacity-100;
+}
+
+.bg-grid-pattern {
+  background-size: 40px 40px;
+  background-image: linear-gradient(to right, rgba(255, 255, 255, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+}
+
+.bg-noise {
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='0.05'/%3E%3C/svg%3E");
+}
+
+/* Global Body Styles */
+body {
+  position: relative;
+  min-height: 100vh;
+  @apply bg-slate-950 text-slate-200;
+}
+
+/* Overlay for readability against tech background */
+body::before {
+  content: '';
+  position: fixed;
   top: 0;
   left: 0;
-  right: 0;
-  height: 4px;
-  background: linear-gradient(90deg, #10b981 0%, #059669 50%, #047857 100%);
-  transform: scaleX(0);
-  transform-origin: left;
-  transition: transform 0.4s ease;
-}
-
-.article-card:hover::before {
-  transform: scaleX(1);
-}
-
-.article-card:hover {
-  transform: translateY(-8px);
-  box-shadow: 0 20px 48px rgba(16, 185, 129, 0.15);
-  border-color: var(--color-border-green);
+  width: 100%;
+  height: 100%;
+  background: rgba(2, 6, 23, 0.85);
+  /* Dark overlay */
+  z-index: -1;
+  pointer-events: none;
 }
 
 /* ==========================================
-   記事コンテンツのスタイル
+   Markdown Content Styles - Dark Mode
    ========================================== */
 
 .markdown-content {
-  font-size: clamp(1rem, 1.05vw, 1.125rem);
-  line-height: 1.8;
-  color: var(--color-text-secondary);
+  @apply text-slate-300 leading-relaxed;
+  font-size: 1.0625rem;
 }
 
 .markdown-content h1 {
-  font-size: clamp(2rem, 4vw, 3rem);
-  font-weight: 800;
-  margin-top: 4rem;
-  margin-bottom: 1.5rem;
-  line-height: 1.1;
-  background: linear-gradient(135deg, #10b981 0%, #047857 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.markdown-content h1:first-child {
-  margin-top: 0;
+  @apply text-3xl md:text-4xl font-bold text-white mt-12 mb-6 tracking-tight;
 }
 
 .markdown-content h2 {
-  font-size: clamp(1.5rem, 3vw, 1.875rem);
-  font-weight: 700;
-  margin-top: 3rem;
-  margin-bottom: 1.25rem;
-  padding-bottom: 0.75rem;
-  border-bottom: 3px solid var(--color-primary);
-  color: var(--color-text);
-  position: relative;
+  @apply text-2xl md:text-3xl font-bold text-slate-100 mt-12 mb-6 pb-4 border-b border-slate-800 relative tracking-tight;
 }
 
 .markdown-content h2::after {
   content: '';
-  position: absolute;
-  bottom: -3px;
-  left: 0;
-  width: 60px;
-  height: 3px;
-  background: var(--color-accent);
-  border-radius: 2px;
+  @apply absolute bottom-[-1px] left-0 w-16 h-[2px] bg-emerald-500;
 }
 
 .markdown-content h3 {
-  font-size: clamp(1.25rem, 2.5vw, 1.5rem);
-  font-weight: 600;
-  margin-top: 2.5rem;
-  margin-bottom: 1rem;
-  color: var(--color-text);
-  padding-left: 1rem;
-  border-left: 4px solid var(--color-primary);
+  @apply text-xl md:text-2xl font-bold text-slate-200 mt-10 mb-4 flex items-center;
 }
 
-.markdown-content h4 {
-  font-size: clamp(1.125rem, 2vw, 1.25rem);
-  font-weight: 600;
-  margin-top: 2rem;
-  margin-bottom: 0.75rem;
-  color: var(--color-primary-dark);
+.markdown-content h3::before {
+  content: '';
+  @apply block w-1.5 h-6 bg-emerald-500 mr-3 rounded-full;
 }
 
 .markdown-content p {
-  margin-bottom: 1.5rem;
-  color: var(--color-text-secondary);
+  @apply mb-6 leading-8;
 }
 
 .markdown-content strong {
-  font-weight: 700;
-  color: var(--color-primary-dark);
-  background: linear-gradient(180deg, transparent 60%, #d1fae5 60%);
-  padding: 0 0.25rem;
+  @apply font-bold text-white bg-emerald-900/50 px-1 rounded;
 }
 
 .markdown-content a {
-  color: var(--color-primary);
-  text-decoration: none;
-  border-bottom: 2px solid var(--color-primary-lighter);
-  transition: all 0.2s ease;
-  font-weight: 600;
-}
-
-.markdown-content a:hover {
-  color: var(--color-accent);
-  border-bottom-color: var(--color-primary);
-  background: var(--color-primary-lighter);
+  @apply text-emerald-400 font-semibold border-b-2 border-emerald-900 transition-colors hover:text-emerald-300 hover:border-emerald-500 no-underline;
 }
 
 .markdown-content ul,
 .markdown-content ol {
-  margin-left: 2rem;
-  margin-bottom: 1.5rem;
-  color: var(--color-text-secondary);
+  @apply my-6 pl-6 space-y-2;
 }
 
 .markdown-content li {
-  margin-bottom: 0.75rem;
-  padding-left: 0.5rem;
-  line-height: 1.8;
+  @apply relative pl-2;
 }
 
-.markdown-content li::marker {
-  color: var(--color-primary);
-  font-weight: bold;
+.markdown-content ul li::before {
+  content: '';
+  @apply absolute left-[-1rem] top-[0.6rem] w-1.5 h-1.5 bg-emerald-400 rounded-full;
 }
 
 .markdown-content blockquote {
-  border-left: 4px solid var(--color-primary);
-  padding: 1.5rem;
-  margin: 2rem 0;
-  background: linear-gradient(90deg, #f0fdf4 0%, #ffffff 10%, #ffffff 100%);
-  border-radius: 0.75rem;
-  font-style: italic;
-  color: var(--color-text-secondary);
-  box-shadow: 0 4px 16px rgba(16, 185, 129, 0.08);
+  @apply border-l-4 border-emerald-500 bg-slate-900/50 p-6 my-8 rounded-r-xl italic text-slate-400 shadow-sm;
 }
 
 .markdown-content code {
-  background: var(--color-primary-lighter);
-  color: var(--color-accent-dark);
-  padding: 0.25rem 0.5rem;
-  border-radius: 0.375rem;
-  font-family: "SF Mono", "Consolas", "Monaco", monospace;
-  font-size: 0.9em;
-  font-weight: 600;
-  border: 1px solid var(--color-border-green);
+  @apply bg-slate-800 text-emerald-400 px-1.5 py-0.5 rounded text-sm font-mono font-semibold border border-slate-700;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ==========================================
+   Premium Design System - TaskMateAI
+   ========================================== */
+
+:root {
+  /* Colors - Dark Tech Theme */
+  --color-primary: #10b981;
+  --color-primary-dark: #059669;
+  --color-primary-light: #34d399;
+
+  --color-bg: #020617;
+  /* Slate 950 */
+  --color-bg-secondary: #0f172a;
+  /* Slate 900 */
+
+  --color-text: #f8fafc;
+  /* Slate 50 */
+  --color-text-secondary: #cbd5e1;
+  /* Slate 300 */
+  --color-text-muted: #94a3b8;
+  /* Slate 400 */
+}
+
+/* Utility Classes */
+.text-gradient-light {
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-emerald-200 to-teal-100;
+}
+
+.glass-panel {
+  @apply bg-slate-950/40 backdrop-blur-md border border-white/10 shadow-glass relative overflow-hidden;
+}
+
+.glass-panel::before {
+  content: '';
+  @apply absolute inset-0 bg-gradient-to-br from-white/10 to-transparent pointer-events-none;
+}
+
+.glass-card {
+  @apply bg-slate-900/40 backdrop-blur-md border border-white/10 shadow-lg transition-all duration-500 relative overflow-hidden;
+}
+
+.glass-card::after {
+  content: '';
+  @apply absolute inset-0 bg-gradient-to-br from-emerald-500/10 via-transparent to-transparent opacity-0 transition-opacity duration-500;
+}
+
+.glass-card:hover {
+  @apply bg-slate-800/60 border-emerald-500/30 shadow-emerald-500/20 -translate-y-2;
+}
+
+.glass-card:hover::after {
+  @apply opacity-100;
+}
+
+.bg-grid-pattern {
+  background-size: 40px 40px;
+  background-image: linear-gradient(to right, rgba(255, 255, 255, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+}
+
+.bg-noise {
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='0.05'/%3E%3C/svg%3E");
+}
+
+/* Global Body Styles */
+body {
+  position: relative;
+  min-height: 100vh;
+  @apply bg-slate-950 text-slate-200;
+}
+
+/* Overlay for readability against tech background */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(2, 6, 23, 0.85);
+  /* Dark overlay */
+  z-index: -1;
+  pointer-events: none;
+}
+
+/* ==========================================
+   Markdown Content Styles - Dark Mode
+   ========================================== */
+
+.markdown-content {
+  @apply text-slate-300 leading-relaxed;
+  font-size: 1.0625rem;
+}
+
+.markdown-content h1 {
+  @apply text-3xl md:text-4xl font-bold text-white mt-12 mb-6 tracking-tight;
+}
+
+.markdown-content h2 {
+  @apply text-2xl md:text-3xl font-bold text-slate-100 mt-12 mb-6 pb-4 border-b border-slate-800 relative tracking-tight;
+}
+
+.markdown-content h2::after {
+  content: '';
+  @apply absolute bottom-[-1px] left-0 w-16 h-[2px] bg-emerald-500;
+}
+
+.markdown-content h3 {
+  @apply text-xl md:text-2xl font-bold text-slate-200 mt-10 mb-4 flex items-center;
+}
+
+.markdown-content h3::before {
+  content: '';
+  @apply block w-1.5 h-6 bg-emerald-500 mr-3 rounded-full;
+}
+
+.markdown-content p {
+  @apply mb-6 leading-8;
+}
+
+.markdown-content strong {
+  @apply font-bold text-white bg-emerald-900/50 px-1 rounded;
+}
+
+.markdown-content a {
+  @apply text-emerald-400 font-semibold border-b-2 border-emerald-900 transition-colors hover:text-emerald-300 hover:border-emerald-500 no-underline;
+}
+
+.markdown-content ul,
+.markdown-content ol {
+  @apply my-6 pl-6 space-y-2;
+}
+
+.markdown-content li {
+  @apply relative pl-2;
+}
+
+.markdown-content ul li::before {
+  content: '';
+  @apply absolute left-[-1rem] top-[0.6rem] w-1.5 h-1.5 bg-emerald-400 rounded-full;
+}
+
+.markdown-content blockquote {
+  @apply border-l-4 border-emerald-500 bg-slate-900/50 p-6 my-8 rounded-r-xl italic text-slate-400 shadow-sm;
+}
+
+.markdown-content code {
+  @apply bg-slate-800 text-emerald-400 px-1.5 py-0.5 rounded text-sm font-mono font-semibold border border-slate-700;
 }
 
 .markdown-content pre {
-  background: linear-gradient(135deg, #064e3b 0%, #065f46 100%);
-  padding: 1.5rem;
-  border-radius: 0.75rem;
-  overflow-x: auto;
-  margin: 2rem 0;
-  box-shadow: 0 8px 24px rgba(16, 185, 129, 0.15);
+  @apply bg-slate-950 text-slate-50 p-6 rounded-xl overflow-x-auto my-8 shadow-lg border border-slate-800;
 }
 
 .markdown-content pre code {
-  background: transparent;
-  padding: 0;
-  color: #d1fae5;
-  font-size: 0.875rem;
-  line-height: 1.7;
-  font-weight: 400;
-  border: none;
+  @apply bg-transparent text-inherit p-0 border-none font-normal;
 }
 
 .markdown-content img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 1rem;
-  margin: 2.5rem 0;
-  box-shadow: 0 8px 24px rgba(16, 185, 129, 0.1);
+  @apply rounded-xl shadow-lg my-10 w-full object-cover border border-slate-800;
 }
 
+/* Table Styles */
 .markdown-content table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 2rem 0;
-  border-radius: 0.75rem;
-  overflow: hidden;
-  box-shadow: 0 4px 16px rgba(16, 185, 129, 0.08);
+  @apply w-full border-collapse my-8 rounded-lg overflow-hidden shadow-sm border border-slate-800;
 }
 
 .markdown-content th {
-  padding: 1rem 1.25rem;
-  text-align: left;
-  font-weight: 600;
-  background: linear-gradient(135deg, #10b981 0%, #059669 100%);
-  color: white;
-  font-size: 0.875rem;
+  @apply bg-slate-900 text-slate-200 font-bold p-4 text-left border-b border-slate-800;
 }
 
 .markdown-content td {
-  padding: 1rem 1.25rem;
-  border-bottom: 1px solid var(--color-border);
-  color: var(--color-text-secondary);
+  @apply p-4 border-b border-slate-800 text-slate-400;
 }
 
-.markdown-content tbody tr:hover {
-  background-color: var(--color-bg-secondary);
-}
-
-/* ==========================================
-   アニメーション
-   ========================================== */
-
-@keyframes fadeInUp {
-  from {
-    opacity: 0;
-    transform: translateY(20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-.animate-fade-in-up {
-  animation: fadeInUp 0.6s ease-out;
-}
-
-@keyframes pulse-green {
-  0%, 100% {
-    box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.4);
-  }
-  50% {
-    box-shadow: 0 0 0 10px rgba(16, 185, 129, 0);
-  }
-}
-
-.pulse-green {
-  animation: pulse-green 2s infinite;
+.markdown-content tr:last-child td {
+  @apply border-b-0;
 }
 
 /* ==========================================
-   レスポンシブ - モバイル完全最適化
+   Markdown Content Styles - Light Mode (For Article Pages)
    ========================================== */
 
-@media (max-width: 640px) {
-  /* 全体のコンテナ */
-  .markdown-content {
-    font-size: 1rem;
-    padding: 0;
-    line-height: 1.75;
-  }
-
-  /* 見出し - 自然なサイズとスペーシング */
-  .markdown-content h1 {
-    font-size: 1.75rem;
-    margin-top: 2.5rem;
-    margin-bottom: 1.25rem;
-    line-height: 1.3;
-    padding: 0 0.5rem;
-  }
-
-  .markdown-content h1:first-child {
-    margin-top: 0;
-  }
-
-  .markdown-content h2 {
-    font-size: 1.5rem;
-    margin-top: 2.5rem;
-    margin-bottom: 1rem;
-    line-height: 1.4;
-    padding-bottom: 0.5rem;
-  }
-
-  .markdown-content h3 {
-    font-size: 1.25rem;
-    margin-top: 2rem;
-    margin-bottom: 0.875rem;
-    padding-left: 0.75rem;
-    line-height: 1.5;
-  }
-
-  .markdown-content h4 {
-    font-size: 1.125rem;
-    margin-top: 1.75rem;
-    margin-bottom: 0.75rem;
-  }
-
-  /* 段落 - 読みやすい行間 */
-  .markdown-content p {
-    margin-bottom: 1.5rem;
-    line-height: 1.8;
-  }
-
-  /* 太字 - より自然なスタイル */
-  .markdown-content strong {
-    font-weight: 700;
-    padding: 0 0.125rem;
-  }
-
-  /* リスト - 適切な余白 */
-  .markdown-content ul,
-  .markdown-content ol {
-    margin-left: 1.5rem;
-    margin-bottom: 1.5rem;
-    padding-left: 0.5rem;
-  }
-
-  .markdown-content li {
-    margin-bottom: 0.75rem;
-    padding-left: 0.25rem;
-    line-height: 1.75;
-  }
-
-  /* 引用 - コンパクトに */
-  .markdown-content blockquote {
-    padding: 1rem;
-    margin: 1.75rem 0;
-    border-radius: 0.5rem;
-  }
-
-  /* コードブロック - 見やすく */
-  .markdown-content pre {
-    padding: 1rem;
-    font-size: 0.875rem;
-    margin: 1.75rem 0;
-    border-radius: 0.5rem;
-    overflow-x: auto;
-  }
-
-  .markdown-content code {
-    font-size: 0.875em;
-    padding: 0.2rem 0.4rem;
-  }
-
-  /* 画像 - モバイル最適化 */
-  .markdown-content img {
-    margin: 2rem 0;
-    border-radius: 0.75rem;
-  }
-
-  /* テーブル - スクロール可能に */
-  .markdown-content table {
-    display: block;
-    overflow-x: auto;
-    margin: 1.75rem 0;
-  }
-
-  .markdown-content th,
-  .markdown-content td {
-    padding: 0.75rem 1rem;
-    font-size: 0.9rem;
-  }
-
-  /* 区切り線 - 自然な余白 */
-  .markdown-content hr {
-    margin: 2.5rem 0;
-  }
+.markdown-content-light {
+  @apply text-slate-700 leading-relaxed;
+  font-size: 1.0625rem;
 }
 
-/* タブレット用の調整 */
-@media (min-width: 641px) and (max-width: 1024px) {
-  .markdown-content {
-    font-size: 1.0625rem;
-    line-height: 1.75;
-  }
-
-  .markdown-content h1 {
-    font-size: 2.25rem;
-  }
-
-  .markdown-content h2 {
-    font-size: 1.75rem;
-  }
-
-  .markdown-content h3 {
-    font-size: 1.375rem;
-  }
+.markdown-content-light h1 {
+  @apply text-3xl md:text-4xl font-bold text-slate-900 mt-12 mb-6 tracking-tight;
 }
 
-/* ==========================================
-   ユーティリティクラス
-   ========================================== */
-
-.container-green {
-  background: var(--color-bg-secondary);
-  border-radius: 24px;
-  padding: 2rem;
-  box-shadow: 0 4px 16px rgba(16, 185, 129, 0.08);
+.markdown-content-light h2 {
+  @apply text-2xl md:text-3xl font-bold text-slate-800 mt-12 mb-6 pb-4 border-b border-slate-200 relative tracking-tight;
 }
 
-.badge-green {
-  display: inline-flex;
-  align-items: center;
-  padding: 0.375rem 0.875rem;
-  background: var(--color-primary-lighter);
-  color: var(--color-accent-dark);
-  border-radius: 9999px;
-  font-size: 0.875rem;
-  font-weight: 600;
-  border: 1px solid var(--color-border-green);
+.markdown-content-light h2::after {
+  content: '';
+  @apply absolute bottom-[-1px] left-0 w-16 h-[2px] bg-emerald-500;
 }
 
-.divider-green {
-  height: 1px;
-  background: linear-gradient(90deg, transparent, var(--color-primary), transparent);
-  margin: 2rem 0;
+.markdown-content-light h3 {
+  @apply text-xl md:text-2xl font-bold text-slate-800 mt-10 mb-4 flex items-center;
 }
 
-/* ==========================================
-   カラフルテキスト装飾（スクリーンショットスタイル）
-   ========================================== */
-
-/* ティール色のテキスト（説明項目用） */
-.markdown-content .text-teal {
-  color: #0d9488;
-  font-weight: 700;
+.markdown-content-light h3::before {
+  content: '';
+  @apply block w-1.5 h-6 bg-emerald-500 mr-3 rounded-full;
 }
 
-/* グリーン色のテキスト（成果・結果用） */
-.markdown-content .text-success {
-  color: #059669;
-  font-weight: 700;
+.markdown-content-light p {
+  @apply mb-6 leading-8;
 }
 
-/* 下線付きテキスト */
-.markdown-content .text-underline {
-  text-decoration: underline;
-  text-underline-offset: 0.2em;
-  text-decoration-thickness: 2px;
+.markdown-content-light strong {
+  @apply font-bold text-slate-900 bg-emerald-100 px-1 rounded;
+}
+
+.markdown-content-light a {
+  @apply text-emerald-600 font-semibold border-b-2 border-emerald-200 transition-colors hover:text-emerald-500 hover:border-emerald-500 no-underline;
+}
+
+.markdown-content-light ul,
+.markdown-content-light ol {
+  @apply my-6 pl-6 space-y-2;
+}
+
+.markdown-content-light li {
+  @apply relative pl-2;
+}
+
+.markdown-content-light ul li::before {
+  content: '';
+  @apply absolute left-[-1rem] top-[0.6rem] w-1.5 h-1.5 bg-emerald-500 rounded-full;
+}
+
+.markdown-content-light blockquote {
+  @apply border-l-4 border-emerald-500 bg-slate-100 p-6 my-8 rounded-r-xl italic text-slate-600 shadow-sm;
+}
+
+.markdown-content-light code {
+  @apply bg-slate-100 text-emerald-600 px-1.5 py-0.5 rounded text-sm font-mono font-semibold border border-slate-200;
+}
+
+.markdown-content-light pre {
+  @apply bg-slate-900 text-slate-50 p-6 rounded-xl overflow-x-auto my-8 shadow-lg border border-slate-800;
+}
+
+.markdown-content-light pre code {
+  @apply bg-transparent text-inherit p-0 border-none font-normal;
+}
+
+.markdown-content-light img {
+  @apply rounded-xl shadow-lg my-10 w-full object-cover border border-slate-200;
+}
+
+/* Table Styles - Light */
+.markdown-content-light table {
+  @apply w-full border-collapse my-8 rounded-lg overflow-hidden shadow-sm border border-slate-200;
+}
+
+.markdown-content-light th {
+  @apply bg-slate-100 text-slate-700 font-bold p-4 text-left border-b border-slate-200;
+}
+
+.markdown-content-light td {
+  @apply p-4 border-b border-slate-200 text-slate-600;
+}
+
+.markdown-content-light tr:last-child td {
+  @apply border-b-0;
 }
